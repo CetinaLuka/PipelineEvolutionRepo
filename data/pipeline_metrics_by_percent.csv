@@ -1,0 +1,1354 @@
+full_name,commit_hash,target_percentage,pipeline_exists,yaml_files,lines_of_code,comments,steps,conditionals,jobs,global_env_vars,job_specific_env_vars,secrets,jobs_excluded,jobs_allowed_to_fail,unit_test_count,integration_test_count,any_test_count,build,analyze,deploy,release
+BlueMap-Minecraft/BlueMap,49ae2cf08fa85bc9cfe75e152b9aba31d7dac692,0,False,,,,,,,,,,,,,,,,,,
+BlueMap-Minecraft/BlueMap,e30b94efe83196101816764cb59ba27fbac517d5,10,True,gradle.yml,21,0,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+BlueMap-Minecraft/BlueMap,5784491feb3e5da1c3b488ec1597227c9731bd5c,20,True,gradle.yml,19,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+BlueMap-Minecraft/BlueMap,defd26a195d7d7ead24722c7aa2a1fd3beafcbac,30,True,gradle.yml,19,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+BlueMap-Minecraft/BlueMap,52cb6808032e8fb563f5374b1e620b6630e94dfc,40,True,gradle.yml,19,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+BlueMap-Minecraft/BlueMap,729de9c20e775c444a2818b7bcaaa8479b2f6cbb,50,True,gradle.yml,27,0,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+BlueMap-Minecraft/BlueMap,03f58c7739b4b9f7c9f1951bd161ea3fa33dc8b4,60,True,gradle.yml,27,0,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+BlueMap-Minecraft/BlueMap,11306ec9cf622fb4be95e1ed4450ee00f4b6aa1d,70,True,"build.yml, publish.yml",109,4,4,0,1,0,0,3,0,0,1,0,1,1,0,0,1
+BlueMap-Minecraft/BlueMap,5933d43b62d316a07f96e501fc7e898f34d13d02,80,True,"build.yml, publish.yml",107,4,4,0,1,0,0,3,0,0,1,0,1,1,0,0,1
+BlueMap-Minecraft/BlueMap,24a6b2f3705c26aad1d5b8f80fd3741e72dee8e4,90,True,"build.yml, publish.yml",103,4,3,0,1,0,0,3,0,0,1,0,1,1,0,0,1
+BlueMap-Minecraft/BlueMap,ee3ab6ff9a1ad7e7875c0cef4643d1e2bcff69af,100,True,"build.yml, publish.yml, translation-checker.yml",126,4,4,0,1,0,0,3,0,0,1,0,1,0,0,1,0
+neo4j/graph-data-science,6e4ee1333a204c0147ce3fc1b4aa41006cfd9da2,0,False,,,,,,,,,,,,,,,,,,
+neo4j/graph-data-science,b2de6510ed99453f6734870b3a14a2f9b1020aae,10,False,,,,,,,,,,,,,,,,,,
+neo4j/graph-data-science,872d54c351f67014247e66db2b375a48487a41d3,20,True,gradle_cipr.yml,17,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+neo4j/graph-data-science,8c86ccb913a8bea83140c3b6f6e8603ea3220ec5,30,True,gradle_cipr.yml,17,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+neo4j/graph-data-science,1b8845fa4e7f9c9df0c8ccc3026258a6f669093b,40,True,gradle_cipr.yml,17,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+neo4j/graph-data-science,bf5498bccd7e84760b46222e11245e4c8fb8c89a,50,True,gradle_cipr.yml,18,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+neo4j/graph-data-science,a6d432e4ee5d82a2693898683861700a0fe1ceb1,60,True,gradle_cipr.yml,18,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+neo4j/graph-data-science,51d9648b05590612cbb9acf9d10ed4474a29f008,70,True,gradle_cipr.yml,23,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+neo4j/graph-data-science,ce39a1cafe3255c756bd1ebc7a9fce71e1532201,80,True,gradle_cipr.yml,23,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+neo4j/graph-data-science,2b2ad43094fc71dd776a211e18ed48f8d14c1bec,90,True,gradle_cipr.yml,23,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+neo4j/graph-data-science,1d95f1512c106dc2a2536364ff4b491cbb4e789d,100,True,gradle_cipr.yml,23,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+WeBankFinTech/DataSphereStudio,a9c4c7c6e6ff84106bcb71ae5b15ffa1c1a45dfe,0,False,,,,,,,,,,,,,,,,,,
+WeBankFinTech/DataSphereStudio,e611bed60941ec6270153b563ed38971f9ee748a,10,False,,,,,,,,,,,,,,,,,,
+WeBankFinTech/DataSphereStudio,8cc4d5bf688f7e8045fa4eecdcfcc1746cc0a44a,20,False,,,,,,,,,,,,,,,,,,
+WeBankFinTech/DataSphereStudio,833bc59a59b70ff2544492e32aeb45414cb7bf2f,30,False,,,,,,,,,,,,,,,,,,
+WeBankFinTech/DataSphereStudio,f5ba26e88f69e5c7f8e5bc96820d6e9d919bade0,40,False,,,,,,,,,,,,,,,,,,
+WeBankFinTech/DataSphereStudio,08ab44b7aecc57511ec6e52c6ca7c7ad5291f1ca,50,False,,,,,,,,,,,,,,,,,,
+WeBankFinTech/DataSphereStudio,54a51296fe0e956e5da97378586648a0f76c6311,60,True,"build.yml, check_license.yml",94,37,5,0,1,0,0,0,0,0,1,0,1,1,1,0,0
+WeBankFinTech/DataSphereStudio,5b3f489539e79092a05904985c2ca51e2356728d,70,True,"build.yml, check_license.yml",95,37,5,0,1,0,0,0,0,0,1,0,1,1,1,0,0
+WeBankFinTech/DataSphereStudio,9d87068c51102ed7d2185a759b2f242c9b885aa1,80,True,"build.yml, check_license.yml, dead-link-checker.yml",113,37,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+WeBankFinTech/DataSphereStudio,218db366ac94f2a34e318d178537a4cc5906007f,90,True,"build.yml, check_license.yml, dead-link-checker.yml",113,37,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+WeBankFinTech/DataSphereStudio,916ca1faa3281fee2db0480bd6aef8f4c9523f9c,100,True,"build.yml, check_license.yml, dead-link-checker.yml",113,37,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+provectus/kafka-ui,2219447ff6e2fa25e8cc1f1d2ec9712ed5bf960a,0,False,,,,,,,,,,,,,,,,,,
+provectus/kafka-ui,e2918b41ca928283339f256e552b0643e501bc92,10,False,,,,,,,,,,,,,,,,,,
+provectus/kafka-ui,7e259c8528a06e2b9071f8943804e8dd24b1fdfd,20,False,,,,,,,,,,,,,,,,,,
+provectus/kafka-ui,9f138838adc41ebd61d603dfb90b969814546442,30,False,,,,,,,,,,,,,,,,,,
+provectus/kafka-ui,723d552c2363a2388a7e418292b30a668db260a6,40,True,"backend.yml, codeql-analysis.yml, frontend.yaml, master.yaml, pr-checks.yaml, release.yaml",430,48,0,6,0,0,0,15,0,0,1,1,1,0,0,0,0
+provectus/kafka-ui,cfa4e1150605b522b334fa5f3c1faed8a849a24d,50,True,"backend.yml, codeql-analysis.yml, e2e-checks.yaml, frontend.yaml, master.yaml, pr-checks.yaml, release.yaml",483,49,0,8,0,0,0,17,0,0,1,1,1,0,0,0,0
+provectus/kafka-ui,c28ee0f08b24db31f19d7ab239ae140d326e2b2f,60,True,"aws_publisher.yaml, backend.yml, block_merge.yml, branch-deploy.yml, branch-remove.yml, codeql-analysis.yml, cve.yaml, documentation.yaml, e2e-checks.yaml, frontend.yaml, helm.yaml, master.yaml, pr-checks.yaml, release.yaml, release_drafter.yml, separate_env_public_create.yml, separate_env_public_remove.yml, stale.yaml, terraform-deploy.yml, triage_issues.yml, triage_prs.yml, welcome-first-time-contributors.yml, workflow_linter.yaml",987,53,3,11,1,0,0,38,0,0,1,1,1,1,0,0,0
+provectus/kafka-ui,1c0b297a595a8f6e38a813cbdffd46b879220465,70,True,"aws_publisher.yaml, backend.yml, block_merge.yml, branch-deploy.yml, branch-remove.yml, build-public-image.yml, codeql-analysis.yml, cve.yaml, delete-public-image.yml, documentation.yaml, e2e-checks.yaml, frontend.yaml, helm.yaml, master.yaml, pr-checks.yaml, release.yaml, release_drafter.yml, separate_env_public_create.yml, separate_env_public_remove.yml, stale.yaml, terraform-deploy.yml, triage_issues.yml, triage_prs.yml, welcome-first-time-contributors.yml, workflow_linter.yaml",1115,55,3,14,1,0,0,44,0,0,1,1,1,1,0,0,0
+provectus/kafka-ui,c0598a99ed259082c888d59dd4c39eb16b7c7f94,80,True,"aws_publisher.yaml, backend.yml, block_merge.yml, branch-deploy.yml, branch-remove.yml, build-public-image.yml, codeql-analysis.yml, create-branch-for-helm.yaml, cve.yaml, delete-public-image.yml, documentation.yaml, e2e-checks.yaml, frontend.yaml, helm.yaml, master.yaml, pr-checks.yaml, release-helm.yaml, release-serde-api.yaml, release.yaml, release_drafter.yml, separate_env_public_create.yml, separate_env_public_remove.yml, stale.yaml, terraform-deploy.yml, triage_issues.yml, triage_prs.yml, welcome-first-time-contributors.yml, workflow_linter.yaml",1227,58,3,14,1,0,0,53,0,0,1,1,1,1,0,0,0
+provectus/kafka-ui,c813e74609a68225880f782a8eb0f975f37b44ee,90,True,"aws_publisher.yaml, backend.yml, block_merge.yml, branch-deploy.yml, branch-remove.yml, build-public-image.yml, codeql-analysis.yml, create-branch-for-helm.yaml, cve.yaml, delete-public-image.yml, documentation.yaml, e2e-automation.yml, e2e-checks.yaml, e2e-manual.yml, e2e-weekly.yml, frontend.yaml, helm.yaml, master.yaml, pr-checks.yaml, release-helm.yaml, release-serde-api.yaml, release.yaml, release_drafter.yml, separate_env_public_create.yml, separate_env_public_remove.yml, stale.yaml, terraform-deploy.yml, triage_issues.yml, triage_prs.yml, welcome-first-time-contributors.yml, workflow_linter.yaml",1446,60,3,22,1,0,0,60,0,0,1,1,1,1,0,0,0
+provectus/kafka-ui,53a6553765a806eda9905c43bfcfe09da6812035,100,True,"aws_publisher.yaml, backend.yml, block_merge.yml, branch-deploy.yml, branch-remove.yml, build-public-image.yml, codeql-analysis.yml, cve.yaml, delete-public-image.yml, documentation.yaml, e2e-automation.yml, e2e-checks.yaml, e2e-manual.yml, e2e-weekly.yml, frontend.yaml, master.yaml, pr-checks.yaml, release-serde-api.yaml, release.yaml, release_drafter.yml, separate_env_public_create.yml, separate_env_public_remove.yml, stale.yaml, terraform-deploy.yml, triage_issues.yml, triage_prs.yml, welcome-first-time-contributors.yml, workflow_linter.yaml",1364,54,3,22,1,0,0,61,0,0,1,1,1,1,0,0,0
+qa-guru/allure-notifications,991fec66975566b15c6202f7a4168b03cf2e238a,0,False,,,,,,,,,,,,,,,,,,
+qa-guru/allure-notifications,fa551025ebaab76287338999d39763e51424aa74,10,False,,,,,,,,,,,,,,,,,,
+qa-guru/allure-notifications,d2f282bbfc23f134a65c7d500d8ddd98936d84f5,20,False,,,,,,,,,,,,,,,,,,
+qa-guru/allure-notifications,f76c5b97c79bb810205374e4bc22167b81714fe0,30,True,"manual_build.yml, release.yml",145,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+qa-guru/allure-notifications,3e00b4d13870fd31337c333468c8531db2ef7f6b,40,True,manual_build.yml,76,0,12,0,1,0,0,5,0,0,0,0,0,1,0,1,1
+qa-guru/allure-notifications,c0c2766d71fcd1ed8a1f7559f72e53c4c7415fc6,50,True,manual_build.yml,76,0,12,0,1,0,0,5,0,0,0,0,0,1,0,1,1
+qa-guru/allure-notifications,be33480dc92ecad609f4c0e5506b4595ea1bb074,60,True,manual_build.yml,76,0,12,0,1,0,0,5,0,0,0,0,0,1,0,1,1
+qa-guru/allure-notifications,d7ba5046913eb9e12b95b651172467f14ccdec38,70,True,"build.yml, manual_build.yml",99,0,11,0,1,0,0,5,0,0,0,0,0,1,0,1,1
+qa-guru/allure-notifications,dfda863ef362e021064eddd1e014eaa51eefee19,80,True,"build.yml, manual_build.yml",99,0,11,0,1,0,0,5,0,0,0,0,0,1,0,1,1
+qa-guru/allure-notifications,421e907d9a4916ad2942fae589a45c3e71e93ecc,90,True,"build.yml, manual_build.yml",99,0,11,0,1,0,0,5,0,0,0,0,0,1,0,1,1
+qa-guru/allure-notifications,88388b44bd90fbea1654c896897f144f3fa6a17c,100,True,"build.yml, manual_build.yml",101,0,11,0,1,0,0,5,0,0,0,0,0,1,0,1,1
+alibaba/alibaba-rsocket-broker,069a35c4f1eb5bfee8e48b507eedb093f4e48d46,0,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,c9cb73e66454a29cac4eb863fe873cb5e8ee627f,10,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,1d73692043c85f3ed5b37d9507a142ccfb19c574,20,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,827477fbdcb57ef764f3124bda982a8393688516,30,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,c8160a043081c0f98d0c2aa5d14537a7bf322981,40,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,3da8d92424e99dbfd4b958a0c681499842e912c8,50,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,421209c796768ea92d40fd0b7fd7308caec58444,60,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,05c8551525229fc89e7fe9d4d2749bd8e1486c86,70,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,a44669e2ff61b754ebc9dceaf622b67b3268c57d,80,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,050467d50bf9127274b2d835ef5cc5bbb8bd19df,90,False,,,,,,,,,,,,,,,,,,
+alibaba/alibaba-rsocket-broker,04370b6c85c8526cbc05d650ac8e1a9b0b055d02,100,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,d9078c9578bb0e7db8e9bfe2cef73c81b9560232,0,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,010d1dff9873e9c8b22b7fe94ddfea6f2cb7e704,10,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,3cc992f7dd84846a83595f0f835e2e2c67c16832,20,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,0e792d05b04b1802bd274cf9f2b62d823ddc54d4,30,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,e5a975678fc5bb9cc9cbeb1fa0c07e6b35c517e4,40,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,1cdbd55c6d06bd5dff650206bc2c6856f2437a5d,50,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,bd814e2d784a75bbdbfe5446d973dec6ab040576,60,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,ea250f940f467a8596a368d2b24ba8f22392fc12,70,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,df0a2eaea5042b72dc5045c8bf0f6d7c72d36593,80,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,571cf3f8b95ec53491f00c389d6d7d4d336903a1,90,False,,,,,,,,,,,,,,,,,,
+adlered/bolo-solo,d4102335370b9ba09bb7834d943e611a5629d8e4,100,True,docker.yml,61,7,8,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+GeyserMC/Floodgate,314c63aabcfd4b1123ee77080a87d662e250598a,0,False,,,,,,,,,,,,,,,,,,
+GeyserMC/Floodgate,38a67ee85974dfe30b21ce32fada14cd4c2c9c1a,10,False,,,,,,,,,,,,,,,,,,
+GeyserMC/Floodgate,1125c0a24dcefb1949d40220665a608855f867c4,20,True,pullrequest.yml,37,0,7,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+GeyserMC/Floodgate,36d9a9c27fb59ccbcd6caca29f98cbdf002adfd6,30,True,pullrequest.yml,37,0,7,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+GeyserMC/Floodgate,34a793f41ff9aee1117c41a0ca416cb3e1bdf164,40,True,pullrequest.yml,37,0,7,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+GeyserMC/Floodgate,cd02009dd447fe2443ff394ab1d8d465d6ed74f8,50,True,pullrequest.yml,37,0,7,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+GeyserMC/Floodgate,b6a7087dc74f96193e9510813427986054595a0b,60,True,pullrequest.yml,37,0,7,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+GeyserMC/Floodgate,e6bf250a1dd126e6d8d4c9f5fa113ff99e2907a4,70,True,pullrequest.yml,33,0,6,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+GeyserMC/Floodgate,aa7e0a1102a4f7e9530a3046c872d5ab39b5b573,80,True,pullrequest.yml,33,0,6,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+GeyserMC/Floodgate,da97a0f073cab5b0409ea12f2a1195a998fa7896,90,True,"build.yml, pullrequest.yml",57,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,0
+GeyserMC/Floodgate,227858930d98dc8e89054b38edebc3b432c0a5eb,100,True,"build.yml, pullrequest.yml",90,7,6,6,1,0,0,4,0,0,0,0,0,1,0,0,0
+CaffeineMC/lithium-fabric,b5989c8f01f4140c3c51c4c2edbaee6e1ef2fd56,0,False,,,,,,,,,,,,,,,,,,
+CaffeineMC/lithium-fabric,f3430ab69845797b8c7a94efb6936b9d160306c8,10,False,,,,,,,,,,,,,,,,,,
+CaffeineMC/lithium-fabric,6608447a6e140340ed01437fc18b22a2994c085d,20,True,"gradle.yml, publish.yml",45,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/lithium-fabric,5e5d6e141a1f7b332d366a5e7ca7ac741102e61b,30,True,"gradle.yml, publish.yml",45,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/lithium-fabric,e1cee7eca44f2de18abb1755919ec70d6e134c55,40,True,"gradle.yml, publish.yml",48,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/lithium-fabric,13ddb3afc3f592b793bd6f4f32425dc7a438d8fa,50,True,"gradle.yml, publish.yml",50,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/lithium-fabric,b45403078628f540a7136d7d88723bfd6286b784,60,True,"gradle.yml, publish.yml",50,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/lithium-fabric,fdd9c6fc0f7331c7dcc4ec6315fbb5eaa047e881,70,True,"gradle.yml, publish.yml, pull_request.yml",69,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/lithium-fabric,bc7fa46b3e3bc9ac4896e54f953b506e87d88da1,80,True,"gradle.yml, publish.yml, pull_request.yml",69,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/lithium-fabric,8d4c775360e1c8f283f3c4b09cabf3eeb4387d20,90,True,"gradle.yml, publish.yml, pull_request.yml",69,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/lithium-fabric,740ffc7a77894c4b3e394ffca0e43e8594e3e364,100,True,"gradle.yml, publish.yml, pull_request.yml",69,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+88250/symphony,68aea7ff93b29ef90f2ae47a891372cf517f218e,0,False,,,,,,,,,,,,,,,,,,
+88250/symphony,1b697dcf2db4ce46439a998a032c69ea4875c493,10,False,,,,,,,,,,,,,,,,,,
+88250/symphony,d6f947d141b8f6ac33285d557eb276bfafab9897,20,True,dockerimage.yml,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+88250/symphony,340ca9171a9dae18ea72f28c3b66095e72de988d,30,True,dockerimage.yml,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+88250/symphony,7c2366fa1c04e9587deec6669cea1c8db647a681,40,True,dockerimage.yml,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+88250/symphony,50fe5597c1c9d6f165b378225ee73ffbd070db50,50,True,dockerimage.yml,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+88250/symphony,9369ea9ed24aca0bd9527698efb53acfc76cbfa5,60,True,dockerimage.yml,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+88250/symphony,9643aecddacdcf813623550a69aef488a6b3c61a,70,True,dockerimage.yml,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+88250/symphony,20d0ae28b9bea9111d0da7761f2751c9db457afe,80,True,dockerimage.yml,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+88250/symphony,5dac6f5cdc5e742aa835107234920cfa0c6d9dba,90,True,dockerimage.yml,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+88250/symphony,5dac6f5cdc5e742aa835107234920cfa0c6d9dba,100,True,Loaded from cache,15,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+apache/flink-statefun,00019786dd257ab091744bed9f6c5f988b5e8df2,0,False,,,,,,,,,,,,,,,,,,
+apache/flink-statefun,5ffa36ed9c1aca40109e9cf13c4a82b4605b3657,10,False,,,,,,,,,,,,,,,,,,
+apache/flink-statefun,9c43dc9c7fe57f69668163502d231a0ed63ecde7,20,False,,,,,,,,,,,,,,,,,,
+apache/flink-statefun,5ed356294323ef99ff4963af4e20482ccc4fe7d8,30,True,java8-build.yml,13,0,3,0,1,0,0,0,0,0,1,1,1,1,0,0,0
+apache/flink-statefun,c67fded4b2df25931162398dbfc6349ee665bd66,40,False,,,,,,,,,,,,,,,,,,
+apache/flink-statefun,24da73beb6d38d93c007c1c541ef922c1de60c43,50,True,java8-build.yml,13,0,3,0,1,0,0,0,0,0,1,1,1,1,0,0,0
+apache/flink-statefun,7b51c3e7efb8bccd91de50d4535661b94837d066,60,True,"doc-check.yml, java8-build.yml",21,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+apache/flink-statefun,b232879fa848f55332213f48662e95d3f8928e7d,70,True,"doc-check.yml, java8-build.yml",21,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+apache/flink-statefun,461cdde1b92c8f285e425c461aebff162366fc64,80,True,"doc-check.yml, java8-build.yml",21,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+apache/flink-statefun,fe3c266fa9f2105efd090f44e36bb4eb4d179ab3,90,True,"doc-check.yml, java8-build.yml",21,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+apache/flink-statefun,38f5518f26f96387f0c266531b6ef2c3fd0df729,100,True,"doc-check.yml, java8-build.yml",21,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+MalitsPlus/ShizuruNotes,e82119684907fbe2174621606d0bd07502c83b84,0,False,,,,,,,,,,,,,,,,,,
+MalitsPlus/ShizuruNotes,05c4cfe7f4eb542ea7f27830776bd916f81d581a,10,False,,,,,,,,,,,,,,,,,,
+MalitsPlus/ShizuruNotes,e9b29a8d5d7daf45ec03e1ece22f09bd2b7857ea,20,False,,,,,,,,,,,,,,,,,,
+MalitsPlus/ShizuruNotes,48a0b6ad0a9692a072eb59bfdbffbcf3447c96f4,30,False,,,,,,,,,,,,,,,,,,
+MalitsPlus/ShizuruNotes,304acaed7072d781364f843fe0f7dd7cc6dbbe78,40,False,,,,,,,,,,,,,,,,,,
+MalitsPlus/ShizuruNotes,e5409f5dc172b5dd89e07af86020418b233ca54d,50,False,,,,,,,,,,,,,,,,,,
+MalitsPlus/ShizuruNotes,9202525c49eb765e57dd60a7ad5213e19cad00a4,60,False,,,,,,,,,,,,,,,,,,
+MalitsPlus/ShizuruNotes,a402b2d49851429b2ee610737950ae02f0cdf2d2,70,True,android.yml,69,6,9,0,1,0,0,6,0,0,0,0,0,1,0,1,1
+MalitsPlus/ShizuruNotes,4896e521133ba9e9ed95f42bf1740ae5e0af9af8,80,True,android.yml,69,6,9,0,1,0,0,6,0,0,0,0,0,1,0,1,1
+MalitsPlus/ShizuruNotes,5cfcc1c53675f5b4105fd17c9f52d8318fb5f343,90,True,android.yml,69,6,9,0,1,0,0,6,0,0,0,0,0,1,0,1,1
+MalitsPlus/ShizuruNotes,7be44c4acf372e5938c335f0457757a19c6138f9,100,True,android.yml,69,6,9,0,1,0,0,6,0,0,0,0,0,1,0,1,1
+dragonwell-project/dragonwell11,5d5c45628079f0e0dc0079d4a4da4044527dbe9d,0,False,,,,,,,,,,,,,,,,,,
+dragonwell-project/dragonwell11,7e3a0e73d14f40d940d847095bee6e7916796e93,10,False,,,,,,,,,,,,,,,,,,
+dragonwell-project/dragonwell11,f44cc45d23dd5268f2551e2f1882b4919d9c7605,20,True,check_pr.yml,70,20,11,0,4,0,0,0,0,0,0,0,0,6,0,1,2
+dragonwell-project/dragonwell11,4d3005268d2f3c22ed0e13fc5fb78a173ae8238c,30,False,,,,,,,,,,,,,,,,,,
+dragonwell-project/dragonwell11,9a5ba0b995e25ebcb0e196c9df4412040df36b2c,40,True,submit.yml,1330,7,153,73,11,0,45,0,6,1,0,0,0,20,5,0,5
+dragonwell-project/dragonwell11,8359d7fe09639407c18d6e4d41a32547856566e1,50,True,submit.yml,1330,7,153,73,11,0,45,0,6,1,0,0,0,20,5,0,5
+dragonwell-project/dragonwell11,0db04eeefd2a24000b7be46fdc75d332cdb1935b,60,True,submit.yml,1683,58,172,76,12,0,50,0,7,1,0,0,0,22,2,0,5
+dragonwell-project/dragonwell11,88954e1e812296abb4e876ed1f37cd6458d00c89,70,True,submit.yml,1773,58,182,79,13,0,55,0,8,1,0,0,0,24,2,0,5
+dragonwell-project/dragonwell11,c0ae14167974ce2e13a58e39438681a8197f7e5a,80,True,"build-cross-compile.yml, build-linux.yml, build-macos.yml, build-windows.yml, main.yml, test.yml",954,190,12,22,1,2,0,1,0,0,0,0,0,2,0,0,0
+dragonwell-project/dragonwell11,b9936cdf6bb9806f76034cb44adea5c5808eaf55,90,True,"build-cross-compile.yml, build-linux.yml, build-macos.yml, build-windows.yml, main.yml, test.yml",1032,190,12,22,1,2,0,1,0,0,0,0,0,2,0,0,0
+dragonwell-project/dragonwell11,c6b1d04179afe49071cd2bc4d29ec90d26124867,100,True,"build-cross-compile.yml, build-linux.yml, build-macos.yml, build-windows.yml, main.yml, test.yml",1032,190,12,22,1,2,0,1,0,0,0,0,0,2,0,0,0
+Randgalt/record-builder,610e7e9e5606a7e642469d79961d29b590d75521,0,False,,,,,,,,,,,,,,,,,,
+Randgalt/record-builder,cf8f27701879ff5c2e8b348d274042ad1b0247a0,10,False,,,,,,,,,,,,,,,,,,
+Randgalt/record-builder,c47e290363d9749276c5a7142ca22c60ee669b45,20,False,,,,,,,,,,,,,,,,,,
+Randgalt/record-builder,74c8480b4340f4fd542e42eef2be11919692c04c,30,False,,,,,,,,,,,,,,,,,,
+Randgalt/record-builder,6661c2ae0ebf9046105b8db374b87958ffc6078a,40,False,,,,,,,,,,,,,,,,,,
+Randgalt/record-builder,24b85e7ad5ce392d972868630b3f8c948cf08ba5,50,False,,,,,,,,,,,,,,,,,,
+Randgalt/record-builder,61d355b9fc0fae7f8a006a8e2c937747bf264f41,60,True,"maven.yml, maven_java15.yml",42,4,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Randgalt/record-builder,b7c4e22066266ef18c293637efc997e2661c4a81,70,True,"maven.yml, maven_java15.yml",42,4,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Randgalt/record-builder,d9f27bc5a6958cbdc1e5519fd812928a9f1ae260,80,True,"maven.yml, maven_java15.yml",42,4,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Randgalt/record-builder,76f93039b0e06fafaf621594172bcddfcca6a3c8,90,True,"maven.yml, maven_java15.yml",42,4,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Randgalt/record-builder,13959dee2a84d2eddc58ccd903c0c5f9f22cfa31,100,True,"maven_java16.yml, maven_java17.yml",38,4,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+jbangdev/jbang,e4ec0b23d8cb443b022f948967a7ec20e93d0e0c,0,True,gradle.yml,20,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jbangdev/jbang,f1f34b031d2163e0cdc6f9a3725b59f47129c923,10,True,"ci-build.yml, publish-packages.yml, tag-and-release.yml",191,2,6,4,1,0,0,13,0,0,1,0,1,1,0,1,1
+jbangdev/jbang,94c786d900820c9ea64e3299b814cf7952f4dd27,20,True,"ci-build.yml, publish-packages.yml, tag-and-release.yml",214,2,6,7,1,0,0,13,0,0,1,0,1,1,0,1,1
+jbangdev/jbang,e05075e56190a1118e436ab8bdb3add3f8af8df5,30,True,"ci-build.yml, publish-packages.yml, tag-and-release.yml",216,2,6,7,1,0,0,13,0,0,1,0,1,1,0,1,1
+jbangdev/jbang,515a61e57b277dd75d3fe24ce0dfc6295a635b83,40,True,"ci-build.yml, publish-packages.yml, tag-and-release.yml",233,2,0,7,0,0,0,16,0,0,1,0,1,0,0,0,0
+jbangdev/jbang,35f598152d9147acd0f6fa687ac19cf83c374052,50,True,"ci-build.yml, publish-packages.yml, tag-and-release.yml",233,2,0,7,0,0,0,16,0,0,1,0,1,0,0,0,0
+jbangdev/jbang,5625dd9921dbd6ff62ab7e9d4d7596835af72d63,60,True,"ci-build.yml, publish-packages.yml, tag-and-release.yml",277,2,7,9,1,0,10,27,0,0,1,0,1,1,0,0,0
+jbangdev/jbang,77436936ed10d96544a5f12415c5b2ab1ee2c1f7,70,True,"ci-build.yml, install-tests.yml, publish-packages.yml, tag-and-release.yml",335,6,7,11,1,0,11,25,0,0,1,0,1,1,0,0,0
+jbangdev/jbang,7d6b6328d5b1c1b00b014d6d03d9122f2afc2bb7,80,True,"ci-build.yml, codeql-analysis.yml, install-tests.yml, publish-packages.yml, tag-and-release.yml",426,38,7,13,1,0,11,25,0,0,1,0,1,1,0,0,0
+jbangdev/jbang,0eecfbf373b12878e927577cbc05110958df4fe0,90,True,"ci-build.yml, codeql-analysis.yml, install-tests.yml, publish-packages.yml, tag-and-release.yml",426,38,7,13,1,0,11,25,0,0,1,0,1,1,0,0,0
+jbangdev/jbang,e74d8b0300c27e78b31f6892c19c87270006e759,100,True,"ci-build.yml, codeql-analysis.yml, install-tests.yml, publish-packages.yml, tag-and-release.yml",426,38,7,13,1,0,11,25,0,0,1,0,1,1,0,0,0
+openboard-team/openboard,797ee4f5c616490e9fde04de09bbde0d55651172,0,False,,,,,,,,,,,,,,,,,,
+openboard-team/openboard,e4fc435b55c1096f94ea779843fd4ddf2fee11bc,10,False,,,,,,,,,,,,,,,,,,
+openboard-team/openboard,37c9b277b1029fbb2196a8b75091076fa1887e43,20,False,,,,,,,,,,,,,,,,,,
+openboard-team/openboard,dc46c14f9cdc06ef09826c5d89e6d529effb9cf8,30,False,,,,,,,,,,,,,,,,,,
+openboard-team/openboard,1d6daab585bf8e41e0f06a19247a7cc9100ebeac,40,False,,,,,,,,,,,,,,,,,,
+openboard-team/openboard,dd7b56fbb3ef86f0e07ed75862537f1f4df31e78,50,False,,,,,,,,,,,,,,,,,,
+openboard-team/openboard,1fed18095077630c754a98be1739c04edd0009fd,60,False,,,,,,,,,,,,,,,,,,
+openboard-team/openboard,6c500e731b6c1f29e013b4a0babb693f3103cc61,70,False,,,,,,,,,,,,,,,,,,
+openboard-team/openboard,6baf8a871ff74fb680533e8dc7340829eadf8038,80,True,android-build.yml,31,0,6,0,1,0,0,0,0,0,1,0,1,1,1,0,0
+openboard-team/openboard,ac2deb797c335987234a8494c30a9eaa682a418c,90,True,android-build.yml,31,0,6,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+openboard-team/openboard,0ae60405d7c13924af36323a4a582261b7730a65,100,True,android-build.yml,31,0,6,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+jetlinks/jetlinks-community,d854b56436c1a4df022c07931c674eb442230199,0,False,,,,,,,,,,,,,,,,,,
+jetlinks/jetlinks-community,e91b1327260381d5d9204857771fcdf48e506edf,10,True,maven.yml,22,0,6,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+jetlinks/jetlinks-community,70458ec8b1f938159d5dfc9cf6204428215ffdd3,20,True,maven.yml,22,0,6,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+jetlinks/jetlinks-community,acc9b3f475fce85cf2968aa84f76fd1cacb2751a,30,True,maven.yml,22,0,6,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+jetlinks/jetlinks-community,ce593a4fc0b311e18495d623026e9e9d1c968ec2,40,True,"maven.yml, pull_request.yml",44,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+jetlinks/jetlinks-community,20a72c5cafe5531486c74b602ab8f3e1ad86b6a2,50,True,"maven.yml, pull_request.yml",44,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+jetlinks/jetlinks-community,189756ebfd05ec0165876db9b039a3575bb078dd,60,True,"maven.yml, pull_request.yml",44,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+jetlinks/jetlinks-community,92e181d0b3f00217dd81353fe0b49d629108b331,70,True,"maven.yml, pull_request.yml",46,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+jetlinks/jetlinks-community,67901c37326150f74f4393ad98870a8c03add3ec,80,True,"maven.yml, pull_request.yml",46,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+jetlinks/jetlinks-community,85b35bc32077c53034c28eca0cdc75e764b4dcfe,90,True,"maven.yml, pull_request.yml",46,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+jetlinks/jetlinks-community,828f2743e61b0731b2e3a077b53cf42a3bfed759,100,True,"maven.yml, pull_request.yml",46,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+apache/inlong,935a8655b64482a3bd8ecd1fca371de4ac62a9aa,0,False,,,,,,,,,,,,,,,,,,
+apache/inlong,503f94cd58ba3d781c9aa2edded50f8f8ab7adf1,10,False,,,,,,,,,,,,,,,,,,
+apache/inlong,a2ebfa5046f26a35abd26d124cddb91c0b9f727b,20,False,,,,,,,,,,,,,,,,,,
+apache/inlong,108fd1fbefedc73fd38aaf699a0cd1e33f3bb03a,30,False,,,,,,,,,,,,,,,,,,
+apache/inlong,385b2a9a29a4e50fcba7e7e84b3938a7510f9465,40,True,"ci_build.yml, ci_check_license.yml, ci_labeler.yml, ci_ut.yml",186,64,7,5,1,0,0,3,0,0,1,1,1,0,0,0,0
+apache/inlong,78dfd0a8be6421b14affc811b1206547e9c086f0,50,True,"ci_build.yml, ci_build_docker.yml, ci_check_license.yml, ci_labeler.yml, ci_ut.yml",242,80,7,5,1,0,0,4,0,0,1,0,1,2,0,0,0
+apache/inlong,e0bd5235c57c29210e786a38862db9aa91e328b5,60,True,"ci_build.yml, ci_chart_test.yml, ci_check_license.yml, ci_check_pr_title.yml, ci_docker.yml, ci_greeting.yml, ci_labeler.yml, ci_stale.yml, ci_ut.yml, codeql_analysis.yml",639,181,6,12,1,2,0,10,0,0,1,0,1,2,1,0,0
+apache/inlong,bbfae1c7682543e8d3d938dac6519ed0aea9d3e4,70,True,"ci_build.yml, ci_chart_test.yml, ci_check_format.yml, ci_check_license.yml, ci_check_pr_title.yml, ci_docker.yml, ci_greeting.yml, ci_labeler.yml, ci_stale.yml, ci_ut.yml, codeql_analysis.yml",686,197,0,12,0,0,0,10,0,0,1,0,1,0,0,0,0
+apache/inlong,87d26135d0431d1c0173efb19ec982d7cbddddfd,80,True,"ci_build.yml, ci_chart_test.yml, ci_check_format.yml, ci_check_license.yml, ci_check_pr_title.yml, ci_docker.yml, ci_greeting.yml, ci_labeler.yml, ci_stale.yml, ci_ut.yml, codeql_analysis.yml",706,197,6,13,1,2,0,10,0,0,1,0,1,2,1,0,0
+apache/inlong,fc8ef40ce0f59bae6b2876e1c9eabe8d0851d648,90,True,"ci_build.yml, ci_chart_test.yml, ci_check_format.yml, ci_check_license.yml, ci_check_pr_title.yml, ci_docker.yml, ci_greeting.yml, ci_labeler.yml, ci_stale.yml, ci_ut.yml, ci_ut_flink15.yml, codeql_analysis.yml",830,213,8,15,1,2,0,10,0,0,1,1,1,2,1,0,0
+apache/inlong,721d61a77a00fda5a3b7e69b061e3254a7118df9,100,True,"ci_build.yml, ci_chart_test.yml, ci_check_format.yml, ci_check_license.yml, ci_check_pr_title.yml, ci_docker.yml, ci_greeting.yml, ci_labeler.yml, ci_stale.yml, ci_ut.yml, ci_ut_flink13.yml, ci_ut_flink15.yml, codeql_analysis.yml",918,234,8,18,1,2,0,10,0,0,1,1,1,2,1,0,0
+artipie/artipie,79dbd1069d25209d9bac53b3837d14d2cd288dbd,0,False,,,,,,,,,,,,,,,,,,
+artipie/artipie,b430f906f12a995c778c9e117d614338b9688beb,10,True,"git.yaml, maven.yml",55,21,6,0,2,0,0,0,0,0,0,1,1,1,1,0,0
+artipie/artipie,e1687cf2d2245867dd9a47fff216034f463dfa17,20,True,"docker-build.yml, docker-release.yml, gitlinter.yaml, maven.yml",85,21,6,0,2,0,0,1,0,0,0,1,1,1,1,0,0
+artipie/artipie,fda10a304b2d31037c18ce49f78b8331e4990b03,30,True,"docker-build.yml, docker-release.yml, gitlinter.yaml, maven.yml",99,21,7,0,2,0,0,3,0,0,0,1,1,1,1,0,0
+artipie/artipie,2f7a067fc5099e539350d4b719f02cdd302d3b4e,40,True,"ci-checks.yml, docker-build.yml, release.yml, reports.yml",135,0,5,0,1,0,0,6,0,0,0,2,2,0,0,0,0
+artipie/artipie,baa6e3915f75df26820fdcd8b4c9e1420be31283,50,True,"ci-checks.yml, docker-build.yml, experimental.yml, proof-binary.yaml, proof-docker.yml, proof-gem.yml, proof-go.yml, proof-helm.yml, proof-maven.yml, proof-npm.yml, proof-nuget.yml, proof-php.yml, proof-pypi.yml, proof-rpm.yml, release.yml, reports.yml",367,0,15,0,4,0,0,8,0,0,0,2,2,1,2,0,2
+artipie/artipie,9cbba95fd95446db69a276170ec5fbc95a78acc4,60,True,"ci-checks.yml, docker-build.yml, experimental.yml, proof-binary.yaml, proof-docker.yml, proof-gem.yml, proof-go.yml, proof-helm.yml, proof-maven.yml, proof-npm.yml, proof-nuget.yml, proof-php.yml, proof-pypi.yml, proof-rpm.yml, release.yml, reports.yml",413,0,7,0,2,0,0,8,0,0,0,2,2,1,1,0,0
+artipie/artipie,0d879fb2d79378fc15d246d73c0636c02acaa497,70,True,"ci-checks.yml, docker-build.yml, experimental.yml, integration-tests.yml, proof-binary.yaml, proof-docker.yml, proof-gem.yml, proof-go.yml, proof-helm.yml, proof-maven.yml, proof-npm.yml, proof-nuget.yml, proof-php.yml, proof-pypi.yml, proof-rpm.yml, release.yml, reports.yml",445,1,11,0,3,0,0,8,0,0,0,3,3,1,1,0,0
+artipie/artipie,6270206455fc633913ce8fbd209b2f6d3fd14a03,80,True,"ci-checks.yml, docker-build.yml, experimental.yml, integration-tests.yml, proof-binary.yaml, proof-docker.yml, proof-gem.yml, proof-go.yml, proof-helm.yml, proof-maven.yml, proof-npm.yml, proof-nuget.yml, proof-php.yml, proof-pypi.yml, proof-rpm.yml, release.yml, reports.yml",449,1,11,0,3,0,0,8,0,0,0,3,3,1,1,0,0
+artipie/artipie,ef209b0242177ddc78b140b8a0cb6104e18339fa,90,True,"ci-checks.yml, docker-build.yml, experimental.yml, integration-tests.yml, proof-binary.yaml, proof-debian.yml, proof-docker.yml, proof-gem.yml, proof-go.yml, proof-helm.yml, proof-maven.yml, proof-npm.yml, proof-nuget.yml, proof-php.yml, proof-pypi.yml, proof-rpm.yml, release.yml, reports.yml",470,2,11,0,3,0,0,8,0,0,0,3,3,1,1,0,0
+artipie/artipie,191acde365b9e2212c460bb31722f22fcc379f01,100,True,"ci-checks.yml, experimental.yml, integration-tests.yml, release.yml, reports.yml, smoke-tests.yml",218,7,29,0,8,0,0,6,0,0,0,3,3,2,4,0,1
+Rapsssito/react-native-background-actions,4be5bd98e5d973fd524b6c72a85b84a83a99057c,0,False,,,,,,,,,,,,,,,,,,
+Rapsssito/react-native-background-actions,0f1218883016a60710e0bdaa739cd71ee80560aa,10,True,"main.yml, release.yml",40,0,4,0,1,0,0,2,0,0,1,0,1,0,0,1,1
+Rapsssito/react-native-background-actions,042c897be14f68f310b2a2b0474e168a0826a78d,20,True,"main.yml, release.yml",36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+Rapsssito/react-native-background-actions,042c897be14f68f310b2a2b0474e168a0826a78d,30,True,Loaded from cache,36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+Rapsssito/react-native-background-actions,042c897be14f68f310b2a2b0474e168a0826a78d,40,True,Loaded from cache,36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+Rapsssito/react-native-background-actions,dfc1671e6e020f734bf8f88071f46efb3558541a,50,True,"main.yml, release.yml",36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+Rapsssito/react-native-background-actions,dfc1671e6e020f734bf8f88071f46efb3558541a,60,True,Loaded from cache,36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+Rapsssito/react-native-background-actions,dfc1671e6e020f734bf8f88071f46efb3558541a,70,True,Loaded from cache,36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+Rapsssito/react-native-background-actions,b94d711651861d82bca3c283f191b35b7af959ac,80,True,"main.yml, release.yml",36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+Rapsssito/react-native-background-actions,7bed18e0c8428f0733c5115c2574a106b95fdc47,90,True,"main.yml, release.yml",36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+Rapsssito/react-native-background-actions,c7c15b3be7b72db9f9a7c2ed321a1a969de53a12,100,True,"main.yml, release.yml",36,0,4,0,1,0,0,2,0,0,0,0,0,0,0,1,1
+cassandre-tech/cassandre-trading-bot,40490e50411baea0f02a6efeb262bee077d841f4,0,False,,,,,,,,,,,,,,,,,,
+cassandre-tech/cassandre-trading-bot,950825b352c6d3faa6b339835697572ec72549e9,10,True,"continuous-integration.yml, release-creation.yml",162,27,10,0,1,0,0,27,0,0,1,0,1,1,0,1,2
+cassandre-tech/cassandre-trading-bot,5cf347e9c96e3792159053a6640d9183c0210285,20,True,"codeql-analysis.yml, continuous-integration.yml, release-creation.yml",216,36,11,1,1,0,0,32,0,0,1,0,1,1,0,1,2
+cassandre-tech/cassandre-trading-bot,06c8643abeec83a4a6c2b02ffe362af4d4c79d63,30,True,"codeql-analysis.yml, continuous-integration.yml, integration-tests.yml, release-creation.yml",232,41,10,1,1,0,0,37,0,0,1,0,1,1,0,1,2
+cassandre-tech/cassandre-trading-bot,18a82c1561a6fe1a33cbc04a5d4411c0e09e6f80,40,True,"codeql-analysis.yml, continuous-integration.yml, integration-tests.yml, pull-request.yml, release-creation.yml, website-update.yml",435,65,0,1,0,0,0,46,0,0,1,0,1,0,0,0,0
+cassandre-tech/cassandre-trading-bot,979aeecc73b0a5c2a71424d7cac31fed19700882,50,True,"branch-push.yml, codeql-analysis.yml, continuous-integration.yml, integration-tests.yml, release-creation.yml, website-update.yml",393,67,5,0,1,0,0,45,0,0,1,0,1,1,0,1,2
+cassandre-tech/cassandre-trading-bot,028db595ce1210aca7653ef23c945d4a96a7af1d,60,True,"branch-push-or-pull-request.yml, codeql-analysis.yml, integration-tests.yml, publish-snapshot-and-website.yml, release-creation.yml",305,40,7,0,1,0,0,41,0,0,1,0,1,1,0,1,2
+cassandre-tech/cassandre-trading-bot,439d5d715c16d80c525b3c0e71787e2e4d8b4abb,70,True,"codeql-analysis.yml, on-branch-push-or-pull-request.yml, on-development-push-publish-snapshot-and-website.yml, on-tag-push-create-release.yml",256,32,7,0,1,0,0,21,0,0,1,0,1,1,0,1,2
+cassandre-tech/cassandre-trading-bot,c2b98f4e7f12ae8e36fdfaab00a75b9f76425126,80,True,"codeql-analysis.yml, on-branch-push-or-pull-request.yml, on-development-push-publish-snapshot-and-website.yml, on-tag-push-create-release.yml",259,32,7,0,1,0,0,21,0,0,1,0,1,1,0,1,2
+cassandre-tech/cassandre-trading-bot,e28d84e96a1886d321eebe0a6686a53aa7543f1b,90,True,"codeql-analysis.yml, on-branch-push-or-pull-request.yml, on-development-push-publish-snapshot-and-website.yml, on-tag-push-create-release.yml",259,32,7,0,1,0,0,21,0,0,1,0,1,1,0,1,2
+cassandre-tech/cassandre-trading-bot,99227956a3650f0b9f408359ec51846cf8cfb3a4,100,True,"codeql-analysis.yml, on-branch-push-or-pull-request.yml, on-development-push-publish-snapshot-and-website.yml, on-tag-push-create-release.yml",259,32,7,0,1,0,0,21,0,0,1,0,1,1,0,1,2
+TaleLin/lin-cms-spring-boot,5a77f2c38f19f5264baffae560af20714a0a259c,0,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,e87d502520cc818cab941caa0a2e25ec900ac040,10,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,e1cfbebaa50725b02692fa5b11f07cf1c603065c,20,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,e29404f58b1d8abde18f24e1d9dbf48e3387b0ad,30,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,a2632619f1bab9720b806aa1f2073d38e4e1dce3,40,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,7b73d11d9f4e1fe345ba330a40743d36ed6a30e6,50,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,1b3ea0f806967dfcb0ded404341365069e0fe6b4,60,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,7e082fb3531f770b0ad28c062851ab28e899906c,70,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,59b71f84ce5371a583442abed966137b517bbfc7,80,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,a2ce25f23374777f3214283742636f7693b447fa,90,True,maven.yml,33,0,9,0,3,0,0,0,0,0,1,0,1,3,0,0,0
+TaleLin/lin-cms-spring-boot,942b1a6e419a739933a9d80cdb2edd57a27109c6,100,True,maven.yml,15,0,3,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+fanyong920/jvppeteer,afffb85b17caf9a3b90c1971496035872c29371c,0,False,,,,,,,,,,,,,,,,,,
+fanyong920/jvppeteer,bde8a255acc722d3dedb554b4359a6107fabddcb,10,False,,,,,,,,,,,,,,,,,,
+fanyong920/jvppeteer,8d249fc3f0c7bf4678db01bbe216544a68c7d113,20,False,,,,,,,,,,,,,,,,,,
+fanyong920/jvppeteer,d0f996ca921bd90273fd1165337371bc0bf87350,30,False,,,,,,,,,,,,,,,,,,
+fanyong920/jvppeteer,c2af123627032380c072bc6a17fadd7864355fa4,40,False,,,,,,,,,,,,,,,,,,
+fanyong920/jvppeteer,d1545e2b1e1f7bc09e9be38334cca771c1b57309,50,False,,,,,,,,,,,,,,,,,,
+fanyong920/jvppeteer,b94d3b927f2bb73871540059c7f7520685465b62,60,False,,,,,,,,,,,,,,,,,,
+fanyong920/jvppeteer,3a2176c1ca910833fdd11a37208211627d906975,70,False,,,,,,,,,,,,,,,,,,
+fanyong920/jvppeteer,0f4c739a3b6872e3b887fc5fd09117099a980886,80,True,ci.yml,21,0,3,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+fanyong920/jvppeteer,13a7db972f4b9a34f6bb021ce26d25b248e4b28d,90,True,ci.yml,21,0,3,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+fanyong920/jvppeteer,50dfa60c79fd43b9faac1a00f904acacd7d86ff5,100,True,ci.yml,21,0,3,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+didi/KnowStreaming,229140f06794804142d931e091369faeec0067e5,0,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,4b679be3102864ce29fb6f0ef08212c1d840fdbe,10,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,aea63cad5271e7c47fab3592a24081b215e50f84,20,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,f38ab4a9ce4ab98a7501f298299d504e466babbb,30,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,b77345222c34be19a6c8a39e636ce1a2119cd956,40,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,4538593236ed2374627ff1b208886bec45559855,50,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,58164294cc723462a76ab5ffb3237fe9b7465325,60,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,51832385b1e043f0bd6d707b8d3a1281c4a1b31a,70,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,6ed6d5ec8aca98e535b68b2cc5f340250f49fb87,80,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,db044caf8bb0e5ac5ef6cc457bad1b7e174fbb65,90,False,,,,,,,,,,,,,,,,,,
+didi/KnowStreaming,d1417bef8c39795910cda0e75f03b2224b6334ac,100,True,ci_build.yml,34,0,6,2,1,0,0,0,0,0,1,0,1,1,0,0,0
+CaffeineMC/phosphor-fabric,1b1de15bd7dfbdf106ab2eda07e161f6565d017c,0,True,"gradle.yml, publish.yml",46,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0
+CaffeineMC/phosphor-fabric,5eaaef7223451e6471faa0cdd1550bbb6308b8ff,10,True,"gradle.yml, publish.yml",46,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0
+CaffeineMC/phosphor-fabric,ad898d7394adb3f406832d05d7d120f4e22a0135,20,True,"gradle.yml, publish.yml",46,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0
+CaffeineMC/phosphor-fabric,5e8837d0e141b10679468616207e040d9ee5a051,30,True,"gradle.yml, publish.yml",46,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0
+CaffeineMC/phosphor-fabric,dcd510a7bf24eedb1df45b4a8f0a835cd457348b,40,True,"gradle.yml, publish.yml",46,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0
+CaffeineMC/phosphor-fabric,4c43554edd0cf25fc9cd84f1684c0edc0f222c23,50,True,"gradle.yml, publish.yml",42,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+CaffeineMC/phosphor-fabric,7b32057e808127fe56486e77a32be7c44120ca9b,60,True,"gradle.yml, publish.yml",39,0,4,0,1,0,0,1,0,0,1,0,1,1,0,0,0
+CaffeineMC/phosphor-fabric,c70a2e3f7d5dc98873af79bba4f46a83ae40c997,70,True,"gradle.yml, publish.yml",39,0,4,0,1,0,0,1,0,0,1,0,1,1,0,0,0
+CaffeineMC/phosphor-fabric,c70a2e3f7d5dc98873af79bba4f46a83ae40c997,80,True,Loaded from cache,39,0,4,0,1,0,0,1,0,0,1,0,1,1,0,0,0
+CaffeineMC/phosphor-fabric,1d1a8087c33c95b7ac17fd2148c5d244a26f1a8f,90,True,"gradle.yml, publish.yml",53,2,6,3,1,0,0,1,0,0,1,0,1,1,0,1,1
+CaffeineMC/phosphor-fabric,f436725e653d7e6a8c3f3527981108b85b54bc33,100,True,"gradle.yml, publish.yml",53,2,6,3,1,0,0,1,0,0,1,0,1,1,0,1,1
+NekoX-Dev/NekoX,1a7915778499bd93459c419e80f71ea8d0ed1547,0,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,e5d964b6a7f2d47c58c6bcc27fa25a55e5e97219,10,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,39e6a4a6bbad8d90cfdd044d5917c996ce642e90,20,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,da2b4e2321eaeb11b80b19baf970322ff1608fa8,30,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,024578a13a6bb22e188c5f869848a9f5ed83be8c,40,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,7a60f948ae4acfab920320b07b8979d588e28f5f,50,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,d8105a72232cc5e9bf3c2baaeee64243eeda02c9,60,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,ac308681c64125f9c2b70be6395ab5b285bbe12f,70,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,136c9582a873f2af918da834f7927dcc8e6d2846,80,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,bfb3168c36a83ecc278889467e39eda2c9ead82e,90,False,,,,,,,,,,,,,,,,,,
+NekoX-Dev/NekoX,a5393e9e9d9b3a551d2aa1b85313d9f4ae99dde6,100,False,,,,,,,,,,,,,,,,,,
+JetBrains/skija,7a4f687d78470bd273e899726762f9973aa65a5e,0,False,,,,,,,,,,,,,,,,,,
+JetBrains/skija,9ebd44ac0960adcad2a0db5a869b8247119b90c1,10,False,,,,,,,,,,,,,,,,,,
+JetBrains/skija,69069c470ff5b7c7645c8dce4560aa546e368f77,20,False,,,,,,,,,,,,,,,,,,
+JetBrains/skija,da6cc8a6945dfba38274eaa93dd4e91af0ebfcf2,30,False,,,,,,,,,,,,,,,,,,
+JetBrains/skija,fa8153629c3f0f11a05af7e0f8dacbb423f7e379,40,True,build.yml,97,0,23,0,4,0,0,4,0,0,0,0,0,0,0,0,0
+JetBrains/skija,e70708929470d1fbeb67ec8d149302a3bfd239d8,50,True,build.yml,97,0,23,0,4,0,0,4,0,0,0,0,0,0,0,0,0
+JetBrains/skija,d10096cf96e013a892ba513e3ac30c8bbbc409a0,60,True,build.yml,105,0,29,0,4,0,0,4,0,0,0,0,0,0,0,0,0
+JetBrains/skija,6dfd2eddc8c8e84c3828dd9ea373ff00d26ebce1,70,True,build.yml,112,0,29,1,4,0,0,4,0,0,0,0,0,0,0,0,0
+JetBrains/skija,260e271ccef7077164bde1e8a1ff5af2e5da64a1,80,True,build.yml,114,0,30,9,4,0,0,4,0,0,0,0,0,0,0,0,0
+JetBrains/skija,8057d11ea2b34e92c36188236200cfef58bf8d76,90,True,build.yml,114,0,30,9,4,0,0,4,0,0,0,0,0,0,0,0,0
+JetBrains/skija,39ed996bee48973ef296dbeccd50fa5222d07716,100,True,build.yml,118,0,30,9,4,0,0,8,0,0,0,0,0,0,0,0,0
+patzly/grocy-android,48b9b9ed9a25322db57b4edffca16bab94aa8176,0,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,fc71b54881128ded5e75387d2fbb582c06f8b508,10,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,2f439404ab6f8c6c54fe7cf645d4b14953376519,20,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,ad503edf67aa11a9c372f7de3ecb866f9d511401,30,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,2fa9779bcd6c65ca98fe130648680328fe7ea5c8,40,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,e664cbd550734849fc2759b90dc673c2faf950a7,50,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,6fe0ef49ec7079233d8db3b7e1f3cf0521446746,60,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,446157914f8a52b25436e8ecd6de154ce933fcb6,70,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,02d30997f7ca663d2cf9818e8a2d8ae82f919cc0,80,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,2633dd6e85d0ac6c02efd5996e744128e2ee338d,90,False,,,,,,,,,,,,,,,,,,
+patzly/grocy-android,8e0d5dee2a0ae8ba4a5eaa1839853590e2ece707,100,False,,,,,,,,,,,,,,,,,,
+casid/jte,ee016a0779f031f1d79abb344d41db9ae199a1b4,0,False,,,,,,,,,,,,,,,,,,
+casid/jte,74cb39b2c878b2f0edfcd685ae9932c6d1e26fcb,10,False,,,,,,,,,,,,,,,,,,
+casid/jte,7a8dcad2df594b2e2ceeb63f0a6768dfb095fa9e,20,True,maven.yml,45,0,9,2,2,0,0,0,0,0,0,0,0,2,0,0,0
+casid/jte,ea049aa05c5809548a3e3cf751d038bcc4c1a0fd,30,True,maven.yml,59,0,16,2,2,0,0,0,0,0,0,0,0,2,0,0,0
+casid/jte,740af8656b383eccd8d789c9444fe4a9e98ea099,40,True,"codeql-analysis.yml, maven.yml",120,30,16,2,2,0,0,0,0,0,0,0,0,2,0,0,0
+casid/jte,a5791f5945118776696c409799476424a1045004,50,True,"codeql-analysis.yml, maven.yml",120,30,16,2,2,0,0,0,0,0,0,0,0,2,0,0,0
+casid/jte,65f59fc49e8584b5bbd98978f5fc4e8b89c2256b,60,True,"codeql-analysis.yml, graalvm.yml, maven.yml",154,32,16,3,2,0,0,1,0,0,0,0,0,2,0,0,0
+casid/jte,68d1c1a18773404ad7ed4403c9b9bd32289a4ae8,70,True,"codeql-analysis.yml, graalvm.yml, maven.yml",154,32,16,3,2,0,0,1,0,0,0,0,0,2,0,0,0
+casid/jte,bc48da08a152faed2ee7154fa55364dc66a09b7a,80,True,"graalvm.yml, maven.yml",81,2,11,3,2,0,0,1,0,0,0,0,0,2,0,0,0
+casid/jte,241efe8fbfca2e1d0b46665f07656e4c8a4643a2,90,True,"graalvm.yml, maven.yml, publish-docs.yml, validate-docs.yml, validate-links.yml",226,31,2,4,1,0,0,1,0,0,0,0,0,0,0,0,0
+casid/jte,e8fca09303fd8ab736e54ec9a52a01994a99fd7d,100,True,"graalvm.yml, gradle-wrapper-validation.yml, maven.yml, publish-docs.yml, validate-docs.yml, validate-links.yml",289,37,2,11,1,0,0,1,0,0,1,0,1,1,0,0,0
+corona-warn-app/cwa-server,a25c5fde50c4536ca1b39b889b93f3c94fcbc15b,0,False,,,,,,,,,,,,,,,,,,
+corona-warn-app/cwa-server,ee78bf15ece7f282836149b5f39422892f055096,10,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",85,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,c64e4b1d204aa2ebfad57b01e866944cb7e03602,20,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",80,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,dedfe8a70f8da9b6d0231253eac6459ed107f69d,30,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,3418adf73d721c7c51fff7e7387e5adae1b26c53,40,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,4d6364bb9ca5c841c82c9fe8fbe6be9ddd32812c,50,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,9a4ba5a87d4c980bb3dd39bd5eebfcfe45d16486,60,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,c1ea9a614aa641967c76413a546aaaaad3608796,70,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,6f472acd473a1abb2f1e0529699c41d5347720c2,80,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,81707bd49a88f343820f0b44fafcf4d18b63752f,90,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml",106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corona-warn-app/cwa-server,9e16309d24ebba06b5e7dcc607bd51efc1307433,100,True,"codeql-analysis.yml, hadolint-analysis.yml, license-analysis.yml, markdown-analysis.yml, maven-build.yml",174,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0
+Project-Books/book-project,32fac95aef9ed29fece28d270b0b74bf20fb156c,0,False,,,,,,,,,,,,,,,,,,
+Project-Books/book-project,c6e1d0b87c262c8a8aab15fd47109fdc541939b1,10,False,,,,,,,,,,,,,,,,,,
+Project-Books/book-project,4f7879702f33f572f150d3d8715645f90405bb93,20,False,,,,,,,,,,,,,,,,,,
+Project-Books/book-project,1ce6756f4e8785ad121cd3337ced90c602a84e44,30,False,,,,,,,,,,,,,,,,,,
+Project-Books/book-project,8d53e04002e0a06f2f7e877c9d2353a634e14197,40,False,,,,,,,,,,,,,,,,,,
+Project-Books/book-project,0567dede6d1d00bf1e4f019e9a00b0032c7e48c8,50,False,,,,,,,,,,,,,,,,,,
+Project-Books/book-project,171df04e32f637ff4fb0d279a9dd72079e0b9b8d,60,True,build.yml,42,4,5,0,1,0,0,2,0,0,0,1,1,1,2,0,0
+Project-Books/book-project,69c88908f85c471a597b2cbf4eac7dbbbb38de2c,70,True,"build.yml, frontend-lint.yml",83,4,3,0,1,0,0,2,0,0,0,1,1,0,1,0,0
+Project-Books/book-project,73d24bb58459943d7d25d509ea2225583d7f9919,80,True,"build.yml, check-broken-links-cron.yaml, frontend-lint.yml",98,5,3,0,1,0,0,2,0,0,0,1,1,0,1,0,0
+Project-Books/book-project,59468d042a4c4033aac738e588cd68cee0a2ce3d,90,True,"build.yml, check-broken-links-cron.yaml, frontend-lint.yml, shellcheck.yml",115,5,2,0,1,0,0,2,0,0,0,1,1,0,0,0,0
+Project-Books/book-project,59468d042a4c4033aac738e588cd68cee0a2ce3d,100,True,Loaded from cache,115,5,2,0,1,0,0,2,0,0,0,1,1,0,0,0,0
+rosehgal/TrashEmail,3b4f78c8d6b823b2b0498bf6748ad7725de01c7d,0,False,,,,,,,,,,,,,,,,,,
+rosehgal/TrashEmail,b67de8bfface2386071b32b9a9930d90a77d8b20,10,True,maven-publish.yml,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,0f9bd131f98f48e90fce969abb397089a56af801,20,True,maven-publish.yml,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,28164b92bb661d398dc77a15a6a4bc44b125e237,30,True,maven-publish.yml,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,5da56714ecb4dd02684e655535380aa3e39f6d4d,40,True,maven-publish.yml,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,b73f9b4c2e291ba3f190276107442b051e5bca73,50,True,maven-publish.yml,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,b73f9b4c2e291ba3f190276107442b051e5bca73,60,True,Loaded from cache,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,8b697a84a842503fa9200f4ed738ac2b01d63393,70,True,maven-publish.yml,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,2555f0a001bd6dc81d4790ddfbb957a78b92b1bd,80,True,maven-publish.yml,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,424b93fc366a2a89d3999980ac28c40d717877d7,90,True,maven-publish.yml,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+rosehgal/TrashEmail,424b93fc366a2a89d3999980ac28c40d717877d7,100,True,Loaded from cache,18,2,3,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+dkanada/gelli,1b27f3afbc3dcac63fb2c83fc6c2d3c873c34bf2,0,False,,,,,,,,,,,,,,,,,,
+dkanada/gelli,678777a330f9d1c9c16848772524c8eef040b2e4,10,False,,,,,,,,,,,,,,,,,,
+dkanada/gelli,a8370698e249e71f290bb4f555b366f2c83617fa,20,False,,,,,,,,,,,,,,,,,,
+dkanada/gelli,f96c6aa96963d7c2c63514cadbaee182327c2d78,30,False,,,,,,,,,,,,,,,,,,
+dkanada/gelli,ea78038120043c02c4f48c5c048f3b699a42c250,40,False,,,,,,,,,,,,,,,,,,
+dkanada/gelli,e52029d47aa9aee2400fc7e6168ac4408da20640,50,False,,,,,,,,,,,,,,,,,,
+dkanada/gelli,499303a733d84851899f3e6ec31f60005c92d736,60,False,,,,,,,,,,,,,,,,,,
+dkanada/gelli,016dacfb29fe9d8b50ad32e1dbf2ed0ccf7e4fd8,70,True,main.yml,42,0,7,1,1,0,0,4,0,0,0,0,0,1,0,0,2
+dkanada/gelli,85229301fd2da31dc8011d1479f4b4609a199add,80,True,main.yml,42,0,7,1,1,0,0,4,0,0,0,0,0,1,0,0,2
+dkanada/gelli,1b3efb515c08846578bea94f66f35390c71dd161,90,True,main.yml,42,0,7,1,1,0,0,4,0,0,0,0,0,1,0,0,2
+dkanada/gelli,588759c6d35fdeee9ed3b03ce27273a52d5a5803,100,True,main.yml,42,0,7,1,1,0,0,4,0,0,0,0,0,1,0,0,2
+IzzelAliz/Arclight,3edf7411336b402d242adb3ea3d0f53d002aa9b0,0,False,,,,,,,,,,,,,,,,,,
+IzzelAliz/Arclight,9c359490aa7a299f3a7c3d0347732f218f4ac3a5,10,True,gradle.yml,41,2,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+IzzelAliz/Arclight,5dd94c727ddcb5343dcec5e16a1f381c2f37b344,20,True,gradle.yml,40,2,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+IzzelAliz/Arclight,47c1884141e5aa2d31071833ce39535ff9b8c22d,30,True,"gradle.yml, issuebot.yml",50,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+IzzelAliz/Arclight,754e668bbd2d5ed5244cab17f6579f78a2b9050a,40,True,gradle.yml,40,2,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+IzzelAliz/Arclight,8a1ebb08175ca5a67bfae70b588a692a1380031e,50,True,gradle.yml,40,2,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+IzzelAliz/Arclight,8f9d1b76cc051d30314fb2571c4b91bffca56dd9,60,True,gradle.yml,40,2,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+IzzelAliz/Arclight,98f5a1830876449f419bb4164e90bec99e32c171,70,True,gradle.yml,40,2,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+IzzelAliz/Arclight,6d8f55e858e0dd219a64b0e92125de968d1fcb29,80,True,gradle.yml,40,2,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+IzzelAliz/Arclight,e76bbea80ce43ad2dc74c67b8c1386cda41c0efd,90,True,gradle.yml,40,2,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+IzzelAliz/Arclight,e88b7bf90f2332080c64f0c33d4ad9edd0ad15c6,100,True,"gradle.yml, pr.yml",74,4,7,0,1,0,0,1,0,0,1,0,1,1,0,0,0
+BanqiJane/Bilibili_Danmuji,1799d6a4c7b9eb38609e678490a64e6fe7cf5488,0,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,d024e89d6e849adb87a1a036eb04b412e6f6df54,10,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,c3d9c1e8edeb717368450b9786565bbead9b49fe,20,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,d5384cc13a4db292641a44a4b8a644e000291023,30,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,48e56e023a7c7c0eb797a6b834835da44de12d8d,40,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,e0a90a7e60c7886ba6083d5786c6fcc93afaef3f,50,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,b32fac22af630542f4d98f649f89bde728e70dcf,60,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,6eac9151a3a65f2b57217244e7c080a1f1b93257,70,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,8004088da142decdd2b94c60a47dccb6acfa96e2,80,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,60a4e964372445f5e6a742d7e67a9a2a7b3aa086,90,False,,,,,,,,,,,,,,,,,,
+BanqiJane/Bilibili_Danmuji,88abd88252bfdee05c0782b871069fe356e9f3bc,100,False,,,,,,,,,,,,,,,,,,
+TheEpicBlock/PolyMc,96fe6cd34018769dfdce4942c70081208d147655,0,False,,,,,,,,,,,,,,,,,,
+TheEpicBlock/PolyMc,1143355c04d05b79d8703c610cab2c4691507576,10,False,,,,,,,,,,,,,,,,,,
+TheEpicBlock/PolyMc,f25410097ca27347b3ef7049c37a6be89b4def03,20,False,,,,,,,,,,,,,,,,,,
+TheEpicBlock/PolyMc,c16738eb3a56d7dcbc774395871e4ecb5aab0d76,30,False,,,,,,,,,,,,,,,,,,
+TheEpicBlock/PolyMc,f387da33e001954d3dbd8c9680f2cf9d89c3ac01,40,False,,,,,,,,,,,,,,,,,,
+TheEpicBlock/PolyMc,cdc0a628242c89a4987c99e5768f8e84012094a3,50,False,,,,,,,,,,,,,,,,,,
+TheEpicBlock/PolyMc,037411725cdc1f092552229acd31b900108e5b4a,60,True,"build.yml, release.yml",57,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TheEpicBlock/PolyMc,c48aa57041843df9b5b3045f80d071a54c438c78,70,True,"build.yml, release.yml",57,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TheEpicBlock/PolyMc,9649fe8a10467c79ea0dd580ae1aa02b71dd4ef1,80,True,"build.yml, release.yml",59,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TheEpicBlock/PolyMc,6743314cc149da5654cbcc317cb9e5d9d1c9d2be,90,True,"build.yml, mkdocs.yml, release.yml",81,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TheEpicBlock/PolyMc,57e675ad5c46da9d2ca24d0fa7eeb40d9cb2c02c,100,True,"build.yml, mkdocs.yml, release.yml",93,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+MuntashirAkon/AppManager,3f63a4b64861bbffc3d5a1e42fccfa994ec81dcb,0,False,,,,,,,,,,,,,,,,,,
+MuntashirAkon/AppManager,10a0c4bb807fe73dc8d90f4c243185dc0960a283,10,True,debug_build.yml,27,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+MuntashirAkon/AppManager,87e87a89c2174bd1029af92e32e1fc78379a12bb,20,True,debug_build.yml,63,2,11,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+MuntashirAkon/AppManager,51c26161cd98a5c513ac5d6ef6dcc4408babc087,30,True,"debug_build.yml, tests.yml",102,2,5,1,1,0,0,2,0,0,1,0,1,1,0,0,0
+MuntashirAkon/AppManager,f995b8bc89852468a6117c3be7ca6ba03315947c,40,True,"debug_build.yml, tests.yml",102,2,5,1,1,0,0,2,0,0,1,0,1,1,0,0,0
+MuntashirAkon/AppManager,4d46572dd6537aa4c9338739d4f099d2a45dd86d,50,True,"debug_build.yml, tests.yml",102,2,5,1,1,0,0,2,0,0,1,0,1,1,0,0,0
+MuntashirAkon/AppManager,a97d7b78ad44bed5db8b87f6f1fbd0029af62512,60,True,"debug_build.yml, tests.yml",98,2,5,1,1,0,0,2,0,0,1,0,1,1,0,0,0
+MuntashirAkon/AppManager,8c4e705c39ee91e3029a6bf228fda4e45836fd26,70,True,"debug_build.yml, lint.yml, tests.yml",141,2,5,2,1,0,0,2,0,0,1,0,1,1,0,0,0
+MuntashirAkon/AppManager,4c52ac7f59e1fe66a199b1b3cbb7c7576bb20c12,80,True,"debug_build.yml, lint.yml, tests.yml",141,2,5,2,1,0,0,2,0,0,1,0,1,1,0,0,0
+MuntashirAkon/AppManager,0b3c698407b56c2fdd7ea5c0650557ef4d20c1a8,90,True,"debug_build.yml, lint.yml, tests.yml",141,2,5,2,1,0,0,2,0,0,1,0,1,1,0,0,0
+MuntashirAkon/AppManager,5a7837546389d636e78fff1f533ed72fa7cf152f,100,True,"codeql.yml, debug_build.yml, lint.yml, tests.yml",183,2,5,2,1,0,0,2,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,0eb4b2d54ddf057f87ca631cf78af3e63b208de4,0,False,,,,,,,,,,,,,,,,,,
+Delta2Force/MCVmComputers,745bba670bd696dee5f93d9813c276faa4c64cea,10,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,3535892f7a85ac590491e4a1aa15d0a3e31d03a4,20,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,c26815a920df1c5194081555edb7b7e2f9932fe8,30,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,31ea51e8cb8f424998eef496c97ef073e8a42f19,40,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,40be34d3b715fc187a6ab375c76c1779d33c11c9,50,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,ce9afbade63e98ba8b67bcff550eb2d8d8d9b299,60,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,93f65ba7a3c35a606e35fc0a9557527449955ef0,70,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,f5bf8a7a32ecea53ce7a7270c86ea70066cb126c,80,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,b0484682f81bfc16d25647b8c977d24fcfc941fc,90,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Delta2Force/MCVmComputers,0ce6729596ec516c274634a6ef16ccad8322f114,100,True,gradle.yml,21,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+fit2cloud/rackshift,4e758f4734f86e81a384293a704f13ff06059dac,0,False,,,,,,,,,,,,,,,,,,
+fit2cloud/rackshift,4a1c8a727aa45e5070f9a91a17b3d83713b1cd30,10,False,,,,,,,,,,,,,,,,,,
+fit2cloud/rackshift,9de54ea8264570f779cd46af522a39e9bbe881a6,20,False,,,,,,,,,,,,,,,,,,
+fit2cloud/rackshift,6aade047cc35d16c028cb77a362df06ca228609f,30,True,maven.yml,46,2,6,0,1,0,0,2,0,0,1,0,1,1,0,0,1
+fit2cloud/rackshift,57a3ecacd6da7d4470b7b9c8b2ec66b8009c2f47,40,True,"maven.yml, release.yml",119,7,5,0,1,0,0,5,0,0,1,0,1,1,0,1,1
+fit2cloud/rackshift,9013c35a2110e39728093f3914d406c38eb275a0,50,True,"maven.yml, release.yml",112,7,5,0,1,0,0,5,0,0,1,0,1,1,0,1,1
+fit2cloud/rackshift,d69f5c6b829568d2a6be79767c077c9146f9a7f0,60,True,"maven.yml, release.yml",121,10,5,0,1,0,0,5,0,0,1,0,1,1,0,1,1
+fit2cloud/rackshift,69bd44513c682c1c7bb93b973eb086121a69309b,70,True,"maven.yml, release.yml",126,10,5,0,1,0,0,5,0,0,1,0,1,1,0,1,1
+fit2cloud/rackshift,ceaaf8a8ddbc7e4e0ff2c81c3d092e4f8f9ce44d,80,True,"maven.yml, release.yml",120,11,5,0,1,0,0,5,0,0,1,0,1,1,0,1,1
+fit2cloud/rackshift,a416689d14549728e235e169c2df66d7b1e78726,90,True,"maven.yml, release.yml",115,9,5,0,1,0,0,5,0,0,1,0,1,1,0,1,1
+fit2cloud/rackshift,d293a896a3296d89c612bb5b202ba8f2a98e3694,100,True,"maven.yml, release.yml",122,10,5,0,1,0,0,5,0,0,1,0,1,1,0,1,1
+oracle/tribuo,7a00fab8d0ec0e4fe66bd6ed3e50c21bb08ff6f5,0,False,,,,,,,,,,,,,,,,,,
+oracle/tribuo,042ddfc51b8a22e5c0fb4d0986a2c0c2cf8d075a,10,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",72,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,bdd257c2abae3ce05fd95eb7e26d2969f48d8300,20,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",72,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,ba1bd30fd4d1cc96206bf7f4c306bcecfcdaa93a,30,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",72,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,c20627b83cbcf5632ab3b23ec6d2b0689a4aac8b,40,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",72,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,6cba7280a90d2e997d4f4991dc280b486793f8b3,50,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",72,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,44f0077fa0df1b38293208b5e6520a88d21c3864,60,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",72,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,f24959192668d0c7f783d5b20e7f88cf4e6e0400,70,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",72,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,e0013846c533728c8bc5d5277c3430b1a72953c6,80,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",72,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,4874f38377f7ce9013f355037c266a039d1e145f,90,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",75,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+oracle/tribuo,aa5ee98b755399df2609a750d7e59aaa07cf945e,100,True,"maven-macos.yml, maven-ubuntu.yml, maven-windows.yml",75,9,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,83a74c19ff4e2d220d185aff3064fee89df86d73,0,False,,,,,,,,,,,,,,,,,,
+NeoApplications/Neo-Launcher,fc4edef01537d5ca7339b6227026e000f04e17e6,10,True,android.yml,19,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,2a5e1157f57d6308ee42862ac42c12fa8fab1633,20,True,android.yml,56,0,9,0,3,0,0,4,0,1,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,685944578571e929bb493bee34e1c4a9ec5ac795,30,True,android.yml,58,0,9,2,3,0,0,4,2,1,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,06922120fb6100e914986ffb09d6f44769f28e33,40,True,android.yml,68,29,7,2,1,0,0,4,0,0,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,80003636cb3ca413b4c00e9bc6b828782d89792c,50,True,android.yml,68,29,7,2,1,0,0,4,0,0,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,4891f82199e0c22c63b8bd237bbb548e83112ef3,60,True,android.yml,68,29,7,2,1,0,0,4,0,0,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,39b5952a1b2e946f9c33ca5efa6c3fd2c170d341,70,True,android.yml,41,0,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,3e7c88b8e2ed1dc6e07ea9aa41ca768ed98a32ab,80,True,android.yml,41,0,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,16610acd62e7f68299b37fce3f63d151a704a55f,90,True,android.yml,41,0,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+NeoApplications/Neo-Launcher,95c4e78893f2ccc17f0ad71b34d347566aac21be,100,True,android.yml,41,0,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+exadel-inc/CompreFace,8cc5f9f5db497cfbde71cd65d654d7977936e522,0,False,,,,,,,,,,,,,,,,,,
+exadel-inc/CompreFace,6fa0114e547cdbaf57787c1034cfb7fa6e24f627,10,True,cla.yml,22,1,1,1,1,0,0,2,0,0,0,0,0,0,0,0,0
+exadel-inc/CompreFace,73384061ce5c0d43960457510552c901925d330a,20,True,cla.yml,22,1,1,1,1,0,0,2,0,0,0,0,0,0,0,0,0
+exadel-inc/CompreFace,39f2a4457c83c2554da74d7e4c926e9853b22a60,30,True,"Push-Python-to-Dockerhub.yml, Saving-visitors-statistics-to-S3.yml, cla.yml, unit-tests-on-nodejs.yml, unit-tests-on-python.yml",138,4,0,1,0,0,0,11,0,0,1,0,1,0,0,0,0
+exadel-inc/CompreFace,2ee354aa366f1b42d1d10deae5cace7a9500f4c7,40,True,"Push-Python-to-Dockerhub-gpu.yml, Push-Python-to-Dockerhub.yml, Saving-visitors-statistics-to-S3.yml, cla.yml, unit-tests-on-nodejs.yml, unit-tests-on-python.yml",162,4,0,1,0,0,0,13,0,0,1,0,1,0,0,0,0
+exadel-inc/CompreFace,684304322dedc99335a1a0865198160775fe2634,50,True,"Push-Python-to-Dockerhub-gpu.yml, Push-Python-to-Dockerhub.yml, Saving-visitors-statistics-to-S3.yml, cla.yml, unit-tests-on-nodejs.yml, unit-tests-on-python.yml",162,4,0,1,0,0,0,13,0,0,1,0,1,0,0,0,0
+exadel-inc/CompreFace,5f5696feec120d6c17a1dfcb853fe5c1fc7493a3,60,True,"CompreFace-image.yml, Push-Python-to-Dockerhub-gpu.yml, Push-Python-to-Dockerhub.yml, Push-Single-Image-to-Dockerhub.yml, Saving-visitors-statistics-to-S3.yml, cla.yml, unit-tests-on-nodejs.yml, unit-tests-on-python.yml",256,4,0,1,0,0,0,19,0,0,1,0,1,0,0,0,0
+exadel-inc/CompreFace,6078a58d3b21afcdf12c7f701e133d60a3aba6dd,70,True,"AWS-CompreFace-image.yml, Release-Push-Single-Image-to-Dockerhub.yml, Release-custom.yml, Release-default.yml, Saving-visitors-statistics-to-S3.yml, cla.yml, unit-tests-on-nodejs.yml, unit-tests-on-python.yml",280,4,0,1,0,0,0,20,0,0,1,0,1,0,0,0,0
+exadel-inc/CompreFace,d90d4b9c8ac9b6d8906f8a6bbffa3cbbd904be11,80,True,"AWS-CompreFace-image.yml, Release-Push-Single-Image-to-Dockerhub.yml, Release-custom.yml, Release-default.yml, Saving-visitors-statistics-to-S3.yml, cla.yml, unit-tests-on-nodejs.yml, unit-tests-on-python.yml",280,4,0,1,0,0,0,20,0,0,1,0,1,0,0,0,0
+exadel-inc/CompreFace,ae94a04722002109bf271c7bc8f4bfd9e9ee5011,90,True,"AWS-CompreFace-image.yml, Release-Push-Single-Image-to-Dockerhub.yml, Release-custom.yml, Release-default.yml, Saving-visitors-statistics-to-S3.yml, cla.yml, unit-tests-on-nodejs.yml, unit-tests-on-python.yml",280,4,0,1,0,0,0,20,0,0,1,0,1,0,0,0,0
+exadel-inc/CompreFace,a851c545ae2d8711b6bd5fe63cbac57c798b0292,100,True,"AWS-CompreFace-image.yml, Azure-Compreface-AIB-image.yml, Build-Deploy-auto.yml, Deploy-qa-demo-manual.yml, Release-Push-Single-Image-to-Dockerhub.yml, Release-custom.yml, Release-default.yml, Saving-visitors-statistics-to-S3.yml, cla.yml, load-tests-k6.yml, unit-tests-on-maven.yml, unit-tests-on-nodejs.yml, unit-tests-on-python.yml",546,14,7,1,1,0,0,23,0,0,1,0,1,1,0,1,2
+pop4959/Chunky,7f18ba24756c02072f6d28bd0ab472e9245106a2,0,False,,,,,,,,,,,,,,,,,,
+pop4959/Chunky,309d0a3d40e8250ee76d9061c31f79b67b85d1be,10,False,,,,,,,,,,,,,,,,,,
+pop4959/Chunky,5e34edc21bb5b783e41f7126275ba8a74e4a2337,20,False,,,,,,,,,,,,,,,,,,
+pop4959/Chunky,8435db73afecff598104e092c61ef48e455afd48,30,False,,,,,,,,,,,,,,,,,,
+pop4959/Chunky,83ba481df0f35f93224b43dc4660553fb3155184,40,True,build.yml,27,1,5,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+pop4959/Chunky,c55e573e17d72b660c12019df662352514dfb9bc,50,True,build.yml,47,1,9,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+pop4959/Chunky,a225c1251bfe8cc7c2b85d36acd582be57df2fac,60,True,build.yml,47,1,9,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+pop4959/Chunky,3c680f4bbe1dd438f8a162279e7798cb98559e5b,70,True,build.yml,47,1,9,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+pop4959/Chunky,5abcdc3bbf2774bf8547ef52018cc5c79248e14a,80,True,build.yml,47,1,9,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+pop4959/Chunky,a605fa9e1a61f2031de5a654c3675dbda14d7083,90,True,build.yml,47,1,9,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+pop4959/Chunky,469dd57931ca874739ce8be870773ddd9db81cb4,100,True,"build.yml, pages.yml",81,5,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+stargate/stargate,333f6a264b6d7e1f6f3465a860d3284a10afb48e,0,False,,,,,,,,,,,,,,,,,,
+stargate/stargate,1fa8620525ff34a3875cf4280f641f88fdb2bedd,10,True,release.yml,146,1,18,1,3,0,0,11,0,0,1,0,1,2,0,2,4
+stargate/stargate,da97dceb33ab73a7006da8872df257608b264309,20,True,release.yml,146,1,18,1,3,0,0,11,0,0,1,0,1,2,0,2,4
+stargate/stargate,cd903215a0fb8407e10d6845e7d7a5b4ab19fcbe,30,True,release.yml,146,1,18,1,3,0,0,11,0,0,1,0,1,2,0,2,4
+stargate/stargate,bd01a8cebe056832f86ef823e5846c696098af4c,40,True,release.yml,146,1,18,1,3,0,0,11,0,0,1,0,1,2,0,2,4
+stargate/stargate,222dd80d117a3b20dc7d71d279c7f8b8df6c75c6,50,True,"dependency-check.yml, release-v2.yml, release.yml",398,3,0,2,0,0,0,28,0,0,1,0,1,0,0,0,0
+stargate/stargate,cc7848cd9d46b0b7d07bd509919315887082a9a6,60,True,"apis-v2.yaml, ci-test.yml, dependency-check.yml, release-v2.yml, release.yml",911,70,0,18,0,0,0,38,0,0,1,0,1,0,0,0,0
+stargate/stargate,eb9f50ae41b82a720bea3be13f76b9d95d94dec2,70,True,"apis-v2.yaml, coordinator-test.yml, dependency-check.yml, release-v2.yml, release.yml",1008,80,0,20,0,0,0,44,0,0,1,0,1,0,0,0,0
+stargate/stargate,4ba6b608c164b3b4957d74c36ddc452dd7f110dd,80,True,"apis-v2.yaml, cache-cleanup.yaml, coordinator-test.yml, dependency-check.yml, merge-main-v1.yaml, portnum.yml, postman-docker.yaml, release-v2.yml, release.yml",1382,125,0,26,0,0,0,51,0,0,1,0,1,0,0,0,0
+stargate/stargate,a88341063ef40f49698412c32a4cd38b2c4d419a,90,True,"apis-v2.yaml, apis-v21.yaml, cache-cleanup.yaml, coordinator-test-v21.yml, coordinator-test.yml, dependency-check.yml, merge-main-v1.yaml, postman-docker.yaml, release-v2.yml, release-v21.yml, release.yml",2326,220,0,48,0,0,0,85,0,0,1,0,1,0,0,0,0
+stargate/stargate,598405b35de2d225fdafdfd116f94c93396924c2,100,True,"apis-v2.yaml, apis-v21.yaml, cache-cleanup.yaml, coordinator-test-v21.yml, coordinator-test.yml, dependency-check.yml, merge-main-to-v2.1.yaml, merge-main-v1.yaml, postman-docker.yaml, release-v2.yml, release-v21.yml, release.yml",2377,225,0,48,0,0,0,86,0,0,1,0,1,0,0,0,0
+Auto-Accounting/Qianji_auto,eb00e96bdac50296cf0e58d516992c298db4d308,0,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,9973cd4188a01463e3d3ef57a4e52be6c24d7210,10,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,fb9c1a02aca6bf2a6622ca8857f41899aa12a413,20,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,8b72351ac3b18ed99acecb27edd61a6cf18ca805,30,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,afd769bbd53d4454a7f9f629dcefcc0b3b8efd81,40,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,c55cdb94f6bfb2a518bc176fb6a563e61d07a8f0,50,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,d5057ab75ee2ca7f15aee8c4119c59d5e4b4e136,60,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,314e677f06cbe60d84c776e3b908fb7bc007a83e,70,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,550ecc43e0a09ed587f57ff0196c16e70d2295fd,80,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,6a80cfe02924cb75b55c49ce0857105963bd422d,90,False,,,,,,,,,,,,,,,,,,
+Auto-Accounting/Qianji_auto,fb3a7c02bca295186859b704db5a36cbd3a96416,100,False,,,,,,,,,,,,,,,,,,
+fizzgate/fizz-gateway-node,73f71ebd0068ac433da32b583ebd8bce0e41306b,0,False,,,,,,,,,,,,,,,,,,
+fizzgate/fizz-gateway-node,f89e4df27d3fcd2d9a66aec5a698adf38bffa77c,10,True,maven.yml,22,2,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+fizzgate/fizz-gateway-node,4f58ce4c720d22cb5af10790a1dc7d41ac775b3a,20,True,maven.yml,22,2,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+fizzgate/fizz-gateway-node,9a478ea7509024b82c4c00f1552a5ef2622360d8,30,True,maven.yml,89,3,13,8,1,0,0,7,0,0,1,0,1,1,0,1,1
+fizzgate/fizz-gateway-node,4014d0a8a62d656232f3516efeac0075d6e3283a,40,True,maven.yml,91,3,13,8,1,0,0,7,0,0,1,0,1,1,0,1,1
+fizzgate/fizz-gateway-node,5b573310e30734c3c1744aad0a6fd4137eca58cc,50,True,"codeql-analysis.yml, maven.yml",148,33,13,8,1,0,0,7,0,0,1,0,1,1,0,1,1
+fizzgate/fizz-gateway-node,bbd2cae3c5db506dbc67437d593767b262d5f5c0,60,True,"codeql-analysis.yml, maven.yml",148,33,13,8,1,0,0,7,0,0,1,0,1,1,0,1,1
+fizzgate/fizz-gateway-node,541a439453327ac22b1509004db47bf675c6de83,70,True,"codeql-analysis.yml, maven.yml",148,33,13,8,1,0,0,7,0,0,1,0,1,1,0,1,1
+fizzgate/fizz-gateway-node,0aed5701e9e1ce2d78aa7b703cc1c89c21977118,80,True,"codeql-analysis.yml, maven.yml",148,33,13,8,1,0,0,7,0,0,1,0,1,1,0,1,1
+fizzgate/fizz-gateway-node,fea6ae89ee89a544deabdbb95198e390f5281702,90,True,"codeql-analysis.yml, maven.yml",148,33,13,8,1,0,0,7,0,0,1,0,1,1,0,1,1
+fizzgate/fizz-gateway-node,115f8184efc514edec8ba9794d2f7346b405ecdd,100,True,"codeql-analysis.yml, maven.yml",148,33,13,8,1,0,0,7,0,0,1,0,1,1,0,1,1
+PolyhedralDev/Terra,c5dc13f514b0d2d34b8e24466141e1e8b5799c37,0,False,,,,,,,,,,,,,,,,,,
+PolyhedralDev/Terra,fde8fd95f263f9eaddcb8162a747aa8b3284d4b6,10,False,,,,,,,,,,,,,,,,,,
+PolyhedralDev/Terra,82fa9abe150259b54b22512bb64d1b0e6d6366ab,20,True,build.yml,31,3,5,0,1,0,0,1,0,0,0,0,0,1,0,1,1
+PolyhedralDev/Terra,a6a1810b4ad846c615f483db56c7d59ee827502f,30,True,build.yml,31,3,5,0,1,0,0,1,0,0,0,0,0,1,0,1,1
+PolyhedralDev/Terra,82dfe652e098993c51019369f03a087d33552c24,40,True,build.yml,31,3,5,0,1,0,0,1,0,0,0,0,0,1,0,1,1
+PolyhedralDev/Terra,859b968555c07d8c70830ba57d5acfdf3710024c,50,False,,,,,,,,,,,,,,,,,,
+PolyhedralDev/Terra,3d141fc47f623ad55010beb9ffdc0c1393bb3440,60,False,,,,,,,,,,,,,,,,,,
+PolyhedralDev/Terra,c6458c901d854560e80cc326d06ac8ae32e71f70,70,False,,,,,,,,,,,,,,,,,,
+PolyhedralDev/Terra,55bcad82d23facfeb99455d7e371b6413b0aa33f,80,False,,,,,,,,,,,,,,,,,,
+PolyhedralDev/Terra,688315180962ee8d17169003b3e62c31ff18d1b2,90,False,,,,,,,,,,,,,,,,,,
+PolyhedralDev/Terra,57cbea4000dc5198724dec8c9a075fa9fc78d006,100,False,,,,,,,,,,,,,,,,,,
+erupts/erupt,368942c58788edc98562de9630fa69b4c0e86830,0,False,,,,,,,,,,,,,,,,,,
+erupts/erupt,46865bc26113a91e988690f25de547d400b04e09,10,True,maven.yml,19,2,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,694aeefc21f9f63c7460bdc51166a91f658cf015,20,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,58c04ab8b17187e568183291b408c1384e21628c,30,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,7a3db1b9571acf8b9274020ab1732a5604f9a53a,40,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,40fe23d352f4c31423c46576e2842a2b19359cec,50,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,a46003c7af53f9f60df6c5736c704646bef69075,60,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,d3d6b567f3002ec498f4d5ef3483e9d40b383a20,70,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,b9aa9bbbab4bbaeb8095b70478cc962cdfcb4d82,80,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,157f199a1cd4850e2b351e563f975203e12959db,90,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+erupts/erupt,2e4006cb46fefd83c2eed6319a065f21d41f6e91,100,True,"codeql-analysis.yml, maven.yml",76,32,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+microsoft/playwright-java,c84caa0b147bd30852cc6231e48dc2cdb8336dd9,0,False,,,,,,,,,,,,,,,,,,
+microsoft/playwright-java,835f12f9b07649fa6ec4113335a920b5b4443c75,10,True,test.yml,31,0,6,0,1,0,0,0,0,0,1,1,1,1,0,0,0
+microsoft/playwright-java,3b495615c29e0121457c453607556da0ac466cc5,20,True,"publish.yml, test.yml, verify_api.yml",104,5,5,0,1,0,0,4,0,0,1,1,1,0,0,0,0
+microsoft/playwright-java,cbc671dd1656025d96c38d5a1d6f5f4b02022641,30,True,"publish.yml, test.yml, test_cli.yml, verify_api.yml",151,5,5,0,1,0,0,4,0,0,1,1,1,0,0,0,0
+microsoft/playwright-java,f143ebd05358f5b0d9f7d64fc51984bbc6cf5e52,40,True,"publish.yml, publish_canary_docker.yml, publish_docker_release.yml, test.yml, test_cli.yml, test_docker.yml, verify_api.yml",282,8,5,3,1,0,0,6,0,0,1,1,1,0,0,0,0
+microsoft/playwright-java,5a0dd8595ccf3716a9708736e5f7d76827b863ba,50,True,"publish.yml, publish_canary_docker.yml, publish_docker_release.yml, test.yml, test_cli.yml, test_docker.yml, verify_api.yml",282,8,5,3,1,0,0,6,0,0,1,1,1,0,0,0,0
+microsoft/playwright-java,a171c3960117f652522755abbb9b0e321a615f49,60,True,"publish.yml, publish_canary_docker.yml, publish_docker_release.yml, test.yml, test_cli.yml, test_docker.yml, verify_api.yml",286,8,7,3,1,0,0,6,0,0,1,1,1,0,0,0,0
+microsoft/playwright-java,7ff7ee188bfbfcd411c0cb286bc40abf18cf35bb,70,True,"publish.yml, publish_canary_docker.yml, publish_docker_release.yml, test.yml, test_cli.yml, test_docker.yml, verify_api.yml",286,8,7,3,1,0,0,6,0,0,1,1,1,0,0,0,0
+microsoft/playwright-java,86e91590cb5bec5acfd1cdc6c67cc41eee8257e1,80,True,"publish.yml, publish_canary_docker.yml, publish_docker_release.yml, test.yml, test_cli.yml, test_docker.yml, verify_api.yml",331,8,7,3,1,0,0,6,0,0,1,1,1,0,0,0,0
+microsoft/playwright-java,3119102b107ad75e98e83b128f02e6a504e832e8,90,True,"publish.yml, publish_canary_docker.yml, publish_docker_release.yml, test.yml, test_cli.yml, test_docker.yml, verify_api.yml",331,8,7,3,1,0,0,6,0,0,1,1,1,0,0,0,0
+microsoft/playwright-java,7eddd2d2b2ee1230381c095ebdaa1148218aa15d,100,True,"publish.yml, publish_canary_docker.yml, publish_docker_release.yml, test.yml, test_cli.yml, test_docker.yml, verify_api.yml",312,5,7,5,1,0,0,6,0,0,1,1,1,0,0,0,0
+TrianguloY/UrlChecker,cc5a61a9c189936f147a949b2bb19bbfa212a606,0,False,,,,,,,,,,,,,,,,,,
+TrianguloY/UrlChecker,b2090c2f66364d7175a3bf97cbb595dc2bc3db97,10,False,,,,,,,,,,,,,,,,,,
+TrianguloY/UrlChecker,b2090c2f66364d7175a3bf97cbb595dc2bc3db97,20,False,,,,,,,,,,,,,,,,,,
+TrianguloY/UrlChecker,bd11ad7ef228890a272e3b7ebee0d7520be79008,30,False,,,,,,,,,,,,,,,,,,
+TrianguloY/UrlChecker,3c66f0634538f247f736907b7f26979192b0ba94,40,False,,,,,,,,,,,,,,,,,,
+TrianguloY/UrlChecker,226e32052bda45b3f189e924ecce0a85b97fe854,50,False,,,,,,,,,,,,,,,,,,
+TrianguloY/UrlChecker,9947aea732b0e3beebe7b728ade0c8a785e87a6d,60,False,,,,,,,,,,,,,,,,,,
+TrianguloY/UrlChecker,e29b3dccbb5faed6a3df29aa579332682d53466c,70,True,"alpha.yml, codacy.yml, codeql-analysis.yml, labeler.yml, latest.yml, validate-gradle-build-test.yml, validate-store-files.yml",335,93,2,0,1,2,0,3,0,0,1,0,1,0,0,0,0
+TrianguloY/UrlChecker,c8c2ba25de1bd7f449059a88c4391bb39c04ecb0,80,True,"alpha.yml, assets-updater.yml, codacy.yml, codeql-analysis.yml, labeler.yml, latest.yml, validate-gradle-build-test.yml, validate-store-files.yml",375,118,2,0,1,2,0,6,0,0,1,0,1,0,0,0,0
+TrianguloY/UrlChecker,e23d48b1b205b2c2c507c106437dcaa505625a7c,90,True,"alpha.yml, assets-updater.yml, codacy.yml, codeql-analysis.yml, comment-download-link.yml, labeler.yml, latest.yml, validate-gradle-build-test.yml, validate-store-files.yml",446,127,2,4,1,2,0,6,0,0,1,0,1,0,0,0,0
+TrianguloY/UrlChecker,a024de4fab10e6832c2272c957d9296ef99054b6,100,True,"alpha.yml, assets-updater.yml, codacy.yml, codeql-analysis.yml, comment-download-link.yml, labeler.yml, latest.yml, validate-gradle-build-test.yml, validate-store-files.yml",446,127,2,4,1,2,0,6,0,0,1,0,1,0,0,0,0
+SceneView/sceneform-android,8923610613cce2d3dae956358398fbd40c0265d8,0,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,54697f5a252674784a601bed4e87ca9a889ebaf6,10,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,3286168b460760a575c183aebc5d1daf10e3f3f0,20,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,7267ab09b0a550eea7bc75dc6b956c09b5a91fcc,30,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,c2452a4f46a9b9d7e0d9cbc247b0cfe8d1a01902,40,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,b518bb3040ef8cb3fe5b1b4c1766da9b155f5d09,50,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,0c59e5ee97a58b3b60c22de921515e763b8ab616,60,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,48fc9547bbd6bec33d6434a758ba1aaaf450bec9,70,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,ac8efbb0b0764a69732426eba85500ac30389c5c,80,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,394d072c0abe575ef6879b94453bf56b48523c88,90,False,,,,,,,,,,,,,,,,,,
+SceneView/sceneform-android,88a7a671c638ec8c11e81a712c294d6746c2765f,100,False,,,,,,,,,,,,,,,,,,
+IrisShaders/Iris,fb01a525d03879286f37b0bfe4db2db03c43937e,0,False,,,,,,,,,,,,,,,,,,
+IrisShaders/Iris,83e25651725d063f6a3e747bdd849bf314bf101f,10,True,build.yml,28,2,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+IrisShaders/Iris,c3237ad2252d7b3f0e8e32b7a5ed1297e606b28c,20,True,build.yml,23,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+IrisShaders/Iris,690276f970e5bc128fd0b6ef3cb82d7a3c5fbdb6,30,True,build.yml,23,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+IrisShaders/Iris,80211b6a5304de2c158b1a29a8dd82776f96a5f2,40,True,"build-release.yml, build.yml",58,5,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+IrisShaders/Iris,5797a97dbdcd34af704208dde132577f02c11a13,50,True,"build-release.yml, build.yml",62,3,4,0,1,0,0,3,0,0,0,0,0,1,0,0,0
+IrisShaders/Iris,235fa8b24495191b27030fbf88f1f30ce52fdec9,60,True,"build-release.yml, build.yml",62,3,4,0,1,0,0,3,0,0,0,0,0,1,0,0,0
+IrisShaders/Iris,d50ca03bd3ced0742542b6f16b89985de9dbd306,70,True,"build-release.yml, build.yml",67,3,5,0,1,0,0,3,0,0,0,0,0,1,0,0,0
+IrisShaders/Iris,267af37dcdebbad31fafb48ff70e25ffd0fc6798,80,True,"build-release.yml, build.yml",68,3,5,0,1,0,0,3,0,0,0,0,0,1,0,0,0
+IrisShaders/Iris,6515f83e744acf187c3fe258ccbb7a79e40fae0e,90,True,"build-release.yml, build.yml",68,3,5,0,1,0,0,3,0,0,0,0,0,1,0,0,0
+IrisShaders/Iris,8ab28d79a5b0e22028ac2c359f295ae9f8469339,100,True,"build-release.yml, build.yml",66,3,5,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+MeteorDevelopment/meteor-client,144098ad5206a44823f82bb042e4bac58b29455e,0,False,,,,,,,,,,,,,,,,,,
+MeteorDevelopment/meteor-client,960489e73dc430b94774f1779c9f7b2cf327c6f9,10,False,,,,,,,,,,,,,,,,,,
+MeteorDevelopment/meteor-client,ed8caef23ca76d596c2b431e305b641776aff9c4,20,True,pull-request.yml,20,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+MeteorDevelopment/meteor-client,17306b395ac337ba25214b6ded4ea9dff55d5294,30,True,pull-request.yml,25,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+MeteorDevelopment/meteor-client,d6377d0b47181b76963232dfb752ed13ecf6d3dd,40,True,pull-request.yml,26,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+MeteorDevelopment/meteor-client,403800ee00fc7dd87faa1af975248ad4f6d3a943,50,True,pull-request.yml,26,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+MeteorDevelopment/meteor-client,006a7ad3949c58bcf0a03c1e9d9aaebd9804f6cd,60,True,"publish.yml, pull-request.yml",45,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+MeteorDevelopment/meteor-client,5161e45482750de4143c0236a595674d34ea2536,70,True,"publish.yml, pull-request.yml",45,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+MeteorDevelopment/meteor-client,d4d128f17efd21c76cdeb52ae8c0d34b90564721,80,True,"publish.yml, pull-request.yml",43,0,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+MeteorDevelopment/meteor-client,b5312fca7c653a63be9e45477c4f7cd45a53ed8b,90,True,"publish.yml, pull-request.yml",43,0,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+MeteorDevelopment/meteor-client,7eceb213bed2be8c0ca9e3a07e684ddff34e7390,100,True,"publish.yml, pull-request.yml",43,0,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,0d7640eb89e8594328c32555a2ae18635087e8cf,0,False,,,,,,,,,,,,,,,,,,
+moneytoo/Player,30f2d17d8346ee47e1797d4ec5858fc3c92c3a1b,10,True,android.yml,19,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,a1ac75bbb81c979518e4f5cce1c22cdf8f206b72,20,True,android.yml,19,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,bf9904f3eabf9cc73c7d453dcab21b36d2570281,30,True,android.yml,19,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,6105693e29f9e86e6a48796bc712d24629acb2f2,40,True,android.yml,19,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,d0381dacb809050db0d9c40bbf646abc7c6b68ef,50,True,android.yml,21,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,2c25117a6026d5cc2d46a57299fc9bd44263e4e7,60,True,android.yml,21,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,7dce9237c15f13a76d5190527fa7886e0039e0cf,70,True,android.yml,21,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,8f1313096ae6ab7769ef7e69c1f662666b1ce8d2,80,True,android.yml,21,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,dab09d9fa6a58ef060e965bfd9646b37ee759d87,90,True,android.yml,21,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+moneytoo/Player,2622bf5eeae4866e60d9e9243d0b9a9c6d9ed1b0,100,True,android.yml,21,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+LSPosed/LSPosed,7f0dd388666228079d69f4d12a3d2a36e2599691,0,True,android.yml,63,16,10,7,1,0,0,1,1,0,0,0,0,1,0,1,2
+LSPosed/LSPosed,33f2e15737562ce3b3ef4d50196b0c9f8c16604e,10,True,"core.yml, manager.yml",118,1,8,9,1,0,0,11,1,0,0,0,0,1,0,1,2
+LSPosed/LSPosed,6d056a40fdecbe9c9b4a53f9908283b65e0703ca,20,True,"core.yml, manager.yml",171,1,8,9,1,0,0,12,1,0,0,0,0,1,0,0,1
+LSPosed/LSPosed,efa42a4eb0109c73dcc61c6625c6bfc1800f910e,30,True,"core.yml, manager.yml",170,1,8,9,1,0,0,12,1,0,0,0,0,1,0,0,1
+LSPosed/LSPosed,8b7811a7ed59b89b8bf45477c52d062317e17b52,40,True,"core.yml, manager.yml",191,1,9,9,1,0,0,12,1,0,1,0,1,1,0,0,1
+LSPosed/LSPosed,ec0dac16836e7c75969db62a5ce47652aafb409b,50,True,"core.yml, crowdin.yml, manager.yml",221,1,9,9,1,0,0,14,1,0,1,0,1,1,0,0,1
+LSPosed/LSPosed,a04f2159ad237897eb1ce6900fb68c7a88257da4,60,True,"core.yml, crowdin.yml",154,0,2,4,1,0,0,10,0,0,1,0,1,0,0,0,0
+LSPosed/LSPosed,9480844c7bf05d69a190870f1f062d5bc80a730f,70,True,"core.yml, crowdin.yml",172,0,2,5,1,0,0,13,0,0,1,0,1,0,0,0,0
+LSPosed/LSPosed,51c82ac0c9780cd04508b3a0212f34a8674130d2,80,True,"core.yml, crowdin.yml",158,0,2,4,1,0,0,10,0,0,1,0,1,0,0,0,0
+LSPosed/LSPosed,c5c81377a5495b663875d26d9950d95fa2c0a38c,90,True,"core.yml, crowdin.yml",168,1,2,4,1,0,0,10,0,0,1,0,1,0,0,0,0
+LSPosed/LSPosed,90111eedc10df59bc4c209015e474a751b527b81,100,True,"core.yml, crowdin.yml",163,0,2,4,1,0,0,10,0,0,1,0,1,0,0,0,0
+gaucho-matrero/altoclef,b7f3e9997e61abe53f6ec1cead0f08ef9d06d203,0,False,,,,,,,,,,,,,,,,,,
+gaucho-matrero/altoclef,d98e9d6376679acf4fb45b367493ce4fe8cb1226,10,False,,,,,,,,,,,,,,,,,,
+gaucho-matrero/altoclef,53aafd63fe0d12a95e8a1b456942693793763e4c,20,False,,,,,,,,,,,,,,,,,,
+gaucho-matrero/altoclef,6c3d6f0f65b4c5230710bf7174500bbf530c8b2d,30,False,,,,,,,,,,,,,,,,,,
+gaucho-matrero/altoclef,9881d83f1bc613fd7c407c23bca2e3ca0c59ccca,40,False,,,,,,,,,,,,,,,,,,
+gaucho-matrero/altoclef,d866e90152865777e5913901d84f61be20cb76b2,50,True,gradle.yml,22,2,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+gaucho-matrero/altoclef,dc7de3817a59292a8a35dea183812b94218726c1,60,True,gradle.yml,27,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+gaucho-matrero/altoclef,81694bcec70fc62e521847fdb562172cc4697559,70,True,gradle.yml,27,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+gaucho-matrero/altoclef,f2d1b9cfe3d9457d3e715a86faa7041c915af2de,80,True,gradle.yml,27,2,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+gaucho-matrero/altoclef,929a7ed1a4c270fbb9044c2578057db7ab5c8acd,90,True,"gradle.yml, javadoc-publish.yml",66,2,4,0,1,0,0,1,0,0,1,0,1,0,0,1,1
+gaucho-matrero/altoclef,1f599045ea28cd0a3aa4251b585317728805459f,100,True,"gradle.yml, javadoc-publish.yml",66,2,4,0,1,0,0,1,0,0,1,0,1,0,0,1,1
+Suwayomi/Suwayomi-Server,40305d81c71ab12e52ded67913d1d89c693826bc,0,False,,,,,,,,,,,,,,,,,,
+Suwayomi/Suwayomi-Server,9e308025c377de0fa341f7fea3fd7f1790fc5f43,10,True,build.yml,70,0,11,5,2,0,0,0,1,0,0,0,0,1,0,1,0
+Suwayomi/Suwayomi-Server,28cc0a6f84580f4e504c606068a6724d4f793700,20,True,"build.yml, issue_closer.yml, publish.yml",192,29,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0
+Suwayomi/Suwayomi-Server,1ea821584c84b51154e914ceef26c6e8ef1f4763,30,True,"build_pull_request.yml, build_push.yml, issue_closer.yml, publish.yml",251,29,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0
+Suwayomi/Suwayomi-Server,7fc33ba8db4b9b465586bb28bf512f1f3ba9aef7,40,True,"build_pull_request.yml, build_push.yml, issue_closer.yml, publish.yml",278,9,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0
+Suwayomi/Suwayomi-Server,863dccb5ea79b7f8b5a654f7a225be9b9220c057,50,True,"build_pull_request.yml, build_push.yml, issue_closer.yml, publish.yml",278,9,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0
+Suwayomi/Suwayomi-Server,ca3246de0255168f93fdc40bfdeedd3149821f52,60,True,"build_pull_request.yml, build_push.yml, issue_closer.yml, publish.yml",267,10,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0
+Suwayomi/Suwayomi-Server,70355dc505b1906a5e00bc05c5b0005b5c2a50a3,70,True,"build_pull_request.yml, build_push.yml, docker_build_stable.yml, issue_closer.yml, publish.yml",250,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0
+Suwayomi/Suwayomi-Server,a41068dbc9e36cc669f5814b08a4bf07dd462926,80,True,"build_pull_request.yml, build_push.yml, docker_build_stable.yml, issue_closer.yml, publish.yml",250,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0
+Suwayomi/Suwayomi-Server,63ca189907cc90a76ff0ba683834a3d8ef58dddc,90,True,"build_pull_request.yml, build_push.yml, docker_build_stable.yml, issue_closer.yml, publish.yml",250,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0
+Suwayomi/Suwayomi-Server,c43b688f8e674329ed491f4dee9eff825cb65253,100,True,"build_pull_request.yml, build_push.yml, docker_build_stable.yml, issue_closer.yml, publish.yml",252,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0
+MultiPaper/MultiPaper,05585d2a63ece77d1b97c4de15f7bc6175afad43,0,True,"blank.yml, maven.yml",59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MultiPaper/MultiPaper,2c27d29a138dc3c2c690e1a76e068b8be8883dbf,10,True,"blank.yml, maven.yml",59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MultiPaper/MultiPaper,2b4e9575e9666a12fc3091ebc94b819f0dca795e,20,True,"blank.yml, maven.yml",59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MultiPaper/MultiPaper,5e41f6e2ab2dd8b40d517ce53ef2d5f3930f7feb,30,False,,,,,,,,,,,,,,,,,,
+MultiPaper/MultiPaper,effccf7a5f88efb190736a510731ed91366c2050,40,True,"build.yml, upstream.yml",102,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MultiPaper/MultiPaper,5d38e63e062e3623d7e2cc7071284612fb0882e8,50,True,"build.yml, upstream.yml",83,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MultiPaper/MultiPaper,3c9d232ac378f6f36f57cde788352cc6954a2299,60,True,"build.yml, upstream.yml",70,2,9,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+MultiPaper/MultiPaper,c8eee24d6c473ae5a8b278ad0cac7ccedd2060d0,70,True,"build.yml, upstream.yml",70,2,9,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+MultiPaper/MultiPaper,ce9f17587a1b2c0975ce34fb80e6e777806afd61,80,True,"build.yml, upstream.yml",70,2,9,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+MultiPaper/MultiPaper,04f646c6a9089595e9fccd72dddd305bc3b185da,90,True,"build.yml, upstream.yml",70,2,9,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+MultiPaper/MultiPaper,00dee8caeb1db6e70d55b408dfc2d3d0e818e15b,100,True,"build.yml, upstream.yml",70,2,9,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+CodeIntelligenceTesting/jazzer,5246e52be3bf4427791000355cbef86626b43eca,0,False,,,,,,,,,,,,,,,,,,
+CodeIntelligenceTesting/jazzer,cca74efb030f4bfe941decd218bdfb489f490523,10,True,"check-formatting.yml, run-all-tests.yml",84,2,7,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+CodeIntelligenceTesting/jazzer,8e369a2df8f5fe0bbe694ffd3e619b0be4d64522,20,True,"check-formatting.yml, run-all-tests.yml",76,2,6,1,1,0,0,2,0,0,0,0,0,1,0,0,0
+CodeIntelligenceTesting/jazzer,c6db34c7b5195a8f1ade5094279e381909934af3,30,True,"check-formatting.yml, release.yml, run-all-tests.yml",156,3,6,1,1,0,0,3,0,0,0,0,0,1,0,0,0
+CodeIntelligenceTesting/jazzer,ad9450e78f0df1af67e193dadd658f5127b4e84c,40,True,"check-formatting.yml, release.yml, run-all-tests.yml",172,4,8,3,1,0,0,2,0,0,0,0,0,1,0,0,0
+CodeIntelligenceTesting/jazzer,6e61ef2e76213097b36b14507a905e5dcd5a78bd,50,True,"check-formatting.yml, oss-fuzz.yml, release.yml, run-all-tests.yml",181,7,7,1,1,0,0,2,0,0,0,0,0,1,0,0,0
+CodeIntelligenceTesting/jazzer,72c33d0ab551b7a66aed25bab017088ec2d63ac6,60,True,"check-formatting.yml, oss-fuzz.yml, release.yml, run-all-tests.yml",214,7,7,1,1,0,0,2,0,0,0,0,0,1,0,0,0
+CodeIntelligenceTesting/jazzer,136c3672ef584dd95c7f9bfe57aee805a838c669,70,True,"check-formatting.yml, release.yml, run-all-tests.yml",192,15,9,3,1,0,0,3,0,0,0,0,0,1,0,0,0
+CodeIntelligenceTesting/jazzer,10f7aea8eb460b1c9e46206d696b4410825d851a,80,True,"check-formatting.yml, release.yml, run-all-tests.yml",186,9,11,2,2,0,0,2,0,0,0,0,0,2,0,0,0
+CodeIntelligenceTesting/jazzer,fb7717d51bfbc28d1ecec260068dc6081ad6e90d,90,True,"check-formatting.yml, datadog.yaml, release.yml, run-all-tests.yml",202,10,11,3,2,0,0,3,0,0,0,0,0,2,0,0,0
+CodeIntelligenceTesting/jazzer,13e38f8f40db32b5b135ac4c13fd2a6c95fb0039,100,True,"check-formatting.yml, datadog.yaml, fuzzing-featured.yaml, fuzzing.yaml, prerelease.yaml, release.yml, run-all-tests.yml",545,35,11,11,2,7,0,21,0,0,0,0,0,1,0,0,0
+ByteLegend/ByteLegend,d28beea78a99181dd51c906f3246c18e431888c8,0,True,check.yml,34,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+ByteLegend/ByteLegend,7a3990c0b5012b71f487edfa02bff29ac7895dd8,10,True,check.yml,33,0,5,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+ByteLegend/ByteLegend,9d42663c42915041d26674540962ec2acd4cc62c,20,True,check.yml,33,0,5,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+ByteLegend/ByteLegend,ac97a468530f9c04626ed4bccd3b1538f2a13bb3,30,True,"check.yml, deploy.yml, release.yml",172,0,4,5,1,0,0,15,0,0,0,0,0,0,0,1,1
+ByteLegend/ByteLegend,6307f8f54e23daf12c9194546c8404082a59cad8,40,True,"check.yml, deploy.yml, release.yml",204,0,4,7,1,0,0,16,0,0,0,0,0,0,0,1,1
+ByteLegend/ByteLegend,40dcf3bb13b2d3a903c7cc2a8b2760a76c972a5e,50,True,"check.yml, deploy.yml, release-code-checker.yml, release-code-merger.yml, release.yml",250,0,4,7,1,0,0,20,0,0,0,0,0,0,0,1,1
+ByteLegend/ByteLegend,eca46a172648f5ba36cb92bc609d6c0614b5601d,60,True,"check.yml, deploy.yml, release-code-checker.yml, release-code-merger.yml, release.yml",215,0,3,8,1,0,0,21,0,0,1,0,1,0,0,1,1
+ByteLegend/ByteLegend,2da7ddeae912e419e1dcaa6c1a717544864e47f3,70,True,"build-test-webeditor.yml, check.yml, deploy-webeditor.yml, deploy.yml, release-code-checker.yml, release-code-merger.yml, release-repo-cleaner.yml, release.yml",400,1,3,9,1,0,0,35,0,0,1,0,1,0,0,1,1
+ByteLegend/ByteLegend,e4ca8511ce4104aa5e99cfb801c2ed75ddb1250f,80,True,"build-test-webeditor.yml, check.yml, deploy-webeditor.yml, deploy.yml, release-code-checker.yml, release-code-merger.yml, release-repo-cleaner.yml, release.yml",400,1,3,9,1,0,0,35,0,0,1,0,1,0,0,1,1
+ByteLegend/ByteLegend,25ae93bb412dec84eefee29939ad242da38edbd1,90,True,"build-test-webeditor.yml, check.yml, deploy-webeditor.yml, deploy.yml, release-code-checker.yml, release-code-merger.yml, release-repo-cleaner.yml, release.yml, update-star-distribution.yml",421,3,2,9,1,0,0,38,0,0,1,0,1,1,0,1,0
+ByteLegend/ByteLegend,30484c2325dd4824aaff1486b06e9c11a882dd5e,100,True,"build-test-webeditor.yml, check.yml, deploy-webeditor.yml, deploy.yml, markdownlint.yml, release-code-checker.yml, release-code-merger.yml, release-repo-cleaner.yml, release.yml, update-star-distribution.yml",452,3,2,12,1,0,0,38,0,0,1,0,1,1,0,1,0
+RelativityMC/C2ME-fabric,d000d1750d9467a7e62f4a4fe15c220ac2a3275e,0,False,,,,,,,,,,,,,,,,,,
+RelativityMC/C2ME-fabric,ca6e44da4334982f924095cd7a5b94e123b7a9fd,10,True,build.yml,29,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+RelativityMC/C2ME-fabric,9187f9d66e257fcb12a093eb3f3e4e7e6c8403c7,20,True,build.yml,29,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+RelativityMC/C2ME-fabric,120c01838f0893ceeb017f949f93fb496cc925b5,30,True,"build.yml, test.yml",69,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+RelativityMC/C2ME-fabric,945b152ad510c98011ffbfc016702f2076be79ba,40,True,"build.yml, test.yml",69,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+RelativityMC/C2ME-fabric,1374ab8085514469c27605e3b4b96c2227677de7,50,True,"build.yml, test.yml",71,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+RelativityMC/C2ME-fabric,cf8196146cdf836d403a40095ae22f15a2d8ca2c,60,True,"build.yml, test.yml",71,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+RelativityMC/C2ME-fabric,b20668b0f06580e83b6ca82ebf86b9fb851c6b3b,70,True,"build.yml, test.yml",71,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+RelativityMC/C2ME-fabric,52c7339bd3dd918354cdb44a59f5bc7607a8d8a7,80,True,"build.yml, test.yml",71,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+RelativityMC/C2ME-fabric,59554d9894b52f82cad43e63c8fe7f061dbb0e9e,90,True,"build.yml, test.yml",71,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+RelativityMC/C2ME-fabric,2dd9d6b18251fdfb372389fbbe281fe74d3e3bd4,100,True,"build.yml, test.yml",71,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+bttv-android/bttv,5f02feb1c1cab92ce4aef4a5e660011f34e6182f,0,False,,,,,,,,,,,,,,,,,,
+bttv-android/bttv,e88071c3242ec3b48cb9ffc335a3d71447c0bfbe,10,True,"build.yml, docker.yml",56,0,2,0,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,a6b8675f9cf6a601c20ab2c511f66a53d6e22fab,20,True,"ci.yml, docker.yml",81,0,2,1,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,af01d4db8d6139b87d4e5c877d852e67675943ee,30,True,"ci.yml, docker.yml",88,0,2,2,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,c094ef87aa45cac21750f297dfb3d42da6c7676a,40,True,"ci.yml, docker.yml",105,0,2,2,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,9a59753a4fff35666c30a10a19651399c8ec2d10,50,True,"ci.yml, docker.yml",105,0,2,2,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,853f9cded09a442232e00f0c753b7bf2fef8afb8,60,True,"ci.yml, docker.yml",105,0,2,2,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,64323d6dac6aa1af83b22a6d58d61c7c078c722e,70,True,"ci.yml, docker.yml",145,10,2,3,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,e54b81f6a9cdf32bb772a7bbe0f62a0d19288fd2,80,True,"ci.yml, docker.yml",146,10,2,3,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,76d26c8f4f0de3b67c972ae074a941da950d22f3,90,True,"ci.yml, docker.yml",146,10,2,3,1,0,0,5,0,0,0,0,0,1,0,0,0
+bttv-android/bttv,4750b47fd4e68cf7139c801318385d7b7abe6be0,100,True,"ci.yml, docker.yml",117,7,2,3,1,0,0,5,0,0,0,0,0,1,0,0,0
+jiayaoO3O/18-comic-finder,a16e6c6017262100d39ed3793eff199ab1e289bd,0,False,,,,,,,,,,,,,,,,,,
+jiayaoO3O/18-comic-finder,9d12ee40d171c3abfca98de725a3ee8a4453e0b7,10,True,maven.yml,33,6,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,3a3a578a80359ba41a8086fb2db80ae70ada8bba,20,True,maven.yml,35,6,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,5d759c73eb1c1ed757982953ea3c164b70b5d3b2,30,True,maven.yml,33,6,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,0a5395375ef16077e3d8d91e391c0eacd5991f00,40,True,action.yml,38,6,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,e06477ed769ca065fd506aac1ad8e2ebbe57c6ab,50,True,action.yml,38,6,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,163ecebfe52487c2485f5dca318adc8b996edcbb,60,True,action.yml,38,6,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,f8740e648f2105a115d5e0bc4240e1ddef26dc60,70,True,action.yml,38,6,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,d7695f0457c009fb2e48ce3fdca184eb24611239,80,True,action.yml,38,6,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,1a15c085e993f1c23530662c783fa74eaa27dedc,90,True,action.yml,38,6,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+jiayaoO3O/18-comic-finder,775ab7992d2735092acabdf1e9af35ed412a1334,100,True,action.yml,38,6,5,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+GrimAnticheat/Grim,18ea965165b012be389984ab5cea55014e458226,0,False,,,,,,,,,,,,,,,,,,
+GrimAnticheat/Grim,27337b6fb811d01ac862f8c124c9cbae0b4722f0,10,True,"codeql-analysis.yml, maven-publish.yml",91,32,8,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+GrimAnticheat/Grim,576a21e1beafb8c097f3a7600d72ef370abe1a39,20,True,codeql-analysis.yml,61,30,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+GrimAnticheat/Grim,4d6ec373bfc0da2e87efe0a42a33302423a3980a,30,True,codeql-analysis.yml,61,30,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+GrimAnticheat/Grim,48449eede626dac5847e61469c5511911cd5e982,40,True,codeql-analysis.yml,61,30,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+GrimAnticheat/Grim,3457d3d995790cf5e2cc13fbc27d848a77a84ced,50,True,codeql-analysis.yml,61,30,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+GrimAnticheat/Grim,9ef5328683e98f8df429a9cc376b41b1640f471a,60,True,codeql-analysis.yml,61,30,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+GrimAnticheat/Grim,ff9c965d80bfea09cd3f3e65f05b13e437f50562,70,True,codeql-analysis.yml,61,30,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+GrimAnticheat/Grim,08465ef964c20798039a220972b1c62210ccf72a,80,True,"codeql-analysis.yml, gradle-publish.yml",93,38,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+GrimAnticheat/Grim,3b3085b60330c725ed06a2cbf80653c525569a77,90,True,"codeql-analysis.yml, gradle-publish.yml",93,38,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+GrimAnticheat/Grim,6954c8aa49676116817ed5f55da095243c8568a0,100,True,"codeql-analysis.yml, gradle-publish.yml",93,38,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+bit4woo/Fiora,fa96eb1eb7113e4cf9b6967e64a2a8faf8859630,0,False,,,,,,,,,,,,,,,,,,
+bit4woo/Fiora,1a863cc422a0c9885464a88d1169e420a19fdd34,10,False,,,,,,,,,,,,,,,,,,
+bit4woo/Fiora,8c45a318edfd108caca59014d7c426929e6527b1,20,False,,,,,,,,,,,,,,,,,,
+bit4woo/Fiora,0daba46739933eccc0402426f9cfd0605eef366e,30,False,,,,,,,,,,,,,,,,,,
+bit4woo/Fiora,8b4a5457ba3ad89eaaca30f383cf26ee24bf150f,40,False,,,,,,,,,,,,,,,,,,
+bit4woo/Fiora,6bbdd0945455923ff3a1fcf7f9611b5c1718da6a,50,False,,,,,,,,,,,,,,,,,,
+bit4woo/Fiora,eda92d8634e23ac3ee67ddb56a316cbeb4a12a67,60,False,,,,,,,,,,,,,,,,,,
+bit4woo/Fiora,c0e63a9ba57180f01dc83b3096669806b2120f15,70,True,main.yml,26,6,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+bit4woo/Fiora,714a59525cf35003aeba8d3f882ce39aea1f60b1,80,True,main.yml,26,6,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+bit4woo/Fiora,058a718c2dc154883d3f13b5bb0d11aae1828d90,90,True,main.yml,26,6,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+bit4woo/Fiora,058a718c2dc154883d3f13b5bb0d11aae1828d90,100,True,Loaded from cache,26,6,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Aliucord/Aliucord,7b7f3a3587af47821fa0c5a193e4c7afa1dbc834,0,True,build.yml,50,0,8,0,1,0,0,3,0,0,0,0,0,1,0,0,1
+Aliucord/Aliucord,891ac2a6531ef863f8c14823b48c2b8c20c2325a,10,True,build.yml,50,0,8,0,1,0,0,3,0,0,0,0,0,1,0,0,1
+Aliucord/Aliucord,f631d1850c07838ad37928a5dd47057de5350119,20,True,"build-installer.yml, build.yml",93,0,7,0,1,0,0,3,0,0,0,0,0,1,0,0,0
+Aliucord/Aliucord,b72722e21acd92ced8c1c36e2dbbc44c1272acf1,30,True,"build-installer.yml, build.yml, test.yml",128,1,5,0,1,0,0,3,0,0,0,0,0,1,0,0,0
+Aliucord/Aliucord,a72b8110b17d7ca11da10adb4468340480f96db6,40,True,"build-installer.yml, build.yml, generate-javadoc.yml, upload-pr-artifact.yml",168,5,6,0,1,0,0,4,0,0,0,0,0,1,0,0,0
+Aliucord/Aliucord,0a82b19fb7987fdf0c118f14df76bcda09ec370c,50,True,"build-aliucord.yml, build-injector.yml, build-installer.yml, generate-dokka.yml, upload-pr-artifact.yml",210,8,5,0,1,0,0,4,0,0,0,0,0,2,0,0,0
+Aliucord/Aliucord,213d2a5618d0c9ee636067eb9f3638eb8451bbf4,60,True,"build-aliucord.yml, build-injector.yml, build-installer.yml, generate-dokka.yml, upload-pr-artifact.yml",210,8,5,0,1,0,0,4,0,0,0,0,0,2,0,0,0
+Aliucord/Aliucord,838562570868221ac35e1effb30b13f5a8a7fce2,70,True,"build-aliucord.yml, build-injector.yml, build-installer.yml, generate-dokka.yml, start-jitpack.yml, upload-pr-artifact.yml",217,8,5,0,1,0,0,4,0,0,0,0,0,2,0,0,0
+Aliucord/Aliucord,a68b5627e4d6350a558b05947b643e71efbb3492,80,True,"build-aliucord.yml, build-injector.yml, build-installer.yml, generate-dokka.yml, publish-aliucord.yml, upload-pr-artifact.yml",245,9,5,0,1,0,0,9,0,0,0,0,0,2,0,0,0
+Aliucord/Aliucord,54e1e59da83ce3f4a1d734e6fcba256042b04e77,90,True,"build-aliucord.yml, build-injector.yml, build-installer.yml, generate-dokka.yml, publish-aliucord.yml, upload-pr-artifact.yml",245,9,5,0,1,0,0,9,0,0,0,0,0,2,0,0,0
+Aliucord/Aliucord,ae8a1aceb752b4d776200b26f1bb241481c3d320,100,True,"build-aliucord.yml, build-injector.yml, build-installer.yml, generate-dokka.yml, publish-aliucord.yml, upload-pr-artifact.yml",245,9,5,0,1,0,0,9,0,0,0,0,0,2,0,0,0
+LSPosed/LSPatch,aa5de4e166a87f88a7c76911b0d302b12a6d891e,0,False,,,,,,,,,,,,,,,,,,
+LSPosed/LSPatch,4cf450707ad1e7d2906839dc7273b0df0fd3071f,10,True,main.yml,39,0,7,0,1,0,0,0,0,0,0,0,0,1,0,1,1
+LSPosed/LSPatch,0ef781a6934fc4c23d31f079c70a344b80745ce4,20,True,main.yml,39,0,7,0,1,0,0,0,0,0,0,0,0,1,0,1,1
+LSPosed/LSPatch,dc0c63e85732ed0533c50877234b8969751e55cf,30,True,main.yml,37,0,6,0,1,0,0,0,0,0,0,0,0,1,0,1,1
+LSPosed/LSPatch,9ae8dbb7edfd87628537d85c7d12c667e8a65450,40,True,main.yml,37,0,6,0,1,0,0,0,0,0,0,0,0,1,0,1,1
+LSPosed/LSPatch,774afca73982c5b0b390325effeab5bafed9398c,50,True,"crowdin.yml, main.yml",70,0,6,0,1,0,0,2,0,0,0,0,0,1,0,1,1
+LSPosed/LSPatch,0ef34fa63349149f17a491e350e0616a4e7a3f89,60,True,"crowdin.yml, main.yml",144,0,13,3,1,0,0,10,1,0,1,0,1,1,0,1,2
+LSPosed/LSPatch,0d1f9374573571c010302bab902f2c93010ffedc,70,True,"crowdin.yml, main.yml",144,0,13,3,1,0,0,10,1,0,1,0,1,1,0,1,2
+LSPosed/LSPatch,c41be02511fd4db6b4d5f47c7f616352bfd128a7,80,True,"crowdin.yml, main.yml",148,0,13,3,1,0,0,12,1,0,1,0,1,1,0,1,2
+LSPosed/LSPatch,7cf217838107f0841751b3a376ca908337bc32f3,90,True,"crowdin.yml, main.yml",148,0,13,3,1,0,0,12,1,0,1,0,1,1,0,1,2
+LSPosed/LSPatch,3acc9086b188b4d80e02ae41cae30cbb4f94ba12,100,True,"crowdin.yml, main.yml",148,0,13,3,1,0,0,12,1,0,1,0,1,1,0,1,2
+CoocooFroggy/FutureRestore-GUI,0e2868d1491de9fd3ad6be2a0c9e71ff576ecdb0,0,False,,,,,,,,,,,,,,,,,,
+CoocooFroggy/FutureRestore-GUI,2fb0a68d25cd79c56ae95cd788497e965cce1b74,10,True,"gradle.yml, gradlepr.yml",38,4,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,b0f18330b5482a03f80526383e89c993cc9fad78,20,True,"build-pack-release.yml, compile-java-11.yml, gradle.yml",318,32,4,1,1,0,0,5,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,3bf5e656fe35c916dacf444c0f19e168cdfddf67,30,True,"build-pack-release.yml, compile-java-11.yml, gradle.yml",338,27,4,1,1,0,0,6,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,cf9715c9f43734d67b19dabcbea51295577c795e,40,True,"build-pack-release.yml, compile-java-11.yml, gradle.yml",339,33,4,1,1,0,0,6,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,9e7584aa51e89c24e9059fade4e8477d5f5f4885,50,True,"build-pack-manual.yml, build-pack-release.yml, build.yml, compile-java-11.yml",494,56,5,1,1,0,0,6,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,addea8af166f7232f018074eca9b1b1de0a6e2f3,60,True,"build-pack-manual.yml, build-pack-release.yml, compile-java-11.yml, gradle.yml",510,64,4,1,1,0,0,6,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,5ed78ba5f7c9943ec66b81273b58aeecc7367872,70,True,"build-pack-manual.yml, build-pack-release.yml, build.yml, compile-java-11.yml",494,56,5,1,1,0,0,6,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,4fd955a742985a133eff7fdf8ad46d88b230f095,80,True,"build-pack-manual.yml, build-pack-release.yml, compile-java-11.yml, gradle.yml",510,64,4,1,1,0,0,6,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,5b23cd5310f08a65b34a5b01c87ae25bb1ed9e4e,90,True,"build-pack-manual.yml, build-pack-release.yml, build.yml, compile-java-11.yml",510,64,5,1,1,0,0,6,0,0,1,0,1,1,0,0,0
+CoocooFroggy/FutureRestore-GUI,37e7e3985fe51844abd2603f5eb60222f4821c6e,100,True,"build-pack-manual.yml, build-pack-release.yml, build.yml, compile-java-11.yml",514,64,5,1,1,0,0,6,0,0,1,0,1,1,0,0,0
+apk-editor/APK-Explorer-Editor,a5529b53847ed1e52d8612e5bac76d7cdbefdd4c,0,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,fcbf9230a5d59c75ceb1495ca4963ad03c0a9eef,10,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,49242e56f586a60c8bd1eba38c8cf3e37f764d84,20,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,aed4bf9d10ce131058bca4c3c04c26830bb30421,30,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,7797f0c08a129e3559d06fd666e22ee26ab360f9,40,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,c2418b9267e22589dc9cc8125e67f909ff291172,50,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,7b6dda7c57283074b2038489ce03e3c7f2bfed46,60,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,2542bd8ee8933c9c138c419b58c486d1011523dd,70,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,2542bd8ee8933c9c138c419b58c486d1011523dd,80,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,9fc8f8679749197cbc20540a2ede5350e16f2347,90,False,,,,,,,,,,,,,,,,,,
+apk-editor/APK-Explorer-Editor,9fc8f8679749197cbc20540a2ede5350e16f2347,100,False,,,,,,,,,,,,,,,,,,
+Sketchware-Pro/Sketchware-Pro,630679e3b01a7d4e88ec03addc0e2faf7e57528b,0,False,,,,,,,,,,,,,,,,,,
+Sketchware-Pro/Sketchware-Pro,8e91e4b1dc124828c364a05ab88b51650b929c52,10,False,,,,,,,,,,,,,,,,,,
+Sketchware-Pro/Sketchware-Pro,bedeab60c3bbfa74891a9ac740dbcd83e2ff22cd,20,True,"DeleteWorkflowRuns.yml, android.yml",89,3,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Sketchware-Pro/Sketchware-Pro,14dedaad6cfdb422b487740ab62112b969ee900a,30,False,,,,,,,,,,,,,,,,,,
+Sketchware-Pro/Sketchware-Pro,47809bde6c60012056894f4a8087a2f7e37911dd,40,False,,,,,,,,,,,,,,,,,,
+Sketchware-Pro/Sketchware-Pro,d26306356523406184173b1d2b847c34a80a38a4,50,True,"DeleteWorkflowRuns.yml, android.yml",93,3,7,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Sketchware-Pro/Sketchware-Pro,d3c24ddca6c5693fb1046300200f3bf1e8b2e502,60,True,"DeleteWorkflowRuns.yml, android.yml",99,3,8,0,2,0,0,2,0,0,0,0,0,2,0,0,0
+Sketchware-Pro/Sketchware-Pro,7b6f97b063a6412a17de65a5b752454e8b8a2243,70,True,"DeleteWorkflowRuns.yml, android.yml",99,3,8,0,2,0,0,2,0,0,0,0,0,2,0,0,0
+Sketchware-Pro/Sketchware-Pro,8a716aaae45a918b1446b894b106daa01f6335c6,80,True,"DeleteWorkflowRuns.yml, android.yml",113,3,10,2,2,0,0,4,0,0,0,0,0,2,0,0,0
+Sketchware-Pro/Sketchware-Pro,326cf3e87db83f0cadc623baac909a54c250dc7d,90,True,"DeleteWorkflowRuns.yml, android.yml",113,3,10,2,2,0,0,4,0,0,0,0,0,2,0,0,0
+Sketchware-Pro/Sketchware-Pro,2d4ff70f44cba0952e5f5472a547392813d70d80,100,True,"DeleteWorkflowRuns.yml, android.yml",113,3,10,2,2,0,0,4,0,0,0,0,0,2,0,0,0
+awslabs/aws-saas-boost,e70a9955e20823946ee338a9ebe43f8736540bcb,0,False,,,,,,,,,,,,,,,,,,
+awslabs/aws-saas-boost,0c36e14456868a875c8113320ea8556acb6191ad,10,False,,,,,,,,,,,,,,,,,,
+awslabs/aws-saas-boost,51f855a5a82a1eeb1075d48b6705475616b4849a,20,False,,,,,,,,,,,,,,,,,,
+awslabs/aws-saas-boost,d9ee4240434d36c2fa26833233edeee55d133b8b,30,True,pr-validation.yml,59,15,9,0,2,0,0,0,0,0,1,0,1,2,2,0,0
+awslabs/aws-saas-boost,9d5872ad19b60d6743ac6f10db6394e70afe0943,40,True,pr-validation.yml,59,15,9,0,2,0,0,0,0,0,1,0,1,2,2,0,0
+awslabs/aws-saas-boost,a6d1d39cf191a88d892c38bc8c90ec22c23172f5,50,True,pr-validation.yml,59,15,9,0,2,0,0,0,0,0,1,0,1,2,2,0,0
+awslabs/aws-saas-boost,f6473b4b668a3aa3cb5a53c8f4e0a026745669e5,60,True,pr-validation.yml,59,15,9,0,2,0,0,0,0,0,1,0,1,2,2,0,0
+awslabs/aws-saas-boost,4a823c195fb3a1b4f9a5e97930a9cad1566eeb38,70,True,pr-validation.yml,59,15,9,0,2,0,0,0,0,0,1,0,1,2,2,0,0
+awslabs/aws-saas-boost,16aa427d5c0e9ea4c606f58fd9c14980dc2435e1,80,True,pr-validation.yml,59,15,9,0,2,0,0,0,0,0,1,0,1,2,2,0,0
+awslabs/aws-saas-boost,5ab937bd3a869b38b74e851c4626f933c2da12da,90,True,pr-validation.yml,59,15,9,0,2,0,0,0,0,0,1,0,1,2,2,0,0
+awslabs/aws-saas-boost,f80e9b3c882cbf15597c72bdb30d5e35a12cb3ef,100,True,pr-validation.yml,59,15,9,0,2,0,0,0,0,0,1,0,1,2,2,0,0
+ag2s20150909/TTS,d68176d9a3f8ad12e6476aca820b334066581baf,0,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,5c70c1d806b309a0ecc73854811c7e53af8353b7,10,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,093e3bdf350e335df1bc03cd79a82cb0abc3c74b,20,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,093e3bdf350e335df1bc03cd79a82cb0abc3c74b,30,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,d593cbfbdb0627ab0af5e8b351ae56fea96f1b9c,40,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,d593cbfbdb0627ab0af5e8b351ae56fea96f1b9c,50,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,4fb94630841bbe66c2d9bd764d1a5344d56854d6,60,True,codecov.yml,22,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+ag2s20150909/TTS,14e0b993ccbf33f701962b820f40f93283ffee7e,70,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,14e0b993ccbf33f701962b820f40f93283ffee7e,80,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,14e0b993ccbf33f701962b820f40f93283ffee7e,90,False,,,,,,,,,,,,,,,,,,
+ag2s20150909/TTS,14e0b993ccbf33f701962b820f40f93283ffee7e,100,False,,,,,,,,,,,,,,,,,,
+opengoofy/hippo4j,2ccf9aa7de3dc9e9256690efe5579b6dbc759960,0,False,,,,,,,,,,,,,,,,,,
+opengoofy/hippo4j,7a630ba072aaf759911ffe6ae55eba722573bc05,10,False,,,,,,,,,,,,,,,,,,
+opengoofy/hippo4j,a037be282d2c093e7f39fedf2a025ee8568f2570,20,False,,,,,,,,,,,,,,,,,,
+opengoofy/hippo4j,f1e2100aee34b8d45f98f394d48e5d476c49ff99,30,False,,,,,,,,,,,,,,,,,,
+opengoofy/hippo4j,8a1aee4824acc92263a5b0425e6220bbc447cf79,40,False,,,,,,,,,,,,,,,,,,
+opengoofy/hippo4j,7425dbbe90252a00cb02c4dc6d728761126c231e,50,False,,,,,,,,,,,,,,,,,,
+opengoofy/hippo4j,f1d3ed9d60907a55b55cc7e38f003a7456d3cd58,60,True,ci.yml,62,18,2,0,1,0,0,0,0,0,1,0,1,2,0,0,0
+opengoofy/hippo4j,21f5a12edc9d875aa75441b26c124999d01e7877,70,True,"ci.yml, reademe-contributors.yml",120,36,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0
+opengoofy/hippo4j,0f5cb2c7fbb106a155915c3399ffef7a191984a2,80,True,"ci.yml, reademe-contributors.yml",120,36,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0
+opengoofy/hippo4j,d63e1ac81a0ed350a480c8c9f2fa4eafc4b21fa0,90,True,"ci.yml, reademe-contributors.yml",120,36,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0
+opengoofy/hippo4j,8c8205b55283658e61593c3d437661fc7d34f036,100,True,"ci.yml, reademe-contributors.yml",120,36,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0
+opendatadiscovery/odd-platform,937beb4cefe9b0984d6b57279535878ec33d2bc0,0,False,,,,,,,,,,,,,,,,,,
+opendatadiscovery/odd-platform,0b5e4879f1c76fdb5de350f2388447ed8f9b9c45,10,True,"build.yaml, release-build.yaml, release-drafter.yaml",150,4,1,1,1,0,0,4,0,0,1,0,1,0,0,0,0
+opendatadiscovery/odd-platform,d64e4364955ac9f3d69cd1dfd24d0d3dbf9180cb,20,True,"build.yaml, codestyle.yaml, release-build.yaml, release-drafter.yaml",216,4,0,1,0,0,0,11,0,0,1,0,1,0,0,0,0
+opendatadiscovery/odd-platform,30e3f4eb23940d37c4fba60d679fa42282a8783d,30,True,"build.yaml, codestyle.yaml, release-build.yaml, release-drafter.yaml",214,4,1,1,1,0,0,8,0,0,1,0,1,0,0,0,0
+opendatadiscovery/odd-platform,8e58aaaae76ace822fe3ef393999d5ca384d91ff,40,True,"build.yaml, codestyle.yaml, release-build.yaml, release-drafter.yaml",216,4,1,1,1,0,0,8,0,0,1,0,1,0,0,0,0
+opendatadiscovery/odd-platform,3c99c8dbb42662700487f297a8d09a9f683a7d45,50,True,"main.yaml, release-build.yaml, release-drafter.yaml, run-tests.yaml, sonar-backend.yaml, sonar-frontend.yaml",338,6,0,2,0,0,0,12,0,0,1,0,1,0,0,0,0
+opendatadiscovery/odd-platform,06012d86e7e6bd2399a759e51c52fa1bab1a7bea,60,True,"main-build.yaml, release-build.yaml, release-drafter.yaml, run-pr-tests.yaml, sonar-backend.yaml, sonar-frontend.yaml",326,6,0,2,0,0,0,12,0,0,1,0,1,0,0,0,0
+opendatadiscovery/odd-platform,84683c91ce4f2a1079bf5a10e7733b7ff0cd19d5,70,True,"main-build.yaml, release-build.yaml, release-drafter.yaml, run-playwright-tests.yml, run-pr-tests.yaml, sonar-backend.yaml, sonar-frontend.yaml",354,6,0,2,0,0,0,13,0,0,1,1,1,0,0,0,0
+opendatadiscovery/odd-platform,2c5c77e23616ccd7b6609ebe15a78e55939c576c,80,True,"main-build.yaml, release-build.yaml, release-drafter.yaml, run-playwright-tests.yml, run-pr-tests.yaml, sonar-backend.yaml, sonar-frontend.yaml",381,6,0,2,0,0,0,13,0,0,1,1,1,0,0,0,0
+opendatadiscovery/odd-platform,dfc8de70667b522c9a1862c2bfae0027d87bacca,90,True,"main-build.yaml, release-build.yaml, release-drafter.yaml, run-playwright-tests.yml, run-pr-tests.yaml, sonar-backend.yaml, sonar-frontend.yaml",402,6,0,2,0,0,0,13,0,0,1,1,1,0,0,0,0
+opendatadiscovery/odd-platform,f66bb1ebff29ef19414efb9ef9326d3fda262190,100,True,"main-build.yaml, release-build.yaml, release-drafter.yaml, run-playwright-tests.yml, run-pr-tests.yaml, sonar-backend.yaml, sonar-frontend.yaml",442,4,0,6,0,0,0,17,0,0,1,1,1,0,0,0,0
+AndroidIDEOfficial/AndroidIDE,e5cdf40c2a4e2c2d97d6bb14e76559325a10b067,0,False,,,,,,,,,,,,,,,,,,
+AndroidIDEOfficial/AndroidIDE,aeb669e49558b75e3b715fe4d637f3d79dd711c5,10,True,android.yml,35,0,6,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+AndroidIDEOfficial/AndroidIDE,84d773e4fca5614a0f6439ff5142e3bfac4ff19d,20,True,android_workflow.yml,36,0,6,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+AndroidIDEOfficial/AndroidIDE,19d69ec8bff8f9bdae88ad6458b79b68eee5340e,30,True,"android_workflow.yml, delete_workflows.yml",70,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+AndroidIDEOfficial/AndroidIDE,c87538fc5aebc36fb01782dbc085799364f2cdcd,40,True,"android_workflow.yml, delete_workflows.yml",76,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+AndroidIDEOfficial/AndroidIDE,1843054d3d9f8b4c1ea5d1009a07df7fbd41e4bc,50,True,"android_workflow.yml, build.yml, delete_workflows.yml",210,1,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0
+AndroidIDEOfficial/AndroidIDE,f67eab8dd79785fe9dd64609aaae42bbe1a69abd,60,True,"build.yml, crowdin_contributors.yml, delete_workflows.yml",258,0,1,10,1,0,0,27,0,0,0,0,0,0,0,0,0
+AndroidIDEOfficial/AndroidIDE,a9a24242af34ed0cab06d7479c42b05ee410b821,70,True,"build.yml, crowdin_contributors.yml, delete_workflows.yml",295,0,1,11,1,0,0,37,0,0,0,0,0,0,0,0,0
+AndroidIDEOfficial/AndroidIDE,461bded41561f3e0eb77b29ccd7f06842189fa34,80,True,"build.yml, crowdin_contributors.yml, delete_workflows.yml",331,0,1,14,1,0,0,52,0,0,0,0,0,0,0,0,0
+AndroidIDEOfficial/AndroidIDE,eb613d58a6e55c38dd3138936ba917290fef9422,90,True,"build.yml, crowdin_contributors.yml, delete_workflows.yml",287,4,1,7,1,17,0,15,0,0,0,0,0,0,0,0,0
+AndroidIDEOfficial/AndroidIDE,ae1bd6f42164e7affcee3a314560dea68454e372,100,True,"build.yml, crowdin_contributors.yml, delete_workflows.yml",375,4,1,9,1,1,0,15,0,0,0,0,0,0,0,0,0
+microsoft/gctoolkit,20182053a49d99ca6d1cf26e8b422ee75c82a23a,0,False,,,,,,,,,,,,,,,,,,
+microsoft/gctoolkit,2f379de71d12789db6824cfc16231fcb5a9a2b5d,10,True,"maven.yml, publish.yml",96,7,7,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,d96119e691cf095d29d138eea92c7d0e7385e13c,20,True,"maven.yml, publish.yml",107,41,5,1,1,0,0,5,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,d1fc567b31f791c0bec2ba2f96620ab88e8fbc84,30,True,"maven.yml, publish.yml",66,0,5,0,1,0,0,5,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,3e6fd5d3cb60be399d08620a5a148cb8ad8c1029,40,True,"maven.yml, publish.yml",69,0,5,0,1,0,0,5,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,f9e44e90465574546a30ea5eb262c40367575529,50,True,"early_access.yml, maven.yml, publish.yml",107,0,7,1,1,0,0,7,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,e0eabd2f2ea8dd6611e6609c3008083e9961b3c1,60,True,"codeql-analysis.yml, early_access.yml, maven.yml, publish.yml",167,29,7,1,1,0,0,7,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,5ebf00e22448adecba75db43e3b0e5b77a687f63,70,True,"codeql-analysis.yml, early_access.yml, maven.yml, publish.yml",167,29,7,1,1,0,0,7,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,00294088489482c0f782b98ff2f7f97442a718b0,80,True,"codeql-analysis.yml, early_access.yml, maven.yml, publish.yml",167,29,7,1,1,0,0,7,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,d4a7ef3624bd048eb6097902fac1671aadb60901,90,True,"codeql-analysis.yml, early_access.yml, maven.yml, publish.yml",167,29,7,1,1,0,0,7,0,0,0,0,0,0,0,1,1
+microsoft/gctoolkit,d4a7ef3624bd048eb6097902fac1671aadb60901,100,True,Loaded from cache,167,29,7,1,1,0,0,7,0,0,0,0,0,0,0,1,1
+CappielloAntonio/tempo,6cfdb8ce2d859627f87c4bb0915bc67f5ecba395,0,False,,,,,,,,,,,,,,,,,,
+CappielloAntonio/tempo,983f91c706af5578457f801692ccfdd0744a206a,10,False,,,,,,,,,,,,,,,,,,
+CappielloAntonio/tempo,a677b02ccaf129b22794f74270f8ee506d3771e2,20,False,,,,,,,,,,,,,,,,,,
+CappielloAntonio/tempo,888428308d87df1365caf304c50a7a451f9efe8a,30,False,,,,,,,,,,,,,,,,,,
+CappielloAntonio/tempo,f6a54bc1995fcb32b7e13fec7ffff44e3f6e00cd,40,False,,,,,,,,,,,,,,,,,,
+CappielloAntonio/tempo,64ce58d10b2d0ba09ab53c96a92e602840c00543,50,False,,,,,,,,,,,,,,,,,,
+CappielloAntonio/tempo,9f5860b3f76df4b62d282f42b79c9b41b4042316,60,False,,,,,,,,,,,,,,,,,,
+CappielloAntonio/tempo,24d2d201adbed2d2a38d75cf4b97ef6b226bc6e9,70,True,github_release.yml,97,34,9,0,2,0,0,8,0,0,0,0,0,1,0,1,1
+CappielloAntonio/tempo,9784a2b6c57fe3265d456608de4125b3647c2c6f,80,True,github_release.yml,93,34,9,0,1,0,0,8,0,0,0,0,0,1,0,1,1
+CappielloAntonio/tempo,6ae7fc21721286eb8794198717a755f1aa36489f,90,True,github_release.yml,93,34,9,0,1,0,0,8,0,0,0,0,0,1,0,1,1
+CappielloAntonio/tempo,3e1c3133cad68513cde2acb5a3f558a1235af79b,100,True,github_release.yml,67,0,10,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+SonicCloudOrg/sonic-agent,1c26a6f4f76714115b348d25ddfb2ae20a21e72c,0,False,,,,,,,,,,,,,,,,,,
+SonicCloudOrg/sonic-agent,8149e39723ef7d0c218696dd77a29e58369b31e6,10,False,,,,,,,,,,,,,,,,,,
+SonicCloudOrg/sonic-agent,2fc52f7998d3918cd61dc2b048da6db88e0f7af8,20,False,,,,,,,,,,,,,,,,,,
+SonicCloudOrg/sonic-agent,42cc26ee1ec3de826b493eeba8bdc95302f9fff9,30,True,"aliyun.yml, docker-image.yml, maven-publish.yml",59,0,3,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+SonicCloudOrg/sonic-agent,5b13bc81c390b2bfd21046c6a391b3ad738fdaa4,40,False,,,,,,,,,,,,,,,,,,
+SonicCloudOrg/sonic-agent,3fb5fb0ebdcf8665e110cbb4da315ab5aa61cf10,50,False,,,,,,,,,,,,,,,,,,
+SonicCloudOrg/sonic-agent,5bd9afcf0395a3ab995a88e6e87873b00a48d5f0,60,True,"deploy.yml, maven.yml, release.yml",187,0,23,0,2,0,0,4,0,0,1,0,1,2,0,1,1
+SonicCloudOrg/sonic-agent,d2e43422d6c09cc6949993a745bc1c1d63a1ecc4,70,True,"deploy.yml, maven.yml, release.yml",208,0,27,0,3,0,0,3,0,0,1,0,1,2,0,2,2
+SonicCloudOrg/sonic-agent,6ec6dee19def43aaae1f5ea36de5d7d3c27336f7,80,True,"deploy.yml, maven.yml, release.yml",217,0,27,0,3,0,0,3,0,0,1,0,1,2,0,2,2
+SonicCloudOrg/sonic-agent,42b0746613fbcda602be870bf090381387587a89,90,True,"deploy.yml, maven.yml, release.yml",232,0,29,0,3,0,0,3,0,0,1,0,1,2,0,2,2
+SonicCloudOrg/sonic-agent,566599a9f9e47a51a9465fc389de310c356edcf3,100,True,"deploy.yml, maven.yml, release.yml",232,0,29,0,3,0,0,3,0,0,1,0,1,2,0,2,2
+tyron12233/CodeAssist,d383cce99aee61b5902a9c23688683ddcfb87abf,0,False,,,,,,,,,,,,,,,,,,
+tyron12233/CodeAssist,00a097e86bc15f047aa5d5a1142d8c1df942ce76,10,False,,,,,,,,,,,,,,,,,,
+tyron12233/CodeAssist,554ca1a467ab5b51aa3ced4efd857c5a7fe4a9a0,20,False,,,,,,,,,,,,,,,,,,
+tyron12233/CodeAssist,2e9844eb47883b14d9981100373ee35a5abf6443,30,True,"android.yml, build-apk.yml",57,1,6,1,1,0,0,0,0,0,1,0,1,1,0,0,0
+tyron12233/CodeAssist,e738c5a68e4da9410d3ed614103c88cadc81b377,40,True,"android.yml, build-apk.yml",57,1,6,1,1,0,0,0,0,0,1,0,1,1,0,0,0
+tyron12233/CodeAssist,6eb7bb27b7c410d129aea04e1fabe47a3d54a832,50,True,"android.yml, build-apk.yml",56,0,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+tyron12233/CodeAssist,54da3e421dae3839c8b5c9224af33110dcd9b494,60,True,"android.yml, build-apk.yml",55,0,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+tyron12233/CodeAssist,84d9bb1837e5b2493e0397520a708d4364a650b4,70,True,"android.yml, build-apk.yml",55,0,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+tyron12233/CodeAssist,885b4693a4e970c1384c14417366ae6e4ea64cda,80,True,"android.yml, build-apk.yml",56,0,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+tyron12233/CodeAssist,13d544898364b22d5b5acaec2749661258dce95d,90,True,"android.yml, build-apk.yml",56,0,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+tyron12233/CodeAssist,ef1cdbea406e2f9993ef4c1a64e6cbe21a0a8804,100,True,"android.yml, build-apk.yml",56,0,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+GrapheneOS/Camera,f6b0b5ad73b6aa13e1edc9f9cc719c3a53f7b054,0,False,,,,,,,,,,,,,,,,,,
+GrapheneOS/Camera,61c7dae53675b0932ddef976f708d5e1492d1d6b,10,True,"build.yml, validate-gradle-wrapper.yml",27,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,15115034dc37348d174a845249151cd99e37d5de,20,True,"build.yml, validate-gradle-wrapper.yml",27,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,b35b69010a81236167b34353395a398a8ded5a3e,30,True,"build.yml, validate-gradle-wrapper.yml",24,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,bb8568ea80ee6d538be7ae00535f821e53e553be,40,True,"build.yml, validate-gradle-wrapper.yml",24,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,a91aaf33a0e4760287c4dee0fccb31ee129b4154,50,True,"build.yml, validate-gradle-wrapper.yml",24,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,6ed87da9e825bc44bc68871004d45dfd17548351,60,True,"build.yml, validate-gradle-wrapper.yml",24,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,389c0b61b4d65babe4e5c28bdfdaa326d1a88969,70,True,"build.yml, validate-gradle-wrapper.yml",24,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,d5dccb770fe250f7a7e551b9b0408dcac1685c02,80,True,"build.yml, validate-gradle-wrapper.yml",24,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,d4f6e67afb36fe1a86c7b00fbf84cccfafc57967,90,True,"build.yml, validate-gradle-wrapper.yml",24,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+GrapheneOS/Camera,47ce17781568c3eaa59d7a38db691c4767560b36,100,True,"build.yml, validate-gradle-wrapper.yml",24,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+skidfuscatordev/skidfuscator-java-obfuscator,0a0f190d24dbd9d975f62558f4f751f69a389297,0,False,,,,,,,,,,,,,,,,,,
+skidfuscatordev/skidfuscator-java-obfuscator,085610e9ef49430ba10fc24074012f90a9561074,10,False,,,,,,,,,,,,,,,,,,
+skidfuscatordev/skidfuscator-java-obfuscator,92829ed496457be09e006de0ac911e8e944bf754,20,False,,,,,,,,,,,,,,,,,,
+skidfuscatordev/skidfuscator-java-obfuscator,5a3ee3d110d360045bb6c7c6a5515f748bc14a4b,30,False,,,,,,,,,,,,,,,,,,
+skidfuscatordev/skidfuscator-java-obfuscator,dfeb76840243c3fdaab0a25dd4072b699ab9c569,40,False,,,,,,,,,,,,,,,,,,
+skidfuscatordev/skidfuscator-java-obfuscator,551b8cbcf8d3b535b5783afbd0f6f60a761055af,50,False,,,,,,,,,,,,,,,,,,
+skidfuscatordev/skidfuscator-java-obfuscator,a3c124850322f5f3d881beba277c7e86a1d130fc,60,True,maven.yml,28,2,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+skidfuscatordev/skidfuscator-java-obfuscator,c92f1aa4ba0c569490d5f2f7533349c66ac9d28c,70,True,maven.yml,28,3,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+skidfuscatordev/skidfuscator-java-obfuscator,9e6b1eb964aa14932dc1955b66b52de5c883095e,80,True,maven.yml,28,3,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+skidfuscatordev/skidfuscator-java-obfuscator,40dd99be92db62903341c591c7728d992cd35a8f,90,True,maven.yml,28,3,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+skidfuscatordev/skidfuscator-java-obfuscator,39a1227c14a24efd8ff6fb4e5636c99aa1a90150,100,True,maven.yml,28,3,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+apache/skywalking-java,be0f57ae2867c4b04791dbd832d39f45d2d1d312,0,True,"ci-it.yaml, codeql.yaml, dead-link-checker.yaml, docker-ci.yaml, e2e.alarm.yaml, e2e.cluster.yaml, e2e.compat.yaml, e2e.event.yaml, e2e.go.yaml, e2e.istio.yaml, e2e.jdk-versions.yaml, e2e.js.yaml, e2e.kafka.yaml, e2e.log.yaml, e2e.nodejs.yaml, e2e.php.yaml, e2e.profiling.yaml, e2e.python.yaml, e2e.so11y.yaml, e2e.storages.yaml, e2e.ttl.yaml, e2e.yaml, plugins-jdk14-test.0.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, publish-docker.yaml",1958,425,4,93,1,2,2,2,1,0,0,1,1,1,0,0,1
+apache/skywalking-java,a7a4faabb158ea8322170e3c7cae0210a8c4e7b4,10,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk14-test.0.yaml, plugins-jdk17-test.0.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, publish-docker.yaml",810,166,8,6,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,a48a16b6d6c890bfbcce3bbd94d6498bb71a7bd2,20,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk14-test.0.yaml, plugins-jdk17-test.0.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, publish-docker.yaml",813,166,8,6,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,d45818911d9ecd656fb5ab1e6e072e737d57e3ee,30,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk14-test.0.yaml, plugins-jdk17-test.0.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, publish-docker.yaml",820,166,8,6,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,129f57c4c148d04279ec2922a7ede8fa8c415b0b,40,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk17-test.0.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, plugins-tomcat10-test.0.yaml, publish-docker.yaml",823,166,8,6,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,6d5bbe8e5f7edec0cb10e3772266b6f632a04a34,50,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk17-test.0.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, plugins-tomcat10-test.0.yaml, publish-docker.yaml",830,166,8,6,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,8c989b74e94e8784bfd90b5612dce2cb841bfc05,60,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk17-test.0.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, plugins-tomcat10-test.0.yaml, publish-docker.yaml",833,168,8,6,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,7a6334d2b51671a505af8fc0ca4dad6ef4d176eb,70,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk17-test.0.yaml, plugins-jdk17-test.1.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, plugins-tomcat10-test.0.yaml, plugins-tomcat9-test.0.yaml, publish-docker.yaml",948,196,9,4,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,d42e24583dd1582f9b09c164ce3865e4d3735bed,80,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk17-test.0.yaml, plugins-jdk17-test.1.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, plugins-tomcat10-test.0.yaml, plugins-tomcat9-test.0.yaml, publish-docker.yaml",961,196,9,4,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,5f61c5e31d45be9c0f8bfd2235990cfb434f35e5,90,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk17-test.0.yaml, plugins-jdk17-test.1.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, plugins-tomcat10-test.0.yaml, plugins-tomcat9-test.0.yaml, publish-docker.yaml",966,196,9,4,2,2,1,2,2,0,0,1,1,2,0,0,0
+apache/skywalking-java,045c1e753f0f18a39566bd47dd6abf51ba4d2ccf,100,True,"ci.yaml, codeql.yaml, dead-link-checker.yaml, e2e.yaml, plugins-jdk17-test.0.yaml, plugins-jdk17-test.1.yaml, plugins-jdk21-test.0.yaml, plugins-test.0.yaml, plugins-test.1.yaml, plugins-test.2.yaml, plugins-test.3.yaml, plugins-tomcat10-test.0.yaml, plugins-tomcat9-test.0.yaml, publish-docker.yaml",1035,211,9,4,2,2,1,2,2,0,0,1,1,2,0,0,0
+huaweicloud/Sermant,e93409da2ad21b62254607f0c8521f21643b9cb7,0,False,,,,,,,,,,,,,,,,,,
+huaweicloud/Sermant,b0adaabf99806c51060d0067600e0035407894b1,10,True,maven.yml,27,0,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+huaweicloud/Sermant,f8aca36d8f465f0414dd906cbc959c0ee709d935,20,True,"maven.yml, stale.yml",106,34,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+huaweicloud/Sermant,c93c3d32ae4f103671173d0fa7bce8cfecc6de7a,30,True,"create_release.yml, maven.yml, stale.yml",151,38,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+huaweicloud/Sermant,f48c142f7c9890054c8a7ace65aeabd17f1da13f,40,True,"create_release.yml, integration_test.yml, maven.yml, stale.yml",239,38,0,3,0,0,0,3,0,0,1,0,1,0,0,0,0
+huaweicloud/Sermant,a48661694b3cb4e5f6272e2a512cb30753d38bf3,50,True,"create_release.yml, integration_test.yml, intergration_spring_test.yml, maven.yml, stale.yml",522,38,0,3,0,0,0,3,0,0,1,0,1,0,0,0,0
+huaweicloud/Sermant,8c0d636c48c48cb60c68832c902f3af06630d9ef,60,True,"Codecov.yml, create_release.yml, integration_test.yml, intergration_spring_test.yml, maven.yml, stale.yml",974,40,0,13,0,0,0,3,0,0,1,0,1,0,0,0,0
+huaweicloud/Sermant,315f7d02a9c86034ce0b25aa8445a5f9e8d5d875,70,True,"Codecov.yml, create_release.yml, dubbo_integration_test.yml, maven.yml, publish_maven_central_warehouse.yml, spring_integration_test_1.yml, spring_integration_test_2.yml, stale.yml",650,42,0,10,0,0,0,10,0,0,1,0,1,0,0,0,0
+huaweicloud/Sermant,24136a9bcfeaaf97fce2be2e9e45855ce6ee8303,80,True,"Codecov.yml, create_release.yml, dubbo_integration_test.yml, maven.yml, publish_maven_central_warehouse.yml, spring_integration_test_1.yml, spring_integration_test_2.yml, stale.yml",652,42,0,12,0,0,0,10,0,0,1,0,1,0,0,0,0
+huaweicloud/Sermant,07f7474c2fd1377bacdff2d11d3ca8907802476e,90,True,"Codecov.yml, create_release.yml, dubbo_integration_test.yml, maven.yml, publish_maven_central_warehouse.yml, spring_integration_test_1.yml, spring_integration_test_2.yml, stale.yml",683,42,0,17,0,0,0,10,0,0,1,0,1,0,0,0,0
+huaweicloud/Sermant,a955209dde9c316119994e1db58f5685f71df57f,100,True,"Codecov.yml, backend_integration_test.yml, create_release.yml, dubbo_integration_test.yml, maven.yml, publish_maven_central_warehouse.yml, spring_integration_test_1.yml, spring_integration_test_2.yml, stale.yml",747,42,0,17,0,0,0,10,0,0,1,0,1,0,0,0,0
+CatVodTVOfficial/CatVodTVSpider,de49c475c9c9991c2a000391ac54a81f7a78e608,0,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,00e21f57eb1b31fcc96eb29ae7a17c81097c9a14,10,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,ff8556fd23436b4a320acb59042d2c618c1471f9,20,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,3c248642d4472aaff1249d8a841e8fa07c8698ac,30,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,c3159d013b9de9332331c69843b284d02ef711c5,40,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,cc8f03cba185004d91ec1328d76c78add522040d,50,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,2405707a15236b2562cc90ba3bdcff4d41c484c9,60,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,e7fc07796533a7d985d911546d1aa55161e56f34,70,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,c5e0afba43d025a67890cfc58e7e445cdf5f77d9,80,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,f7965f418158f937fda1b05337fde62b4d6e7afa,90,False,,,,,,,,,,,,,,,,,,
+CatVodTVOfficial/CatVodTVSpider,9003145059c69053331c3a4bf873dc72516e9f93,100,False,,,,,,,,,,,,,,,,,,
+qqxx6661/log-record,039fcec7450bf40fcb76e16d04bc0e7bff3717f3,0,False,,,,,,,,,,,,,,,,,,
+qqxx6661/log-record,37e90c3537f953399cc033638fc6bc6140d0cb15,10,False,,,,,,,,,,,,,,,,,,
+qqxx6661/log-record,91fe92a8ed3665bdf7e02986e4190479ce4c475c,20,False,,,,,,,,,,,,,,,,,,
+qqxx6661/log-record,3dae948f63ef446501b1d9b039522f3e96c6a44a,30,False,,,,,,,,,,,,,,,,,,
+qqxx6661/log-record,06e589636ff00f828d373e51ff502fa185e3fef2,40,False,,,,,,,,,,,,,,,,,,
+qqxx6661/log-record,91c80dd64d40896704098d6a642c679e344f8be3,50,False,,,,,,,,,,,,,,,,,,
+qqxx6661/log-record,a038e56cbc38ba9dea1b8ae4d861962204ef13ef,60,True,main.yml,34,1,5,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+qqxx6661/log-record,b70350bbcccfdd8e29eb4e5b3d5c5bff2edb06e2,70,True,main.yml,34,1,5,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+qqxx6661/log-record,b56eb4b2de2a84ce6da6a1d91a0e4b8f7233fe44,80,True,ci.yml,30,3,5,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+qqxx6661/log-record,7c2b16d58416aeaf02e3f7696d4a59c39e39e233,90,True,ci.yml,30,3,5,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+qqxx6661/log-record,f841849b09208dde526d55c884365d7ceb455dbc,100,True,ci.yml,30,3,5,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+vran-dev/databasir,31d71256dda38a506113d5f3e81e29021799b134,0,False,,,,,,,,,,,,,,,,,,
+vran-dev/databasir,61e570819613cfbe0b3f214f290b73051cd68051,10,False,,,,,,,,,,,,,,,,,,
+vran-dev/databasir,04ecc186ad8cacf650ad948f30b377b918a631e0,20,False,,,,,,,,,,,,,,,,,,
+vran-dev/databasir,e799940c2dac9a997c92605318297b3a5c89cfab,30,True,"check.yml, release.yml",47,4,4,1,1,0,0,2,0,0,1,0,1,1,0,1,1
+vran-dev/databasir,e1854b0b4943c3adc29909ca4ec5190f2efaeba9,40,True,"auto-checkstyle.yml, auto-docker-latest.yml, manual-release.yml",96,6,0,0,0,0,0,8,0,0,1,0,1,0,0,0,0
+vran-dev/databasir,6d598b69663c9040250f6ab7fc90bb6d3adfbd73,50,True,"auto-check.yml, auto-docker-latest.yml, manual-release.yml",133,6,0,1,0,0,0,8,0,0,1,0,1,0,0,0,0
+vran-dev/databasir,4f569714fe4f157527ffb386af4d93937c30d77f,60,True,"auto-check.yml, auto-docker-latest.yml, auto-jar-latest.yml, codeql.yml, manual-release.yml",224,39,8,1,1,0,0,9,0,0,1,0,1,1,0,1,1
+vran-dev/databasir,fa3dbb7e8484b7549869bbc7ff0b688cd1654fe1,70,True,"auto-check.yml, auto-docker-latest.yml, auto-jar-latest.yml, codeql.yml, manual-release.yml",224,39,8,1,1,0,0,9,0,0,1,0,1,1,0,1,1
+vran-dev/databasir,3f01403bb2a7dab44bdecb078d7cfc736e3a4ea3,80,True,"auto-check.yml, auto-docker-latest.yml, auto-jar-latest.yml, codeql.yml, manual-release.yml",226,39,8,1,1,0,0,9,0,0,1,0,1,1,0,1,1
+vran-dev/databasir,d4176c6b064c52f5b0e613db5d495243f426215d,90,True,"auto-check.yml, auto-docker-latest.yml, auto-jar-latest.yml, codeql.yml, manual-release.yml",226,39,8,1,1,0,0,9,0,0,1,0,1,1,0,1,1
+vran-dev/databasir,e5dc581e482bb42a49a22e652042fdd6ea4abba2,100,True,"auto-check.yml, auto-docker-latest.yml, auto-jar-latest.yml, codeql.yml, manual-release.yml",226,39,8,1,1,0,0,9,0,0,1,0,1,1,0,1,1
+testsigmahq/testsigma,c1b6d780cd4c1221b68f30aa2b7857091f7aa704,0,False,,,,,,,,,,,,,,,,,,
+testsigmahq/testsigma,e350202c2b3aa52ebe3519ab8b33d3ae3e90694c,10,False,,,,,,,,,,,,,,,,,,
+testsigmahq/testsigma,e6a81d2fee761d84b502381e3fee16aaf4a8876a,20,False,,,,,,,,,,,,,,,,,,
+testsigmahq/testsigma,5fab7f44f998443eb27d2a47545a17b0eaabab08,30,False,,,,,,,,,,,,,,,,,,
+testsigmahq/testsigma,1d67526ff842b12cc037446477bcd9392f41bd04,40,False,,,,,,,,,,,,,,,,,,
+testsigmahq/testsigma,a201afe0d14da5b1cac8a0bc5045a844ba301569,50,False,,,,,,,,,,,,,,,,,,
+testsigmahq/testsigma,6edb0ba133f1336721637b0befd757fcfe93a735,60,True,"agent-build.yml, docker-build-m1.yml, docker-build.yml, server-build.yml",197,0,4,0,1,0,0,20,0,0,0,0,0,1,0,0,1
+testsigmahq/testsigma,26b75f78a764b8a4675807ef7d7706bcfe74ad47,70,True,"agent-build.yml, docker-build-m1.yml, docker-build.yml, server-build.yml",198,0,4,0,1,0,0,24,0,0,0,0,0,1,0,0,1
+testsigmahq/testsigma,cb98808b7c054b52e54fb6a61f7ce00612ba092c,80,True,"agent-build.yml, create_jira_ticket.yml, docker-build-m1.yml, docker-build.yml, server-build.yml",310,0,4,2,1,0,0,36,0,0,0,0,0,1,0,0,1
+testsigmahq/testsigma,defc58f5f8fab1bc8cb214f27d09bec75e9236be,90,True,"agent-build.yml, create_jira_ticket.yml, docker-build-m1.yml, docker-build.yml, server-build.yml",314,0,4,2,1,0,0,36,0,0,0,0,0,1,0,0,1
+testsigmahq/testsigma,ee2306941fcefbe64f1a399d225fbcd209246220,100,True,"agent-build.yml, create_jira_ticket.yml, docker-build-m1.yml, docker-build.yml, server-build.yml",314,0,4,2,1,0,0,36,0,0,0,0,0,1,0,0,1
+lakesoul-io/LakeSoul,555ad0836ecba8c4f2eeef5b64bfe73baf68222b,0,False,,,,,,,,,,,,,,,,,,
+lakesoul-io/LakeSoul,70bc008e423f510af85489243760fd461b3a93ac,10,False,,,,,,,,,,,,,,,,,,
+lakesoul-io/LakeSoul,d01d7ff81ce3189ef1c32f27e222260debbaac49,20,False,,,,,,,,,,,,,,,,,,
+lakesoul-io/LakeSoul,7451946cfa0d4bfaf6350d124ee547cff23e945e,30,False,,,,,,,,,,,,,,,,,,
+lakesoul-io/LakeSoul,6bc7db9806ad9cd32207896db46c9e5ada5d2b49,40,False,,,,,,,,,,,,,,,,,,
+lakesoul-io/LakeSoul,16c4b139b379be288a046b6d843309df4130cd3d,50,False,,,,,,,,,,,,,,,,,,
+lakesoul-io/LakeSoul,2ee5c4ec2f3edadacaebf75f2cd1cb2419be3f96,60,False,,,,,,,,,,,,,,,,,,
+lakesoul-io/LakeSoul,790456ea0535ef8681028ee6b1f9b7e2cbf8f8c4,70,True,maven-test.yml,49,7,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+lakesoul-io/LakeSoul,5bb6a59fbbe3a2f098c1c7117b5c3b0c870fb922,80,True,"flink-cdc-test.yml, maven-test.yml",153,7,9,0,1,0,0,0,0,0,1,0,1,1,0,0,1
+lakesoul-io/LakeSoul,0e9a1e847c46e1458d0a4171b1624fb3ddec54c2,90,True,"flink-cdc-test.yml, maven-test.yml",181,7,8,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+lakesoul-io/LakeSoul,0e326fd732483ee3f10a0f829658911428665363,100,True,"flink-cdc-test.yml, maven-test.yml",182,7,8,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+datafaker-net/datafaker,a45623e435b0b8299be728c28e4922ac08697752,0,True,maven.yml,21,2,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+datafaker-net/datafaker,6785644897cc36b7cb31f4084421075824cb8b3f,10,True,"deploy.yml, maven.yml",61,2,4,0,1,1,0,3,0,0,0,0,0,1,0,0,0
+datafaker-net/datafaker,f1e80a1c69cb6594a4444e203e282fc7e76d9dac,20,True,"dependency-review.yml, deploy.yml, maven.yml",74,2,4,0,1,1,0,3,0,0,0,0,0,1,0,0,0
+datafaker-net/datafaker,89d9e846f58577183fb6cb67cdbe1292a9ecface,30,True,"dependency-review.yml, deploy.yml, maven.yml",74,2,4,0,1,1,0,3,0,0,0,0,0,1,0,0,0
+datafaker-net/datafaker,cf1f82fa3544d6f36b3d467db377e119c48589e4,40,True,"dependency-review.yml, deploy.yml, maven.yml",74,2,4,0,1,1,0,3,0,0,0,0,0,1,0,0,0
+datafaker-net/datafaker,adc298d5bb4ce972d5caad1b532b6f0e2ba5de67,50,True,"dependency-review.yml, deploy.yml, maven.yml, release.yml",106,2,4,0,1,1,0,6,0,0,0,0,0,1,0,0,1
+datafaker-net/datafaker,47f9114fce3da75f7671b42568479a06c39d0c11,60,True,"dependency-review.yml, deploy.yml, maven.yml, release.yml",103,2,5,0,1,1,0,6,0,0,0,0,0,1,0,0,1
+datafaker-net/datafaker,22501b09565fbc66e75e34e2802a78bb066efc75,70,True,"dependency-review.yml, deploy.yml, maven.yml, qodana.yml, release.yml",124,5,5,0,1,1,0,7,0,0,0,0,0,1,0,0,1
+datafaker-net/datafaker,9cd1d737815db9e2d349f63811a8da647430744f,80,True,"dependency-review.yml, deploy.yml, maven.yml, qodana.yml, release.yml",124,5,5,0,1,1,0,7,0,0,0,0,0,1,0,0,1
+datafaker-net/datafaker,ea24771cfb5b1063a8c9131965716684764eb605,90,True,"dependency-review.yml, deploy.yml, maven.yml, qodana.yml, release.yml",124,5,5,0,1,1,0,7,0,0,0,0,0,1,0,0,1
+datafaker-net/datafaker,062b5638b3bfcaf3cd565cb887cfa07a0109e3ea,100,True,"dependency-review.yml, deploy.yml, maven.yml, release.yml",101,2,5,0,1,1,0,6,0,0,0,0,0,1,0,0,1
+cinit/TMoe,e84d064509a895aa91e32fdb5b9b547b859f74e1,0,False,,,,,,,,,,,,,,,,,,
+cinit/TMoe,9152c83d48d27181e36c0c848a8d297f74a9fe11,10,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,91fb0ba7a96bddada3eb238bae77fc1bf325171e,20,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,7a854cadb14a23dd89a1f7655a6d9ebdc68e5a07,30,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,3e81a02f12b82d1399e9703e7b1f81459d871fbf,40,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,920b0a803a934a78ebb3caabdbfa7a7a39baa3f4,50,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,b4291095377d7f9016752fc2398addaa614c83c4,60,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,08f919fbb4ae8a92a90696500567b3061f424e0b,70,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,5020af273d908c15f423356b2fc3fb6381284117,80,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,4436a10efa3c3cf81a3e4e1449602fd766831372,90,True,push_ci.yml,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+cinit/TMoe,4436a10efa3c3cf81a3e4e1449602fd766831372,100,True,Loaded from cache,50,1,7,2,1,0,0,0,1,0,1,0,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,486ab09cac6ab3644c210a06337183824bbced3e,0,False,,,,,,,,,,,,,,,,,,
+projectdiscovery/nuclei-burp-plugin,77ec9659e3e732aaf34295a7dd81d6a5c8ce8220,10,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,83294042310b53ed0dcfaf50902ffda9d82795f2,20,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,68b6bcafb14fa6583948b4cc413058985044190b,30,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,e75e77add3995902ab35461eae4fafc234fba2b5,40,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,7d8d5c0752b404e8fc53621ad0dd00216b943b31,50,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,67261473654b6df9250c9412b908fd03c06643a2,60,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,97068e22365bdf17742cd4041fcecc41f2bfb447,70,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,b634b0b3d08c68449969689977783f59fbc6f1ff,80,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,409f5b872cee86189ae25ac0a6fbc23c47a1d3f5,90,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+projectdiscovery/nuclei-burp-plugin,af6fecec01d6c1d45c552ecb2deb93bbb648e302,100,True,ci.yaml,20,0,4,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+cinit/QAuxiliary,d3cabbf2b8747277fe23487d44c4eefdf9d03428,0,False,,,,,,,,,,,,,,,,,,
+cinit/QAuxiliary,ade2d214ced2ae60e6d798ed96e4d59f9a6afc20,10,True,"auto_close_issues.yml, check_commit_message.yml, pr_ci.yml, push_ci.yml",341,39,25,8,4,0,0,7,3,0,1,0,1,3,0,2,4
+cinit/QAuxiliary,1df64ead19ab0b91e926b812aed418434db71d74,20,True,"auto_close_issues.yml, check_commit_message.yml, pr_ci.yml, push_ci.yml",356,40,11,8,1,0,0,7,1,0,1,0,1,1,0,0,0
+cinit/QAuxiliary,b9624f94d18738c481fd7374a557e000e0880d50,30,True,"auto_close_issues.yml, check_commit_message.yml, pr_ci.yml, push_ci.yml",365,40,10,8,1,0,0,7,1,0,1,0,1,1,0,0,0
+cinit/QAuxiliary,27c99757612da4d27daa9edd3950f95359ffb59b,40,True,"auto_close_issues.yml, check_commit_message.yml, pr_ci.yml, push_ci.yml",370,40,10,8,1,0,0,7,1,0,1,0,1,1,0,0,0
+cinit/QAuxiliary,0aa0103dce55b7484f5ff7b221fb10f599e95cf8,50,True,"auto_close_issues.yml, check_commit_message.yml, clean.yml, pr_ci.yml, push_ci.yml",397,40,10,8,1,0,0,7,1,0,1,0,1,1,0,0,0
+cinit/QAuxiliary,ba879d5a920da0d245763df3626ec9adbd7e7a56,60,True,"auto_close_issues.yml, check_commit_message.yml, clean.yml, pr_ci.yml, push_ci.yml",326,1,8,7,1,0,4,6,1,0,1,0,1,1,0,0,0
+cinit/QAuxiliary,7f9b63389f57c2ba1ed3e03f72c4fe9d50819852,70,True,"auto_close_issues.yml, check_commit_message.yml, clean.yml, pr_ci.yml, push_ci.yml",326,1,8,7,1,0,4,6,1,0,1,0,1,1,0,0,0
+cinit/QAuxiliary,882f3402e6099fb81e2b2213ecfdf521d4810048,80,True,"auto_close_issues.yml, check_commit_message.yml, clean.yml, pr_ci.yml, push_ci.yml",326,4,8,7,1,0,4,6,1,0,1,0,1,1,0,0,0
+cinit/QAuxiliary,1f13ec96f5bcaebbb583db01ce97e135c0695890,90,True,"auto_close_issues.yml, check_commit_message.yml, clean.yml, pr_ci.yml, push_ci.yml",336,4,8,7,1,0,4,6,1,0,1,0,1,1,0,0,0
+cinit/QAuxiliary,5b64c789874b3e285f47adc98c705514ab4efcca,100,True,"auto_close_issues.yml, check_commit_message.yml, clean.yml, pr_ci.yml, push_ci.yml",345,4,8,7,1,0,4,6,1,0,1,0,1,1,0,0,1
+apache/flink-kubernetes-operator,45547d079b0f692cfe2c09bf7d1bbc5b664a5b29,0,False,,,,,,,,,,,,,,,,,,
+apache/flink-kubernetes-operator,1cb3eccc450eba5e68551c6713a5fe1537c87a78,10,True,"ci.yml, docker_push.yml, docs.yaml",291,49,5,2,1,0,0,11,1,0,1,1,1,1,0,0,1
+apache/flink-kubernetes-operator,7ced741f51a99f2093ce8a45c8c92879a247f836,20,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",368,67,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+apache/flink-kubernetes-operator,62eb68c812713378f7f66fde01cf14370a2252e4,30,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",369,67,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+apache/flink-kubernetes-operator,0dd9e9c257b1e4d7659d8c2cb367a35e7736c7a1,40,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",372,67,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+apache/flink-kubernetes-operator,91cf2338c9bd54b1bad7680c231a59facc12c8b9,50,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",369,67,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+apache/flink-kubernetes-operator,844a85bf7b8c142ddee22e3b481ce08020cbec51,60,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",343,67,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+apache/flink-kubernetes-operator,61ff9f59c14e012ea0237da0c1cc2f7297483293,70,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",358,67,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+apache/flink-kubernetes-operator,ab0ec081eac86619a22632616fa4c01c074ecd33,80,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",377,67,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+apache/flink-kubernetes-operator,f5d9b1917aec875bf04c35d6d3debd93f620c76d,90,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",394,69,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+apache/flink-kubernetes-operator,baad90088ea5b5b240186a530a79b64fb84cc77e,100,True,"ci.yml, docker_push.yml, docs.yaml, publish_snapshot.yml",397,72,4,3,1,0,0,13,1,0,1,1,1,0,0,0,1
+Hicores/QTool,f7a60a34745a966731a5688d70e3f56b3281efd5,0,False,,,,,,,,,,,,,,,,,,
+Hicores/QTool,e4f3f8c717ad4d7728607fdcea25c40e7019b3ca,10,True,Auto_Build.yml,19,0,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Hicores/QTool,0c0fa0210239e24a35f20abf1bb17704083f7bd6,20,True,Auto_Build.yml,33,0,5,1,1,0,0,4,0,0,0,0,0,1,0,0,0
+Hicores/QTool,683f4a0381b192fbb249ccebbb6293729ba8a4fc,30,True,Auto_Build.yml,48,0,7,1,1,0,0,8,0,0,0,0,0,1,0,0,1
+Hicores/QTool,f7cbd829a1570b9915c2e056c6f541d5e2d36d35,40,True,Auto_Build.yml,48,0,7,1,1,0,0,8,0,0,0,0,0,1,0,0,1
+Hicores/QTool,7020bdeb083109072bfc77272a989c491c603d16,50,True,Auto_Build.yml,58,0,8,1,1,0,0,12,0,0,0,0,0,1,0,0,1
+Hicores/QTool,8c27d5fefb605f763c42d047a532e66543ebf52b,60,True,Auto_Build.yml,139,0,18,4,4,0,0,13,2,0,0,0,0,3,0,1,4
+Hicores/QTool,f288c011d614f069e110b06d76241c80688d91b8,70,True,Auto_Build.yml,141,0,19,4,4,0,0,13,2,0,0,0,0,3,0,1,4
+Hicores/QTool,e0414a900a63747ce6a92626cc05568e9db1bbe4,80,True,Auto_Build.yml,141,35,15,4,3,0,0,13,1,0,0,0,0,3,0,1,3
+Hicores/QTool,e4b2f0ca2ebe3346dbce8cab9d93b81d5ab3c8d0,90,True,Auto_Build.yml,141,35,15,4,3,0,0,13,1,0,0,0,0,3,0,1,3
+Hicores/QTool,66e51e0ad716cbcd169d20341daebc6ad850fa5c,100,True,Auto_Build.yml,147,35,15,4,3,0,0,13,1,0,0,0,0,3,0,1,3
+TencentFemas/femas,d2b441aee7d600ec1c54b3655433b2dde969d175,0,False,,,,,,,,,,,,,,,,,,
+TencentFemas/femas,45d52885315386e49a1014333ba1d2d6fa768031,10,False,,,,,,,,,,,,,,,,,,
+TencentFemas/femas,46df19957dc1c877b5e9fdf0aa5544743920ed2f,20,False,,,,,,,,,,,,,,,,,,
+TencentFemas/femas,af7371608cb139b05ffed66a7635593c95e5772e,30,False,,,,,,,,,,,,,,,,,,
+TencentFemas/femas,56c9812c55236ad299132d3903b223357452eb93,40,False,,,,,,,,,,,,,,,,,,
+TencentFemas/femas,9487686669f3f396d30756be370d9825b53d189a,50,True,ci.yml,53,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+TencentFemas/femas,ffbff7bf4cae619db79c813676ae69a4b034bb65,60,True,ci.yml,53,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+TencentFemas/femas,6e1a24daa2121c5a8f23bb06055e64e00d65cdcb,70,True,ci.yml,53,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+TencentFemas/femas,fa6c44c19d1f39886f282b4ac05b4d00f712a80c,80,True,ci.yml,53,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+TencentFemas/femas,d483644e89972a2f1eef028c7caf83b51680ef7c,90,True,ci.yml,53,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+TencentFemas/femas,0ab587ca98ce7a710dc8443f6d99090703d811fd,100,True,ci.yml,53,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+instancio/instancio,b3ca4ca93b8dc605d39a210c34907c36d26e9e14,0,False,,,,,,,,,,,,,,,,,,
+instancio/instancio,82ad6d2c3504108d413f059279c900ef7a3cd90e,10,True,"build.yml, codeql-analysis.yml",80,13,4,0,1,0,0,2,0,0,1,0,1,1,1,0,0
+instancio/instancio,2fa8fe6dcf904edd239090ca04c0eeec52b5ceba,20,True,"build.yml, deploy-and-verify-snapshots.yml",71,2,7,1,2,0,0,4,1,0,1,0,1,1,0,1,1
+instancio/instancio,1a54e99e43df7b8dcb245153d7eb26499cb34ac9,30,True,"build.yml, deploy-and-verify-snapshots.yml",71,2,7,1,2,0,0,4,1,0,1,0,1,1,0,1,1
+instancio/instancio,cf60bc1e2ee8968c69d10efd434e6ad6e90182b2,40,True,"build.yml, deploy-and-verify-snapshots.yml",71,2,7,1,2,0,0,4,1,0,1,0,1,1,0,1,1
+instancio/instancio,e43b6b3ea3267b3402910e45f9f6e481b6eed608,50,True,"build.yml, deploy-and-verify-snapshots.yml",72,3,7,1,2,0,0,4,1,0,1,0,1,1,0,1,1
+instancio/instancio,1c630491f7176d689df76cc4327386d6a0495132,60,True,"build.yml, deploy-and-verify-snapshots.yml, sonar.yml",181,2,7,1,1,0,0,4,1,0,1,0,1,0,1,0,0
+instancio/instancio,6838b5c34172db55f9a415669c23906ebc5105e1,70,True,"build.yml, deploy-and-verify-snapshots.yml, sonar.yml",181,2,7,1,1,0,0,4,1,0,1,0,1,0,1,0,0
+instancio/instancio,17a99235935b30332e379950b6168e045ce7b1f1,80,True,"build.yml, deploy-and-verify-snapshots.yml, sonar.yml",182,2,7,2,1,0,0,4,1,0,1,0,1,0,1,0,0
+instancio/instancio,f790d3b06fe85aa3a379be2249c5a773a102bc33,90,True,"build.yml, deploy-and-verify-snapshots.yml, sonar.yml",182,2,7,2,1,0,0,4,1,0,1,0,1,0,1,0,0
+instancio/instancio,78f5e392e3a1e586b6d98ba24d2e1e23093219a8,100,True,"build.yml, deploy-and-verify-snapshots.yml, sonar.yml",86,2,1,2,1,0,0,4,1,0,1,1,1,0,0,0,0
+PaladinCloud/CE,0cd3fbb383d47aeed5a8d511e5a48463cce297ee,0,False,,,,,,,,,,,,,,,,,,
+PaladinCloud/CE,e33ff98e4382bf11b4ed4f0c65c9321b2f0aaa03,10,True,dev_build.yaml,26,0,6,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+PaladinCloud/CE,8ae43c4a9a79d2c4b322b3b25b440d23f727a110,20,True,"SonarCodeAnalysis.yaml, codeQl.yaml",108,31,6,2,1,0,0,2,0,0,1,1,1,2,1,0,0
+PaladinCloud/CE,3dbab87d4ca89c2676c11c1f519764b9da47a384,30,True,"SonarCodeAnalysis.yaml, codeQl.yaml",115,31,6,4,1,0,0,4,0,0,1,1,1,2,1,0,0
+PaladinCloud/CE,9b96f6168a75c3bc7b887eae249e56aaa89b0617,40,True,"SonarCodeAnalysis.yaml, codeQl.yaml",115,31,6,4,1,0,0,4,0,0,1,1,1,2,1,0,0
+PaladinCloud/CE,5becc26511159609a53c1d8fbc57efc2cbcf6cf2,50,True,"SonarCodeAnalysis.yaml, codeQl.yaml, jsonvalidate.yaml, mysql-check.yaml",191,33,2,4,1,0,0,4,0,0,1,1,1,1,0,0,0
+PaladinCloud/CE,948a62c9ccaaa06536d73a5a2f4639b102b5f665,60,True,"SonarCodeAnalysis.yaml, codeQl.yaml, jsonvalidate.yaml, mysql-check.yaml",191,33,2,4,1,0,0,4,0,0,1,1,1,1,0,0,0
+PaladinCloud/CE,ea9bcd90bba3a5f00dcd43b65616596926be0e4f,70,True,"SonarCodeAnalysis.yaml, codeQl.yaml, jsonvalidate.yaml, mysql-check.yaml",195,33,2,4,1,0,0,4,0,0,1,1,1,1,0,0,0
+PaladinCloud/CE,463d789cb647f10ed88da83ccb206723b92ddce9,80,True,"SonarCodeAnalysis.yaml, codeQl.yaml, jsonvalidate.yaml, mysql-check.yaml",195,33,2,4,1,0,0,4,0,0,1,1,1,1,0,0,0
+PaladinCloud/CE,33271a033a4d562acb3657f1c41a5234bbb9ecfa,90,True,"SonarCodeAnalysis.yaml, codeQl.yaml, jobs-build.yaml, jsonvalidate.yaml, mysql-check.yaml, mysql-delete-check.yml, proddeploy.yml",2532,35,157,69,32,0,0,151,1,0,1,1,1,15,0,0,1
+PaladinCloud/CE,0ad6e76753020b2b6e11289e31577045ecf724b5,100,True,"SonarCodeAnalysis.yaml, codeQl.yaml, jobs-build.yaml, jsonvalidate.yaml, mysql-check.yaml, mysql-delete-check.yml, proddeploy.yml",2532,35,157,69,32,0,0,151,1,0,1,1,1,15,0,0,1
+mywalkb/LSPosed_mod,258d918606ee624450b6b1b93ea3d50212f969f0,0,True,"core.yml, crowdin.yml",166,1,2,4,1,0,0,10,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,d36d284f3908e7f5eb8bcb873e637cac2db27b01,10,True,"core.yml, crowdin.yml",167,0,2,4,1,0,0,10,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,ae847f398047a8ec416f072a43c9306c1d919bdd,20,True,"core.yml, crowdin.yml",164,0,2,4,1,0,0,10,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,4309083e6f58d80df535921afe23fd835fd48fd7,30,True,core.yml,132,15,14,3,1,0,0,5,1,0,1,0,1,1,0,1,2
+mywalkb/LSPosed_mod,4b66d556dbe3b78cbf59437a211197d135010f18,40,True,"core.yml, crowdin.yml",154,0,2,3,1,0,0,12,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,760f0bb0eb280f62073042a4d299a8517449baf3,50,True,"core.yml, crowdin.yml",154,0,2,3,1,0,0,12,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,0875cc6987679c01bc8f1355caf00c5ffb11bb6d,60,True,"core.yml, crowdin.yml",150,0,2,3,1,0,0,12,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,cf05ea4160958ad140d96fdf19ce62884a2ef0d6,70,True,"core.yml, crowdin.yml",169,0,2,3,1,0,0,12,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,e8e9105598d444e94f44cc4863ba3df58f59aea6,80,True,"core.yml, crowdin.yml",166,1,2,3,1,0,0,12,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,ed5c62c4aea3d72472f86454322ec0350ec79c5f,90,True,"core.yml, crowdin.yml",166,1,2,3,1,0,0,12,0,0,1,0,1,0,0,0,0
+mywalkb/LSPosed_mod,63eec77134bd6b411b0cafad32231320701b064c,100,True,core.yml,114,0,16,2,1,0,4,5,0,0,1,0,1,1,0,1,2
+Card-Forge/forge,3408123302527d3ffabcd278abcba7404488633c,0,False,,,,,,,,,,,,,,,,,,
+Card-Forge/forge,3600bbdf6a7237b8d28afd180dcd458a8fc95bc9,10,True,test-build.yaml,24,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Card-Forge/forge,7b0f32be63d6a43630a1cce6d26a378a6fd1d6ee,20,True,test-build.yaml,24,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Card-Forge/forge,4a8ce693e54eeb1707e1619fc0606c018fafd0d8,30,True,test-build.yaml,24,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Card-Forge/forge,178ed9d2e86e996c495db31dfd617a5ea742172d,40,True,test-build.yaml,24,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Card-Forge/forge,3de08f030838cb41f834c9e8d6d505a813b7d368,50,True,"maven-publish.yml, test-build.yaml, test-maven-settings.yml",96,2,0,0,0,0,0,9,0,0,1,0,1,0,0,0,0
+Card-Forge/forge,11986e14125fd7e63c87129a54c7e109df18526b,60,True,"maven-publish.yml, stale.yml, test-build.yaml, test-maven-settings.yml",126,7,7,0,1,0,0,10,0,0,1,0,1,1,1,0,0
+Card-Forge/forge,71b146001a3ed3943826848ef5c4e6f8f5cde723,70,True,"maven-publish.yml, stale.yml, test-build.yaml, test-maven-settings.yml",126,7,7,0,1,0,0,10,0,0,1,0,1,1,1,0,0
+Card-Forge/forge,b9117873bcab90b0138386cee691f2b68e75ffd8,80,True,"maven-publish.yml, stale.yml, test-build.yaml, test-maven-settings.yml",126,7,7,0,1,0,0,10,0,0,1,0,1,1,1,0,0
+Card-Forge/forge,c02f7c698dc6bbfb0a841b52439aae80bcb29265,90,True,"maven-publish.yml, publish-android.yml, snapshots-android.yml, snapshots-pc.yml, stale.yml, test-build.yaml, test-maven-settings.yml",382,17,7,5,1,0,0,34,0,0,1,0,1,1,1,0,0
+Card-Forge/forge,6b54962078b86d7fbb69268cb9217ac45e58580b,100,True,"maven-publish.yml, publish-android.yml, snapshots-android.yml, snapshots-pc.yml, stale.yml, test-build.yaml, test-maven-settings.yml",381,17,7,5,1,0,0,34,0,0,1,0,1,1,1,0,0
+alibaba/fastjson2,c694f17d6e167513549aef021ce39256a2818bc7,0,False,,,,,,,,,,,,,,,,,,
+alibaba/fastjson2,b8df39343be437b19f5db2159d16780ef2a5891a,10,True,ci.yaml,38,2,5,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,f61d239a006791da7f1157ab2138f52d064e1dd8,20,True,ci.yaml,38,2,5,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,ac6ae7c3aff10f2bd25134306473202bb874f2d2,30,True,ci.yaml,39,2,5,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,1b1b31e1b2230e7e8d504efc82acd3e10a5a88fb,40,True,ci.yaml,39,2,5,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,08668a7c08ca2718d1e186f889969ff7ffbba12e,50,True,ci.yaml,39,2,5,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,cb26f45737b6b11a26802a9ee72a45b32ddff792,60,True,ci.yaml,37,2,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,4f96771dcd779c63ab654da48a4037933c9a41cf,70,True,ci.yaml,37,2,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,c86666f7c698a53d21861ce15821205cacf4425e,80,True,ci.yaml,37,2,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,327b7032510c575267508b9dfc03a9c8760438b4,90,True,ci.yaml,37,2,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+alibaba/fastjson2,cf242485b488762f832d85a88e48b30183d1288a,100,True,ci.yaml,37,2,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+Grasscutters/Grasscutter,c919c9c9ebbad78cdc7f8b82decc1d71a91f703b,0,False,,,,,,,,,,,,,,,,,,
+Grasscutters/Grasscutter,7c35c51a6afd29bfa0731b308f9100e80182a9c6,10,True,build.yml,34,0,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Grasscutters/Grasscutter,febdb9985501074bc96c4256cf83e63e4c92d7b4,20,True,build.yml,44,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Grasscutters/Grasscutter,8a1df19ed8b72c168a13f99653ccab6a70215346,30,True,build.yml,44,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Grasscutters/Grasscutter,7bae35f51b2298b5e14eeeeabc02c340756f71f1,40,True,build.yml,44,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Grasscutters/Grasscutter,f25fb62942ce8e8e8384a33e5b1e31a54e6cbcf2,50,True,"build.yml, language_lint.yml, lint_commit.yml",112,6,13,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Grasscutters/Grasscutter,825517c2ec23654d5323646c667a107db2219391,60,True,"build.yml, language_lint.yml, lint_commit.yml",112,6,13,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Grasscutters/Grasscutter,767e598beab589830cf48f17d4c56e07aef6ed16,70,True,"build.yml, language_lint.yml, lint_commit.yml, protect_files.yml",153,5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+Grasscutters/Grasscutter,f6ce7e349d1ff2f3ce4d75d925005040105ff85c,80,True,"build.yml, language_lint.yml, lint_commit.yml, protect_files.yml",153,5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+Grasscutters/Grasscutter,8b520b388312080e232cd1031cbe32f831a5228c,90,True,"build.yml, language_lint.yml, lint_commit.yml, protect_files.yml",153,5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+Grasscutters/Grasscutter,05fe62b49a71f6027c13c911c6b83bfbdddc6527,100,True,"build.yml, language_lint.yml, lint_commit.yml, protect_files.yml",153,5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+Jarrettluo/all-docs,6085ab0bd2abecc1638dd30d8da2d0cb33403404,0,False,,,,,,,,,,,,,,,,,,
+Jarrettluo/all-docs,e991ac6c651fc1fe221b8a4dcb557b1c307f2149,10,True,maven.yml,21,2,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Jarrettluo/all-docs,b155190f5108dcddbea6c0cda1713ccfec5f861a,20,True,maven.yml,21,2,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Jarrettluo/all-docs,b057be54505e1a8719621f59e75a6a939139f032,30,True,maven.yml,21,2,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Jarrettluo/all-docs,9a7c537bb4906d54a121272d770c801118def9a3,40,True,maven.yml,28,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+Jarrettluo/all-docs,afa4045cf6235b13db33e3499e670dbc9e76b766,50,True,maven.yml,28,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+Jarrettluo/all-docs,a69b44c37c0c4a4fd5244d1a34b9a16aff78229c,60,True,maven.yml,28,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+Jarrettluo/all-docs,0a0ba8ea88fcdefb5f96028531f2851fcb4a261d,70,True,maven.yml,28,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+Jarrettluo/all-docs,7465b521a5e5a20ab811b4027471500219fbeb23,80,True,maven.yml,28,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+Jarrettluo/all-docs,04688cbd2cfec7b8fc022fe76f2d04eff5dda69d,90,True,maven.yml,28,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+Jarrettluo/all-docs,94a45b8213a29b51fe3ec9f886a6b5a72f743bb5,100,True,maven.yml,28,2,4,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+HummerRisk/HummerRisk,cbfb5fbadb98877640320f20b60f80284e9e88da,0,False,,,,,,,,,,,,,,,,,,
+HummerRisk/HummerRisk,c031652babd8c1ca4ce77fed10dacfab4bc532eb,10,True,release.yml,77,9,5,0,1,0,0,3,0,0,0,0,0,1,0,1,1
+HummerRisk/HummerRisk,d45b6413c2bb636729e00e7622165d1e76801ddb,20,True,release.yml,78,9,5,0,1,0,0,3,0,0,0,0,0,1,0,1,1
+HummerRisk/HummerRisk,a7a0e90bd633ae69e3bff0134afa1c8e88a3abe2,30,True,release.yml,79,10,5,0,1,0,0,3,0,0,0,0,0,1,0,1,1
+HummerRisk/HummerRisk,b4080faf6f15f5f8e3f8b02acb17a4732c82f2a6,40,True,release.yml,79,10,5,0,1,0,0,3,0,0,0,0,0,1,0,1,1
+HummerRisk/HummerRisk,1516e2ffef2973a4b68a7b4b2186933e2284abb5,50,True,release.yml,79,10,5,0,1,0,0,3,0,0,0,0,0,1,0,1,1
+HummerRisk/HummerRisk,5e4bbeb8d8cc3827d78a157774102a978fdd9e56,60,True,"release.yml, sync2gitee.yml",97,10,1,0,1,0,0,5,0,0,0,0,0,0,0,0,0
+HummerRisk/HummerRisk,7f5f3525f102a320c1080a5070855662170c7a06,70,True,"release.yml, sync2gitee.yml",108,11,1,0,1,0,0,5,0,0,0,0,0,0,0,0,0
+HummerRisk/HummerRisk,8de67c74bf4e4d3ddfb9e1a92930b61f591caed3,80,True,"release.yml, sync2gitee.yml",108,11,1,0,1,0,0,5,0,0,0,0,0,0,0,0,0
+HummerRisk/HummerRisk,c587647980b75bfd548d8c05debe924bd1580116,90,True,"automerge.yml, release.yml, sync2gitee.yml",139,25,1,0,1,0,0,6,0,0,0,0,0,0,0,0,0
+HummerRisk/HummerRisk,063ab8a01c41826182755287e8350e1a7c100eb0,100,True,"automerge.yml, release.yml, sync2gitee.yml",143,64,5,0,1,0,0,6,0,0,0,0,0,1,0,1,1
+Aizistral-Studios/No-Chat-Reports,23a48f6909a66c2c3487bdef066d28048717d503,0,False,,,,,,,,,,,,,,,,,,
+Aizistral-Studios/No-Chat-Reports,773ec8c6d0c268125bfb184741f5932355623367,10,True,"build.yml, gitlabsync.yml",54,8,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,a57bda7fedd28900066e3c383cc4c9f0f1f069a8,20,True,"build.yml, gitlabsync.yml",54,8,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,55ce56b35f02126670a95a2642f502b9dc80b116,30,True,"build.yml, gitlabsync.yml",54,8,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,992a3b6ea7b144f887d72000757cef236f8045c6,40,True,"build.yml, gitlabsync.yml",54,8,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,01aeedb917b59ff6ef800b2f736ef3536f16082d,50,True,"build.yml, gitlabsync.yml",54,8,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,21bdace0afa22de0ffd354dc74756d7fe980930c,60,True,"build.yml, gitlabsync.yml",55,8,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,af90a12079c558ea4a1efc9385e93bcdcb9917dd,70,True,"build.yml, gitlabsync.yml",55,8,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,ea7c168ddda2b7739a63997684c0a93536aca0f3,80,True,"build.yml, gitlabsync.yml",52,5,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,569a8ea07fca3803bc55af9fccffe0b1a585b304,90,True,"build.yml, gitlabsync.yml",52,5,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+Aizistral-Studios/No-Chat-Reports,dbd37689d05df7172116914db8ae7e72dfb227b7,100,True,"build.yml, gitlabsync.yml",52,5,2,2,1,0,0,3,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,3605af8a66a8cc67459b2561309fa337e076f426,0,False,,,,,,,,,,,,,,,,,,
+tapdata/tapdata,81c8845e887f85fbfbaad9cfd021e89a31e333a7,10,True,"docker-image.yml, trigger-enterprise-cicd.yml",135,1,4,6,1,2,0,4,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,2bf6aaac9502914c32a27fc8e157ad457794ffd9,20,True,"auto-commit-comments.yml, docker-image.yml, trigger-enterprise-cicd.yml",265,3,4,14,1,8,0,12,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,be831cbcf39a96d8b5df4a1c885f33408366752f,30,True,"auto-commit-comments.yml, docker-image.yml, trigger-enterprise-cicd.yml",263,3,4,15,1,8,0,12,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,eb16dd9939792f577e9471f4ca09e050cb4f2714,40,True,"auto-commit-comments.yml, docker-image.yml, trigger-enterprise-cicd.yml",267,3,4,15,1,8,0,12,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,2b5e4edac298b4b14ab3f6a21bf800bda8614391,50,True,"auto-commit-comments.yml, docker-image.yml, trigger-enterprise-cicd.yml",274,3,4,15,1,8,0,13,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,157bf618ba9d8c1b7357d8c04f13f021409dff76,60,True,"auto-commit-comments.yml, docker-image.yml, trigger-enterprise-cicd.yml",276,3,4,15,1,8,0,13,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,3fb9bddb26de6ad6959d2049fbcaf743a93b93bf,70,True,"auto-commit-comments.yml, docker-image.yml, trigger-enterprise-cicd.yml",276,3,4,15,1,8,0,13,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,cb6193389aeb249b9e4fc07f54482a76151ba6f8,80,True,"auto-commit-comments.yml, docker-image.yml, trigger-enterprise-cicd.yml",276,3,4,15,1,8,0,13,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,04b1d16a6bfd8f6d7f0bea685affd16f7f2cb524,90,True,"auto-commit-comments.yml, build.yml, docker-image.yml, trigger-enterprise-cicd.yml",343,3,4,17,1,8,0,16,0,0,0,0,0,0,0,0,0
+tapdata/tapdata,94eaf993e3f060e6080ce34e6a2ada7104b899ba,100,True,"auto-commit-comments.yml, build.yml, docker-image.yml, trigger-enterprise-cicd.yml",343,3,4,17,1,8,0,16,0,0,0,0,0,0,0,0,0
+CloudExplorer-Dev/CloudExplorer-Lite,dc16ae53c8be6d1e1ce1a56a7a8be090ba23a4c9,0,False,,,,,,,,,,,,,,,,,,
+CloudExplorer-Dev/CloudExplorer-Lite,7d9468bb74cf106ef8d07ab7aa8b8f1589156709,10,False,,,,,,,,,,,,,,,,,,
+CloudExplorer-Dev/CloudExplorer-Lite,ff63fbf79c2f07b0ed75e142e9ed35717349b9f4,20,False,,,,,,,,,,,,,,,,,,
+CloudExplorer-Dev/CloudExplorer-Lite,f9bcdf742d8c76587432e5c820e727c5cd902d1b,30,False,,,,,,,,,,,,,,,,,,
+CloudExplorer-Dev/CloudExplorer-Lite,84b77fbe6402380e6a75a5b36f366835bd7abfea,40,False,,,,,,,,,,,,,,,,,,
+CloudExplorer-Dev/CloudExplorer-Lite,a8a5ca5ee77eb4cf1a5487e5a17dbbfb93a11022,50,False,,,,,,,,,,,,,,,,,,
+CloudExplorer-Dev/CloudExplorer-Lite,1490d96c0f8e414ce8304aa97456e8be2cefa677,60,False,,,,,,,,,,,,,,,,,,
+CloudExplorer-Dev/CloudExplorer-Lite,b41c93d7e1c179cf52ee604bd7a0a1458c533ea2,70,True,"auto-pr.yml, issue-check-inactive.yml, issue-close-require.yml, issue-comment.yml, issue-inactive-alert.yml, issue-open.yml, issue-recent-alert.yml, sync2gitee.yml",133,0,1,3,1,0,0,7,0,0,0,0,0,0,0,0,0
+CloudExplorer-Dev/CloudExplorer-Lite,6feed03bbb82741fb9c869c7ade95e1cf7f66d1f,80,True,"auto-pr.yml, issue-check-inactive.yml, issue-close-require.yml, issue-comment.yml, issue-inactive-alert.yml, issue-open.yml, issue-recent-alert.yml, sync2gitee.yml",133,0,1,3,1,0,0,7,0,0,0,0,0,0,0,0,0
+CloudExplorer-Dev/CloudExplorer-Lite,3edd8f268b79864b717ecdb0167e7eb1b323b008,90,True,"auto-pr.yml, issue-check-inactive.yml, issue-close-require.yml, issue-comment.yml, issue-inactive-alert.yml, issue-open.yml, issue-recent-alert.yml, sync2gitee.yml",133,0,1,3,1,0,0,7,0,0,0,0,0,0,0,0,0
+CloudExplorer-Dev/CloudExplorer-Lite,1b4a329a1399ee66657e1e0ae9746693ddb63925,100,True,"auto-pr.yml, issue-check-inactive.yml, issue-close-require.yml, issue-comment.yml, issue-inactive-alert.yml, issue-open.yml, issue-recent-alert.yml, sync2gitee.yml",133,0,1,3,1,0,0,7,0,0,0,0,0,0,0,0,0
+linhaojun857/aurora,d5cb8fc09977a9825171ee3d7b9a91feee4adb69,0,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,ff020ec9126ba533623bfcb6a0389123dccf1246,10,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,4e4a58a5e288845ce3310d76854fa9722bd8f34c,20,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,6d1aecc2189d89cda7957b094858e85621a242a4,30,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,0687bad84b1bd5d0009b9253b6172825ce9bdc15,40,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,dcd46cdb209c1e4b266c07254c723ae1cce60433,50,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,8c7c56cc0e5e1db7eff70454331418b0be91e780,60,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,8f53aa3d19adec2fb7ea2b9980ed1caaed0c8ed8,70,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,c6fac21b7a9ea0a292eacdcd23fd59c2b11d5261,80,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,e82346591c6eb980b61cbb46523a660b61b4f3c0,90,False,,,,,,,,,,,,,,,,,,
+linhaojun857/aurora,618936f4d90115752f6dea3517a193da41a8308f,100,False,,,,,,,,,,,,,,,,,,
+runsidekick/sidekick,97b283cb41fa0a3c8b74c4ef0877733745f9e8d6,0,False,,,,,,,,,,,,,,,,,,
+runsidekick/sidekick,b8d2c1a7e04023ca85ca5d96b9f5b1130d05dec0,10,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release.yml",147,2,8,3,1,0,0,10,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,7695f7ed9a1998d92fde161f061e858def652c6b,20,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release.yml",147,2,8,3,1,0,0,10,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,ed035555c40b12adab94235dfc724509a5f5906b,30,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release.yml",147,2,8,3,1,0,0,10,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,50e87e5c061be5ae654bc96e100fe5fcd4d7c025,40,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release-internal-repo.yml, release.yml",209,2,8,3,1,0,0,16,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,31654c130f0596f36d7fa62e48e8adca0ca16bc3,50,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release-internal-repo.yml, release.yml",209,2,8,3,1,0,0,16,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,247dcd98fee4431aa700eac0c356a6f352a50c09,60,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release-internal-repo.yml, release.yml",214,2,8,3,1,0,0,18,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,44f3a59145af340c0da237d24c0d6a75efd91c22,70,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release-internal-repo.yml, release.yml",214,2,8,3,1,0,0,18,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,57ab2ac7bf751c6e4d2ee4bbdb3d963633ff4824,80,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release-internal-repo.yml, release.yml",214,2,8,3,1,0,0,18,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,6a1a57058db3b62e17dc61fa63d07e9cfd5a95a8,90,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release-internal-repo.yml, release.yml",214,2,8,3,1,0,0,18,0,0,1,0,1,2,1,1,1
+runsidekick/sidekick,ca8131fcb46200aa1d4de279ddd34c960378c419,100,True,"build.yml, docker-release-api.yml, docker-release-broker.yml, release-internal-repo.yml, release.yml",214,2,8,3,1,0,0,18,0,0,1,0,1,2,1,1,1
+bytedance/bitsail,437da3a92e7d4e509752f03197a0fb3e1fb92833,0,False,,,,,,,,,,,,,,,,,,
+bytedance/bitsail,c5c782a577cd4f2ce20df9ce65b1942572813fc1,10,True,cicd.yml,65,11,10,0,3,0,0,0,0,0,0,1,1,0,1,0,0
+bytedance/bitsail,56d6ef4e4181d65d235afa176c69974f6dc46ade,20,True,cicd.yml,65,11,10,0,3,0,0,0,0,0,0,1,1,0,1,0,0
+bytedance/bitsail,d437ab43ca795ef30844141fe5748d707428a845,30,True,cicd.yml,65,11,10,0,3,0,0,0,0,0,0,1,1,0,1,0,0
+bytedance/bitsail,c8238fb9e5928047e79a72d6750d914bcb2d7432,40,True,"cicd.yml, deploy-website.yml",114,11,5,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+bytedance/bitsail,65f5e563a45527b694773d96c9b566cf0751b800,50,True,"cicd.yml, deploy-website.yml",114,11,5,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+bytedance/bitsail,bc7db6e4f8e62b66d2c4af89225deae4b9c9c1d5,60,True,"cicd.yml, deploy-website.yml",128,11,5,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+bytedance/bitsail,bf48da9dabe240d2b528ee20226eadf41a77cf1d,70,True,"cicd.yml, deploy-website.yml",140,14,5,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+bytedance/bitsail,dde3f2e16444edc8906a6417e02d568abe30d52e,80,True,"cicd.yml, deploy-website.yml",164,17,5,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+bytedance/bitsail,e20ab213d3a0781a4a627a9490734e0a872fda9d,90,True,"cicd.yml, deploy-website.yml",168,17,5,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+bytedance/bitsail,f35caee7df68905c45ecc962c22556c8764ffb18,100,True,"cicd.yml, deploy-website.yml",168,17,5,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+datavane/datasophon,d0445a15534dfaef490c6c7994c84610554687bf,0,False,,,,,,,,,,,,,,,,,,
+datavane/datasophon,62b63e52be728b6a804adac64dee5195ccbcc6e1,10,True,maven.yaml,41,2,5,0,1,0,1,0,0,0,0,0,0,1,2,0,0
+datavane/datasophon,7cb075b79035524b430d2459fc721f1d3035619f,20,True,maven.yaml,41,2,5,0,1,0,1,0,0,0,0,0,0,1,2,0,0
+datavane/datasophon,54ef70e0044314a05bb20dbd4bfbfc53a3f634d8,30,True,maven.yaml,41,2,5,0,1,0,1,0,0,0,0,0,0,1,2,0,0
+datavane/datasophon,767570906aac8e93a18b19779c6c8427e40edb6c,40,True,"dependency-review.yml, maven.yaml",55,5,4,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+datavane/datasophon,13250ecb2d5c1610c22fc3fdf9ac1aece2bb73b2,50,True,"codeql.yml, dependency-review.yml, issue-robot.yml, maven.yaml",161,53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+datavane/datasophon,6054a00e88631d21c87d145b688421c52cd27f39,60,True,"codeql.yml, dependency-review.yml, issue-robot.yml, maven.yaml",161,53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+datavane/datasophon,bd60066b7a2e7880de6ee173a830997a40b5b870,70,True,"codeql.yml, dependency-review.yml, issue-robot.yml, maven.yaml",161,53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+datavane/datasophon,fa28eef4cee56d2c56d7129f8d150f490bcd144a,80,True,"codeql.yml, dependency-review.yml, issue-robot.yml, maven.yaml",161,53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+datavane/datasophon,a4df92b2640720404b4ced006e2e98fdfc425be1,90,True,"codeql.yml, dependency-review.yml, issue-robot.yml, maven.yaml",161,53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+datavane/datasophon,42d8b429b8060bd78aedf2e317e1537a00d51a9c,100,True,"codeql.yml, dependency-review.yml, issue-robot.yml, maven.yaml",161,53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+krahets/hello-algo,f615ad42ef3c58cfc6f080b8fb0cd0eb741706a9,0,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,7c34e5b268d7b95e90c8f427c205d4fc7d7876d3,10,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,31eefe028a4b6ae122d408ad11401548c13a0091,20,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,10903b2781e4774f50840a6bffa2b0f3642a5855,30,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,de6945f55acbafcf7e7811c5bfa16a81d24dc09c,40,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,f35020b335c88d641bb96897b91dff200f9b7312,50,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,504dff172842490619ae117e5062a51afb763e6a,60,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,55615ab61d58cd16620e6da8b324a374ac11328e,70,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,2217ffc447b5345bc23c76842fb5152f3ed3a9a5,80,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,ea7275ab6adb0de3c41dd29f8fcb52b3d19aeb65,90,False,,,,,,,,,,,,,,,,,,
+krahets/hello-algo,c5e37c1b41f9aea6923f8a685e8dcddd7d9b65a9,100,True,"c.yml, cpp.yml, dart.yml, dotnet.yml, java.yml, python.yml, rust.yml, swift.yml",302,37,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,ffe0b32c62d9a334ddcc404f55290408fcfc9889,0,False,,,,,,,,,,,,,,,,,,
+4ra1n/super-xray,8b2f015aafddc6542a8c67dbc362890ad2157dc2,10,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,a4fcb0f036390e1b779dba5d0756e9926d3777b6,20,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,ee8f14ccdb186f6aa4adf5c4ebcf4566c4b5e184,30,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,776fe701af23751149d555797a556c3d836e23c8,40,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,69795ebe931e4fc74162f9af1c7ec6233fb77774,50,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,cd35dd26d12160378f877f44e76bf0f13bff8035,60,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,d69615061d3e9ece41a295e131dc1c7ded95562c,70,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,5477add25dd75ba95a23fbb82f846f81fbaa1b4c,80,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,0523e15e576a2b1e155f699bd234f0ef029a695d,90,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ra1n/super-xray,48450f05662c0896d860dfe5ad50a7519ea14dfa,100,True,maven.yml,28,7,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+PlexPt/chatgpt-java,cd90a990ef603cf53bd34a79b424076208995380,0,False,,,,,,,,,,,,,,,,,,
+PlexPt/chatgpt-java,14d01c16c20fc55373a80653a53258a84ff58ce7,10,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,a6abe3f373d56eec7263f2ec626d75ca8eec25c9,20,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,a6abe3f373d56eec7263f2ec626d75ca8eec25c9,30,True,Loaded from cache,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,6ce397ec95f86e194ed1004e4317d96fb6732a97,40,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,c6b138ee6eb0c6f9800c39be3d781bbc664c1163,50,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,cd48de3601339130a02ce0b52012a22a81ea5a51,60,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,f254c670f435ccd617155f5cfcd6f1dec77db3f6,70,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,5fdbe4aafccf65ae0efa93cfc08e62c71e37a7c0,80,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,c91dca75a0d53fa60586300f3e9271ad448a2b24,90,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+PlexPt/chatgpt-java,0ad1eef8ee4e09a2f880f86427b3953b4b5b6109,100,True,publish.yml,34,9,3,0,1,0,0,7,0,0,0,0,0,0,0,0,1
+REAndroid/APKEditor,8ff2b6f3713294e853aeab4406ac7d6f4f913641,0,False,,,,,,,,,,,,,,,,,,
+REAndroid/APKEditor,a52781fb9d764fdc2fdfbea61de16decaa6a1c94,10,False,,,,,,,,,,,,,,,,,,
+REAndroid/APKEditor,3776ad4795c152a9d99117c7b46839192f7c4f0a,20,False,,,,,,,,,,,,,,,,,,
+REAndroid/APKEditor,987ce3497c710a380a53fa2c50e835677cd63f5b,30,False,,,,,,,,,,,,,,,,,,
+REAndroid/APKEditor,7b4c2faf06bf0f6d2baa9b1bff1ca63e1e72cd9c,40,False,,,,,,,,,,,,,,,,,,
+REAndroid/APKEditor,4d33b3a7b626f516c88f207188c0b92c864ecc5c,50,False,,,,,,,,,,,,,,,,,,
+REAndroid/APKEditor,0d1d68a791d2dc7ce153da9bc01a0acf49dc51d2,60,False,,,,,,,,,,,,,,,,,,
+REAndroid/APKEditor,4796459da1cbc8a7aa24e46f848b347908353f14,70,False,,,,,,,,,,,,,,,,,,
+REAndroid/APKEditor,4b850cc243ad355ad79a151133479bbf90beca6f,80,True,gradle_build.yml,26,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+REAndroid/APKEditor,21fc59d398a6efc8e341e178ef1377a1814fdd2e,90,True,gradle_build.yml,26,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+REAndroid/APKEditor,957c5c9c54dab9aaa468f654cca4aa54c2b95c57,100,True,gradle_build.yml,26,0,4,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+PlayEdu/PlayEdu,13bedc1fcb3d229fc3f0844734bfa5662306a2e7,0,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,a231e7e6a0bd961f00b80fe69c091b19c25eda2a,10,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,943c25ffb0a2938a374f4feb15c094e1501c63de,20,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,246cfe6501e4ce743536e985d96918eec9a0dd30,30,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,1479727e59e2a5450fc6b2ec1490e4217f4a79d0,40,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,5005e76b8197e64ff2f6e5fc785f7716464dbcb3,50,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,192326bf7e7f6553fcaad450f7de71844710ec1f,60,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,295992e4d4106f88ae39ca3e62eea517bb85105e,70,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,acffce65ba59468800597828a30f322b8de7f9b5,80,False,,,,,,,,,,,,,,,,,,
+PlayEdu/PlayEdu,d5e410cb1f6887d35254301188e78fffcc436594,90,True,build.yml,33,0,5,0,1,1,0,2,0,0,0,0,0,1,0,0,0
+PlayEdu/PlayEdu,700da4c46860e1880ee2e3b962d3e2b126ebe27b,100,True,build.yml,33,0,5,0,1,1,0,2,0,0,0,0,0,1,0,0,0
+ReChronoRain/Cemiuiler,a4a915e630cf55205290552e2f225db885d06ae1,0,False,,,,,,,,,,,,,,,,,,
+ReChronoRain/Cemiuiler,6d1a5799bcf78680d62b0fa80751615d2409e48d,10,False,,,,,,,,,,,,,,,,,,
+ReChronoRain/Cemiuiler,d1a22dd6086ff64c261e6ba553cc47a7a5c43526,20,False,,,,,,,,,,,,,,,,,,
+ReChronoRain/Cemiuiler,ba19c5fc134b179a0541c4940ccf4d416b4d8c76,30,False,,,,,,,,,,,,,,,,,,
+ReChronoRain/Cemiuiler,b72beb284c73a5b9c886cbfe1af6683e608de01c,40,True,android.yml,58,1,6,3,1,0,0,8,0,0,1,0,1,1,0,0,0
+ReChronoRain/Cemiuiler,272a39d9fa0d0485abe08ae168b172801e0c39ba,50,True,android.yml,59,2,6,3,1,0,0,8,0,0,1,0,1,1,0,0,0
+ReChronoRain/Cemiuiler,3336681e23838ecdf2acd38bd7b13e1b8ceec9c6,60,True,android.yml,61,2,6,3,1,0,0,8,0,0,1,0,1,1,0,0,0
+ReChronoRain/Cemiuiler,21ebc5be62cec44be9f5f38100b82186b7ad359d,70,True,android.yml,62,2,6,3,1,0,0,8,0,0,1,0,1,1,0,0,0
+ReChronoRain/Cemiuiler,956b7d7f87b449ee379ba907522c091bc83b8411,80,True,android.yml,62,2,6,3,1,0,0,8,0,0,1,0,1,1,0,0,0
+ReChronoRain/Cemiuiler,4cc6e01c9f2cd12d95d953982329b21bbddb8223,90,True,android.yml,62,2,6,3,1,0,0,8,0,0,1,0,1,1,0,0,0
+ReChronoRain/Cemiuiler,42efe5c8d3878a6f9b12cd70584e26e32bdfa061,100,True,android.yml,62,2,6,3,1,0,0,8,0,0,1,0,1,1,0,0,0
+qaiu/netdisk-fast-download,28cb764c81b7c0c59cabfb4bfb630757d40dd2a3,0,False,,,,,,,,,,,,,,,,,,
+qaiu/netdisk-fast-download,b4134aaf64542f2d60c425927dc30df4ce88be0d,10,False,,,,,,,,,,,,,,,,,,
+qaiu/netdisk-fast-download,aa3bb83648960e13ecf8e5088232bfcc8120db5b,20,True,maven.yml,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+qaiu/netdisk-fast-download,2596e58943c76e769b0fc8233fedd7e6445bdc69,30,True,maven.yml,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+qaiu/netdisk-fast-download,9d3fce3deeeeecd8efa7503f039a98731a105c12,40,True,maven.yml,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+qaiu/netdisk-fast-download,d6575d5b81013ea24f919ea45479f2c778d2b7d1,50,True,maven.yml,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+qaiu/netdisk-fast-download,ca06d5ae9852e40afbe18fa04cf6615bde27f3a9,60,True,maven.yml,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+qaiu/netdisk-fast-download,18478b2a0bad8e0ee3db6202b60da3b272100601,70,True,maven.yml,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+qaiu/netdisk-fast-download,7e31adcad9739c42fd49c0ba194970d9536762bd,80,True,maven.yml,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+qaiu/netdisk-fast-download,d5e2b9cb3ec88d1402e79a19f98fd2a93043a2f4,90,True,maven.yml,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+qaiu/netdisk-fast-download,d5e2b9cb3ec88d1402e79a19f98fd2a93043a2f4,100,True,Loaded from cache,34,11,4,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+apache/incubator-fury,4c6b862b063f90698d0cf0aef34c2823fc12ab20,0,False,,,,,,,,,,,,,,,,,,
+apache/incubator-fury,7b27d28c16145f5222d6789361893023546fb5e7,10,True,ci.yml,42,0,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+apache/incubator-fury,9ee7ae9f07518ab99d5d8202087a0840344aeced,20,True,ci.yml,84,2,17,0,5,0,0,0,0,0,0,0,0,0,1,0,0
+apache/incubator-fury,c1597cfcd742f34ae1fd12624d0679c06de43928,30,True,"ci.yml, sync.yml",112,3,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+apache/incubator-fury,9671d2468f0c68fdcf46d272cc0bd2eac6b3a252,40,True,"ci.yml, release-java.yaml, release.yaml, sync.yml",261,55,2,0,1,0,0,4,0,0,1,0,1,0,0,0,0
+apache/incubator-fury,f8f92d79ee0d0b3ecea33d04e21c30e49be8d167,50,True,"ci.yml, release-java.yaml, release.yaml, sync.yml",261,55,2,0,1,0,0,4,0,0,1,0,1,0,0,0,0
+apache/incubator-fury,637c0b414a831a9295f393dd40c87561a40e3661,60,True,"ci.yml, release-java.yaml, release.yaml, sync.yml",303,56,2,0,1,0,0,4,0,0,1,0,1,0,0,0,0
+apache/incubator-fury,dea89a6329f2377476e1e3f24f0a79aac7940d68,70,True,"ci.yml, release-java.yaml, release.yaml, sync.yml",317,56,2,0,1,0,0,4,0,0,1,0,1,0,0,0,0
+apache/incubator-fury,fa7c7a178ef7d3c6776e3d562eff6e683732d49d,80,True,"ci.yml, release-java.yaml, release.yaml, sync.yml",336,57,2,0,1,0,0,5,0,0,1,0,1,0,0,0,0
+apache/incubator-fury,d2bf62e94bd74b68bfe3d758a9ba84f08a993436,90,True,"ci.yml, release-java-snapshot.yaml, release.yaml, sync.yml",341,67,2,0,1,0,0,5,0,0,1,0,1,0,0,0,0
+apache/incubator-fury,ba374001dc9b6905171dbea7ca0dd64cbf09316d,100,True,"ci.yml, pr-lint.yml, release-java-snapshot.yaml, release.yaml, sync.yml",433,124,2,0,1,0,0,6,0,0,1,1,1,0,0,0,0
+HamaWhiteGG/langchain-java,a79f4990cfaacb03bf85d018a13b19a39d97b981,0,False,,,,,,,,,,,,,,,,,,
+HamaWhiteGG/langchain-java,dcb4853c3eca19f41e742031410f2ce369e18105,10,False,,,,,,,,,,,,,,,,,,
+HamaWhiteGG/langchain-java,44d3cbcb2931db45c18d17d15d2750369b8e33e8,20,True,"maven-build.yml, maven-publish.yml",56,8,4,0,1,0,0,4,0,0,1,0,1,0,0,0,1
+HamaWhiteGG/langchain-java,2536b15cb92302608f2a43c43b057615efcdd356,30,True,"maven-build.yml, maven-publish.yml",56,8,4,0,1,0,0,4,0,0,1,0,1,0,0,0,1
+HamaWhiteGG/langchain-java,87112542a0b3f4f148f692760371e4c62a1a8702,40,True,"maven-build.yml, maven-publish.yml",56,8,4,0,1,0,0,4,0,0,1,0,1,0,0,0,1
+HamaWhiteGG/langchain-java,a92a4845b5c9772c75d3f9cbfcf5551f2387f7ef,50,True,"maven-build.yml, maven-publish.yml",56,8,4,0,1,0,0,4,0,0,1,0,1,0,0,0,1
+HamaWhiteGG/langchain-java,5dbfacf5c727f0e03d4d133c782688224c7a70c0,60,True,"maven-build.yml, maven-javadoc.yml, maven-publish.yml",120,15,4,0,1,0,0,7,0,0,1,0,1,0,0,0,1
+HamaWhiteGG/langchain-java,aac53a30c2fcae2bb207c15ddd7181fda5ad796a,70,True,"maven-build.yml, maven-javadoc.yml, maven-publish.yml",120,15,4,0,1,0,0,7,0,0,1,0,1,0,0,0,1
+HamaWhiteGG/langchain-java,9f8ba2cac8eefea2adb4f9746b78e2d4ed1a025b,80,True,"maven-build.yml, maven-javadoc.yml, maven-publish.yml",120,15,4,0,1,0,0,7,0,0,1,0,1,0,0,0,1
+HamaWhiteGG/langchain-java,1c3978ecdc1898c30a5b23e39e9105fa4c0cebb2,90,True,"maven-build.yml, maven-javadoc.yml, maven-publish.yml",120,15,4,0,1,0,0,7,0,0,1,0,1,0,0,0,1
+HamaWhiteGG/langchain-java,43316d61b3829e8eb377872cd4e9245e71193bc2,100,True,"maven-build.yml, maven-javadoc.yml, maven-publish.yml",120,15,4,0,1,0,0,7,0,0,1,0,1,0,0,0,1
+chat2db/Chat2DB,a8c0d8deb10479ad9e5445fee7795ba81048758b,0,False,,,,,,,,,,,,,,,,,,
+chat2db/Chat2DB,3a382648d40290d886284482ed29ae33b58370b1,10,True,"ci.yml, pushdocker.yml, release.yml, release_test.yml, test.yml",604,124,0,38,0,0,0,46,0,0,1,0,1,0,0,0,0
+chat2db/Chat2DB,6ca00f7a0adadbb991278a5c6ce59ca40934047a,20,True,"ci.yml, pushdocker.yml, release.yml, release_test.yml, test.yml",711,136,0,46,0,0,0,50,0,0,1,0,1,0,0,0,0
+chat2db/Chat2DB,59b31f5e410fab494df5dfa4c06d8b1434e5d2f9,30,True,"ci.yml, pushdocker.yml, release.yml, release_test.yml, test.yml, test_linux.yml",838,256,0,55,0,0,0,54,0,0,1,0,1,0,0,0,0
+chat2db/Chat2DB,b510bca8f93c7dbad73f76871986f6b9383462fd,40,True,"ci.yml, pushdocker.yml, release.yml, release_test.yml, test.yml, test_linux.yml",838,256,0,55,0,0,0,54,0,0,1,0,1,0,0,0,0
+chat2db/Chat2DB,13a58c15e04a08c9d6893e80f05241f332404009,50,True,"ci.yml, pushdocker.yml, release.yml, release_test.yml, test.yml, test_linux.yml",840,256,0,55,0,0,0,54,0,0,1,0,1,0,0,0,0
+chat2db/Chat2DB,2dabb8eb39b3368c199fa8e1dc546e3993bc8971,60,True,"ci.yml, pushdocker.yml, release.yml, release_test.yml, test.yml, test_linux.yml",840,256,0,55,0,0,0,54,0,0,1,0,1,0,0,0,0
+chat2db/Chat2DB,7d428305b7a002646b5299630e95212d5110901a,70,True,"ci.yml, pushdocker.yml, release.yml, release_test.yml, test.yml",721,132,0,49,0,0,0,50,0,0,1,0,1,0,0,0,0
+chat2db/Chat2DB,6f46d9a5b69950cfe3b0a4524563d54cbff963c9,80,True,"pushdocker.yml, release.yml, release_test.yml",675,99,35,49,1,0,0,46,0,0,1,0,1,2,1,1,1
+chat2db/Chat2DB,5549908aaa37d12274bd2e4fc8637c4800720573,90,True,"pushdocker.yml, release.yml, release_test.yml",565,77,18,28,1,0,0,34,0,0,1,0,1,2,1,1,1
+chat2db/Chat2DB,e7cb30bdb6bad40c08d45899070271094a4f0d8a,100,True,"pushdocker.yml, release.yml, release_test.yml, release_test_2.yml",750,97,18,32,1,0,0,44,0,0,1,0,1,2,1,1,1
+constanline/XQuickEnergy,69f1a5b215332403ffe644c95b09197c753706eb,0,False,,,,,,,,,,,,,,,,,,
+constanline/XQuickEnergy,dce8ec131beba2472d01e2e68f7e874d1bb26f64,10,False,,,,,,,,,,,,,,,,,,
+constanline/XQuickEnergy,e3558c07933ec964b5e5ab4940697f9ad30aa62b,20,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+constanline/XQuickEnergy,8e31ae3cfb8e708cdd1d95c0fa04213d475296be,30,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+constanline/XQuickEnergy,d2be13216821d8a59f118b03c41ea291ea5a1423,40,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+constanline/XQuickEnergy,801499a8d13ce4fb15c8ce0d4daf3655d5d67e8d,50,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+constanline/XQuickEnergy,acd794354ce4357c6b557d0c76bae4facbbe85f2,60,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+constanline/XQuickEnergy,b82e7127e15921520dafbfdde8ef8969f8a9a32c,70,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+constanline/XQuickEnergy,d78284dc325ddf08d3b2ee5addb4e32ad1354e7a,80,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+constanline/XQuickEnergy,b6e0f300b9cd78b4dc5f727e1daf047586b048d7,90,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+constanline/XQuickEnergy,d78683c79639ada3584299cb84f599649e5a5e2f,100,True,release.yml,38,0,6,0,1,0,0,4,0,0,0,0,0,1,0,1,1
+AutoMQ/automq,de409b389d26f7681fba8583db2b96584258aa48,0,True,stale.yml,51,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+AutoMQ/automq,4959dd5e8cfd49a849319236246e13c035c8df2e,10,False,,,,,,,,,,,,,,,,,,
+AutoMQ/automq,cdf726fd358f9be3438ceefb01073ab40a31a8b4,20,True,stale.yml,51,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+AutoMQ/automq,7fd164f1a4e443af36198cd0b186929ff58645e2,30,False,,,,,,,,,,,,,,,,,,
+AutoMQ/automq,ebf435e7188c340980973708fbdcefe2f46d4fdc,40,True,stale.yml,51,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+AutoMQ/automq,7aade70cc69657c3a6f0d4ebdbbdaa8a4648cd52,50,True,"docker_build_and_test.yml, docker_promote.yml, docker_rc_release.yml, stale.yml",211,57,1,4,1,0,0,4,0,0,0,0,0,0,0,0,0
+AutoMQ/automq,6ff21ee1e009a5a2729bb105591a9bfa16c6c4c5,60,True,"docker_build_and_test.yml, docker_promote.yml, docker_rc_release.yml, stale.yml",211,57,1,4,1,0,0,4,0,0,0,0,0,0,0,0,0
+AutoMQ/automq,310fbeb2d170f189a757d604fe1be8349ddfe24f,70,False,,,,,,,,,,,,,,,,,,
+AutoMQ/automq,33a22e4c25e0b640ce0b53bf4eccfc700cef6d94,80,False,,,,,,,,,,,,,,,,,,
+AutoMQ/automq,155a6c0fac195e881b533f69ca5bd7fdf951a4fc,90,True,"build.yml, build_kos.yml, docker-release.yml, docker_build_and_test.yml, docker_promote.yml, docker_rc_release.yml, e2e-run.yml, github-release.yml, nightly-extra-e2e.yml, nightly-main-e2e.yml, stale.yml, validate_pr_title.yml",643,106,0,20,0,0,0,14,0,0,1,1,1,0,0,0,0
+AutoMQ/automq,0412ffa9e09e7874de60b14f79331e7ef1dd0b24,100,True,"build.yml, build_automq.yml, docker-release.yml, docker_build_and_test.yml, docker_promote.yml, docker_rc_release.yml, docker_scan.yml, e2e-run.yml, github-release.yml, nightly-extra-e2e.yml, nightly-main-e2e.yml, stale.yml, validate_pr_title.yml",669,122,0,21,0,0,0,14,0,0,1,1,1,0,0,0,0
+jbellis/jvector,93708075707541b4e501614a63c26d2e68ef660e,0,False,,,,,,,,,,,,,,,,,,
+jbellis/jvector,b03125d9059068c6cd97f6b5634774c1f61e1a61,10,False,,,,,,,,,,,,,,,,,,
+jbellis/jvector,11beefbbdb19761efae5b1029611b69c79a26624,20,True,unit-tests.yaml,30,0,4,2,1,0,0,0,0,0,1,0,1,1,0,0,0
+jbellis/jvector,143f5fb3e3c23de9e2c201995b26da5db164f0f7,30,True,unit-tests.yaml,30,0,4,2,1,0,0,0,0,0,1,0,1,1,0,0,0
+jbellis/jvector,934a6dc91985e42b7836ad5038198af73d3c836d,40,True,unit-tests.yaml,35,0,4,2,1,0,0,0,0,0,1,0,1,1,0,0,0
+jbellis/jvector,89309e85a8c86df42b4a563bd31577c5930346cd,50,True,unit-tests.yaml,35,0,4,2,1,0,0,0,0,0,1,0,1,1,0,0,0
+jbellis/jvector,6c0f3966d995adc0716a26d70b5c7be36d3be05d,60,True,unit-tests.yaml,35,0,4,2,1,0,0,0,0,0,1,1,1,1,0,0,0
+jbellis/jvector,6e1ae9a67eb92b78f36ff5fed5187e80e0104c19,70,True,unit-tests.yaml,35,0,4,2,1,0,0,0,0,0,1,1,1,1,0,0,0
+jbellis/jvector,5ac45f59f09eee136ae0a2601dda508ebf334d79,80,True,unit-tests.yaml,35,0,4,2,1,0,0,0,0,0,1,1,1,1,0,0,0
+jbellis/jvector,e06f227551756da5682ed0f29a1aacb016450c82,90,True,unit-tests.yaml,35,0,4,2,1,0,0,0,0,0,1,1,1,1,0,0,0
+jbellis/jvector,6823326da46f2fbca3b1b8c45e59e3b177bc4125,100,True,unit-tests.yaml,35,0,4,2,1,0,0,0,0,0,1,1,1,1,0,0,0
